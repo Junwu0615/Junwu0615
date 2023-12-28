@@ -28,30 +28,49 @@
 <!-- Languages and Tools -->
 <table align="center">
 <th> Languages and Tools </th>
-<td> <img width="30px" src="https://miro.medium.com/max/3150/1*iDQvKoz7gGHc6YXqvqWWZQ.png"/> </td>
-<td> <img width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </td>
-<td> <img width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </td>
-<td> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> </td>
-<td> <img width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> </td>
-<td> <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </td>
-<td> <img width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/> </td>
+<td> <a href="https://icons8.com/icons/set/tensorflow"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/TF.png"/> </a> </td>
+<td> <a href="https://icons8.com/icons/set/python"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/py.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/40670/c-programming"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/c.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/20909/html-5"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/html.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/21278/css3"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/css.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/20906/git"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/git.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/zuHqpgzrusU5/github"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/github.png"/> </a> </td>
 </table>
 
 <!-- Softwares -->
 <table align="center">
 <th> Softwares </th>
-<td> <img width="30px" src="https://img.icons8.com/fluency/96/anaconda--v2.png"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-project-jupyter-a-nonprofit-organization-created-to-open-source-software-logo-shadow-tal-revivo.png"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/fluency/96/000000/spyder-ide-5.png"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/fluency/96/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/fluency/96/visual-studio.png"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/fluency/96/adobe-acrobat.png"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/color/96/adobe-photoshop--v1.png"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/color/96/adobe-premiere-pro--v1.png"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/color/96/adobe-after-effects--v1.png" alt="adobe-after-effects--v1"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/fluency/96/microsoft-word-2019.png" alt="microsoft-word-2019"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/color/96/microsoft-powerpoint-2019--v1.png"/> </td>
-<td> <img width="30px" src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> </td>
+<td> <a href="https://icons8.com/icon/F4uMFPZgS0gt/anaconda"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/anaconda.png"/> </a> </td>
+<td> <a href="https://icons8.com/icons/set/jupyter"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/jupyter.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/0S1Hoidfnk7H/spyder-ide-5"> 
+<img width="32px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/spyder.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/vscode.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/ezj3zaVtImPg/visual-studio"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/vs.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/rZObyIJRui2T/adobe-acrobat"> 
+<img width="40px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/acrobat.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/13677/adobe-photoshop"> 
+<img width="40px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/ps.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/19COCVtnXZTL/premiere-is-a-timeline-based-video-editing-app-developed-by-adobe"> 
+<img width="30px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/pr.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/xJrARduBtbzG/adobe-after-effects-a-digital-visual-effects,-motion-graphics,-and-compositing-application"> 
+<img width="30px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/ae.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/117563/microsoft-word-2019"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/word.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/ifP93G7BXUhU/microsoft-powerpoint-2019"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/ppt.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/117561/microsoft-excel-2019"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/excel.png"/> </a> </td>
 </table>
 
 <!-- Greedy Snake -->
@@ -74,17 +93,17 @@
 <tr><td>
 
 <!-- Machine Learning -->
-| Title | Stars | Technologies |
+| Title | Clone | Technologies |
 |--|--|--|
-| [LCII-Rec-Model](https://github.com/Junwu0615/LCII-Rec-Model) |  <img alt="Stars" src="https://img.shields.io/github/stars/Junwu0615/LCII-Rec-Model?style=flat-square&labelColor=black"> | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white) |
+| [LCII-Rec-Model](https://github.com/Junwu0615/LCII-Rec-Model) |  <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Junwu0615/7f654406c51d568d31d565347f22d609/raw/LCII-Rec-Model_clone.json&logo=github"> | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white) |
 </td><td>
 
 <!-- Crawler -->
-| Title | Stars | Technologies |
+| Title | Clone | Technologies |
 |--|--|--|
-| [Crawler-Keywords-And-Use-LineBot](https://github.com/Junwu0615/Crawler-Keywords-And-Use-LineBot) | <img alt="Stars" src="https://img.shields.io/github/stars/Junwu0615/Crawler-Keywords-And-Use-LineBot?style=flat-square&labelColor=black"> | ![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![NGROK](https://img.shields.io/badge/NGROK-1F1E37.svg?logo=ngrok&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) |
-| [Web-Crawler-News](https://github.com/Junwu0615/Web-Crawler-News) | <img alt="Stars" src="https://img.shields.io/github/stars/Junwu0615/Web-Crawler-News?style=flat-square&labelColor=black"> | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) |
-| [Web-Crawler-Download-Img](https://github.com/Junwu0615/Web-Crawler-Download-Img) | <img alt="Stars" src="https://img.shields.io/github/stars/Junwu0615/Web-Crawler-Download-Img?style=flat-square&labelColor=black"> | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) |
+| [Crawler-Keywords-And-Use-LineBot](https://github.com/Junwu0615/Crawler-Keywords-And-Use-LineBot) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Junwu0615/dc62dfdf2b0e2710dd9a47cebee51ffa/raw/Crawler-Keywords-And-Use-LineBot_clone.json&logo=github"> | ![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![NGROK](https://img.shields.io/badge/NGROK-1F1E37.svg?logo=ngrok&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) |
+| [Web-Crawler-News](https://github.com/Junwu0615/Web-Crawler-News) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Junwu0615/d1d16a79eeb95ac0c3e99a279c3b7365/raw/Web-Crawler-News_clone.json&logo=github"> | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) |
+| [Web-Crawler-Download-Img](https://github.com/Junwu0615/Web-Crawler-Download-Img) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Junwu0615/706da0097d75deeae8342f2203db8b19/raw/Web-Crawler-Download-Img_clone.json&logo=github"> | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) |
 </td></tr></table>
 
 <table align="center">
@@ -92,10 +111,10 @@
 <tr><td>
 
 <!-- Other -->
-| Title | Stars | Technologies |
+| Title | Clone | Technologies |
 |--|--|--|
-| [ROI-Tool](https://github.com/Junwu0615/ROI-Tool) |  <img alt="Stars" src="https://img.shields.io/github/stars/Junwu0615/ROI-Tool?style=flat-square&labelColor=black"> | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Eexcel-217346.svg?logo=microsoftexcel&logoColor=white) |
-| [Other](https://github.com/Junwu0615/Other) | <img alt="Stars" src="https://img.shields.io/github/stars/Junwu0615/Other?style=flat-square&labelColor=black"> | ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) |
+| [ROI-Tool](https://github.com/Junwu0615/ROI-Tool) |  <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Junwu0615/6c605b43f1b9dcb93f9c7b6c1a5103ab/raw/ROI-Tool_clone.json&logo=github"> | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Eexcel-217346.svg?logo=microsoftexcel&logoColor=white) |
+| [Other](https://github.com/Junwu0615/Other) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Junwu0615/b3c1224f6cd5e657a9bb85fd365842e2/raw/Other_clone.json&logo=github"> | ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) |
 </td></tr></table></details>
 </br>
 
