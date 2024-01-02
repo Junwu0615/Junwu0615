@@ -89,7 +89,7 @@
 </br>
     
 <table align="center">
-<tr><th> Machine Learning </th> <th> Crawler </th></tr> 
+<tr><th> Machine Learning </th> <th> Web Crawler </th></tr> 
 <tr><td>
 
 <!-- Machine Learning -->
@@ -98,7 +98,7 @@
 | [LCII-Rec-Model](https://github.com/Junwu0615/LCII-Rec-Model) |  <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Junwu0615/7f654406c51d568d31d565347f22d609/raw/LCII-Rec-Model_clone.json&logo=github"> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 </td><td>
 
-<!-- Crawler -->
+<!-- Web Crawler -->
 | Title | Clone | Technologies |
 |--|--|--|
 | [Crawler-Keywords-And-Use-LineBot](https://github.com/Junwu0615/Crawler-Keywords-And-Use-LineBot) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count&url=https://gist.githubusercontent.com/Junwu0615/dc62dfdf2b0e2710dd9a47cebee51ffa/raw/Crawler-Keywords-And-Use-LineBot_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![NGROK](https://img.shields.io/badge/NGROK-1F1E37.svg?logo=ngrok&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
