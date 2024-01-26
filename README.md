@@ -112,6 +112,7 @@
 <!-- Web Crawler -->
 | Title | Clone | Technologies |
 |--|--|--|
+| [LeetCode-Record-Sharing-Method](https://github.com/Junwu0615/LeetCode-Record-Sharing-Method) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.github.com/Junwu0615/df4349f01a564de4cf309a290098ba58/raw/LeetCode-Record-Sharing-Method_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [Crawler-Keywords-And-Use-LineBot](https://github.com/Junwu0615/Crawler-Keywords-And-Use-LineBot) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/dc62dfdf2b0e2710dd9a47cebee51ffa/raw/Crawler-Keywords-And-Use-LineBot_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![NGROK](https://img.shields.io/badge/NGROK-1F1E37.svg?logo=ngrok&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [Downloads-YT-To-MP3&MP4](https://github.com/Junwu0615/Downloads-YT-To-MP3-4) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/acb7aeb93f554e94a7a6db8e909bc0c6/raw/Downloads-YT-To-MP3-4_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![PyTube](https://img.shields.io/badge/PyTube-FF0000.svg?logo=YouTube&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [Web-Crawler-News](https://github.com/Junwu0615/Web-Crawler-News) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/d1d16a79eeb95ac0c3e99a279c3b7365/raw/Web-Crawler-News_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Eexcel-217346.svg?logo=microsoftexcel&logoColor=white) |
@@ -141,6 +142,19 @@
 </tr>
 </table> </details>
 </br></br>
+
+<!-- Other Stats -->
+<details open>
+<summary> 📈 Other Stats </summary>
+</br>
+<table align="center"> 
+<tr><th> LeetCode </th></tr>
+<tr>
+<td><img alt="LeetCode" src="other/leetcode.gif"></td>  
+</tr>
+</table> </details>
+</br></br>
+
 
 <!-- Now Playing -->
 ### Now Playing 🎧
