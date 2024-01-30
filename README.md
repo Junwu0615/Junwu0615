@@ -24,7 +24,6 @@
 
 </div>
 
-
 <!-- Languages and Tools -->
 <table align="center">
 <th> Languages and Tools </th>
@@ -154,7 +153,6 @@
 </tr>
 </table> </details>
 </br></br>
-
 
 <!-- Now Playing -->
 ### Now Playing 🎧
