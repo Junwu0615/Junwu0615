@@ -96,6 +96,7 @@
 | Title | Clone | Technologies |
 |--|--|--|
 | [LCII-Rec-Model](https://github.com/Junwu0615/LCII-Rec-Model) |  <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/7f654406c51d568d31d565347f22d609/raw/LCII-Rec-Model_clone.json&logo=github"> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
+| [NVDA-Price-Stock-Prediction](https://github.com/Junwu0615/NVDA-Price-Stock-Prediction) |  <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/05f5b34eedbee0ef7d196fdb42ee61f6/raw/NVDA-Price-Stock-Prediction_clone.json&logo=github"> | ![Keras](https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 </td><td>
 
 <!-- Web -->
