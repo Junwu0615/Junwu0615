@@ -6,7 +6,7 @@
 <!-- Introduction -->
 <p align="center">
 <a href="https://github.com/Junwu0615">
-<img repeat=false src="https://readme-typing-svg.demolab.com?font=Handlee&center=true&vCenter=true&duration=1500&pause=1000&multiline=true&size=25&width=600&height=125&lines=Ping+Chun;2020:+USC+IM+|+2023:+FCU+IE+|+2024:+Data+Scientist;Social+Animals+%7C+Data+Scientist+%7C+Forex+Researcher;AI+%7C+Recommendaion+System+%7C+Web+Crawler+%7C+Bots" alt="Typing SVG" />
+<img repeat=false src="https://readme-typing-svg.demolab.com?font=Handlee&center=true&vCenter=true&duration=2000&pause=3000&multiline=true&size=25&width=600&height=125&lines=Ping+Chun;2020:+USC+IM+|+2023:+FCU+IE+|+2024:+Data+Scientist;Social+Animals+%7C+Data+Scientist+%7C+Forex+Researcher;AI+%7C+Recommendaion+System+%7C+Web+Crawler+%7C+Bots" alt="Typing SVG" />
 </a></p>
 <br/>
 
@@ -24,11 +24,9 @@
 
 </div>
 
-<!-- Languages and Tools -->
+<!-- Languages -->
 <table align="center">
-<th> Languages and Tools </th>
-<td> <a href="https://icons8.com/icons/set/tensorflow"> 
-<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/TF.png"/> </a> </td>
+<th> Languages </th>
 <td> <a href="https://icons8.com/icons/set/python"> 
 <img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/py.png"/> </a> </td>
 <td> <a href="https://icons8.com/icon/40670/c-programming"> 
@@ -37,15 +35,30 @@
 <img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/html.png"/> </a> </td>
 <td> <a href="https://icons8.com/icon/21278/css3"> 
 <img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/css.png"/> </a> </td>
+</table>
+
+<!-- Skills -->
+<table align="center">
+<th> Skills </th>
+<td> <a href="https://icons8.com/icons/set/tensorflow"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/TF.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/z2pN6mJXIC4u/keras"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/Keras.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/jH4BpkMnRrU5/pytorch"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/pytorch.png"/> </a> </td>
+<td> <a href="https://icons8.com/icon/cdYUlRaag9G9/docker"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/docker.png"/> </a> </td>
 <td> <a href="https://icons8.com/icon/20906/git"> 
 <img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/git.png"/> </a> </td>
 <td> <a href="https://icons8.com/icon/zuHqpgzrusU5/github"> 
 <img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/github.png"/> </a> </td>
 </table>
 
-<!-- Softwares -->
+<!-- Program Softwares -->
 <table align="center">
-<th> Softwares </th>
+<th> Program Softwares </th>
+<td> <a href="https://icons8.com/icon/B5T4RdBJefjF/pycharm"> 
+<img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/pycharm.png"/> </a> </td>
 <td> <a href="https://icons8.com/icon/F4uMFPZgS0gt/anaconda"> 
 <img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/anaconda.png"/> </a> </td>
 <td> <a href="https://icons8.com/icons/set/jupyter"> 
@@ -56,6 +69,11 @@
 <img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/vscode.png"/> </a> </td>
 <td> <a href="https://icons8.com/icon/ezj3zaVtImPg/visual-studio"> 
 <img width="35px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/vs.png"/> </a> </td>
+</table>
+
+<!-- Base Softwares -->
+<table align="center">
+<th> Base Softwares </th>
 <td> <a href="https://icons8.com/icon/rZObyIJRui2T/adobe-acrobat"> 
 <img width="40px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/acrobat.png"/> </a> </td>
 <td> <a href="https://icons8.com/icon/13677/adobe-photoshop"> 
