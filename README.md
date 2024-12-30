@@ -180,6 +180,31 @@
 </p>
 <br>
 
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Junwu0615&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=5&margin-h=5" />
+</p>
+
+<!-- My GitHub Stat -->
+<details open>
+    <summary> 📊 GitHub Stat </summary>
+    <br>
+    <table align="center"> 
+        <tr>
+            <th> Repos </th>
+            <th> Profile </th>
+        </tr>
+        <tr>
+            <td>
+                <img alt="Repos" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Junwu0615&theme=dracula">
+            </td>  
+            <td>
+                <img alt="Profile" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junwu0615&theme=dracula">
+            </td>
+        </tr>
+    </table> 
+</details>
+
+<br>
 <!-- Open-Source Projects -->
 <details open>
 <summary> 🖥️ Open-Source Projects </summary>
@@ -250,31 +275,9 @@
 
 <br>
 
-<!-- My GitHub Stats -->
+<!-- Other Stat -->
 <details open>
-    <summary> 📊 GitHub State </summary>
-    <br>
-    <table align="center"> 
-        <tr>
-            <th> Repos </th>
-            <th> Profile </th>
-        </tr>
-        <tr>
-            <td>
-                <img alt="Repos" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Junwu0615&theme=dracula">
-            </td>  
-            <td>
-                <img alt="Profile" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junwu0615&theme=dracula">
-            </td>
-        </tr>
-    </table> 
-</details>
-
-<br>
-
-<!-- Other Stats -->
-<details open>
-    <summary> 📈 Other Stats </summary>
+    <summary> 📈 Other Stat </summary>
     <br>
     <table align="center"> 
         <tr>
