@@ -288,7 +288,7 @@ shields.io: https://shields.io/docs/logos
 <!-- Data Visualization -->
 | <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
 |--|:--:|--|
-| [Using-Streamlit-Create-Dashboard](https://github.com/Junwu0615/Using-Streamlit-Create-Dashboard) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/bba308b4514074dc7b93d762906f329b/raw/Using-Streamlit-Create-Dashboard_clone.json&logo=github"> | ![Streamlit](https://img.shields.io/badge/Streamlit-167C80.svg?logo=streamlit) ![Streamlit_Cloud](https://img.shields.io/badge/Streamlit_Cloud-41454A.svg?logo=icloud) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
+| [Using-Streamlit-Create-Dashboard](https://github.com/Junwu0615/Using-Streamlit-Create-Dashboard) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/bba308b4514074dc7b93d762906f329b/raw/Using-Streamlit-Create-Dashboard_clone.json&logo=github"> | ![Streamlit](https://img.shields.io/badge/Streamlit-167C80.svg?logo=streamlit) ![Streamlit_Cloud](https://img.shields.io/badge/Streamlit_Cloud-41454A.svg?logo=icloud) ![Google_Sheet](https://img.shields.io/badge/Google_Sheet-3F4F95.svg?logo=googlesheets) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 
 </td> </table>
 
