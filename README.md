@@ -13,15 +13,14 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 <!-- Font Name: Larry 3D, Merlin1, Ogre, Calvin S, Cyberlarge, Isometric3, Slant, Lean, Kban,  JS Cursive -->
 
 ```
-                                          ,_    .  ,__,   __      __   /_        ,__, 
-                                         _/_)__/__/ / (__(_/_   _(_,__/ (__(_/__/ / (_
-                                         /               _/_   
-                                        /               (/     
+                                        ,_    .  ,__,   __      __   /_        ,__, 
+                                       _/_)__/__/ / (__(_/_   _(_,__/ (__(_/__/ / (_
+                                       /               _/_   
+                                      /               (/     
 ```
 
 <br>
 <!-- Introduction -->
-
 <p align="center">
     <a href="https://github.com/Junwu0615">
         <img src="https://readme-typing-svg.demolab.com?font=Handlee&center=true&vCenter=true&duration=1800&pause=1000&multiline=true&size=25&width=860&height=150&lines=2020+:+Shih+Chien+University+-+IM+;2023+:+Feng+Chia+University+-+CSIE;2024+:+Data+Scientist+(+Hsinchu+);2025+:+???;" alt="Typing SVG"/>
@@ -32,7 +31,7 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 <!-- shield.io -->
 <div align="center">
 
-[![](https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615)](https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615&title=Visitor)](https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615)
 [![Dashboard](https://img.shields.io/badge/-Dashboard-167C80?style=flat&logo=streamlit&logoColor=white&link=https://pc-dashboard.streamlit.app/)](https://pc-dashboard.streamlit.app/)
 [![Mail Badge](https://img.shields.io/badge/-jun.audis5@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jun.audis5@gmail.com)](mailto:jun.audis5@gmail.com)
 
@@ -218,6 +217,8 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
     </td>
 </table>
 
+
+
 <!-- Greedy Snake: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 <p align="center">
     <picture>
@@ -226,34 +227,13 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
         <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/output/github-contribution-grid-snake.svg">
     </picture>
 </p>
-<br>
+
+
 
 <!-- Trophy: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Junwu0615&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=5&margin-h=5" />
 </p>
-
-<!-- My GitHub Stat -->
-<details open>
-    <summary> 📊 GitHub Stat </summary>
-    <br>
-    <table align="center"> 
-        <tr>
-            <th> Repos </th>
-            <th> Profile </th>
-        </tr>
-        <tr>
-            <td>
-                <img alt="Repos" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Junwu0615&theme=dracula">
-            </td>  
-            <td>
-                <img alt="Profile" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junwu0615&theme=dracula">
-            </td>
-        </tr>
-    </table> 
-</details>
-
-<br>
 
 <!-- Open-Source Projects -->
 <details open>
@@ -267,11 +247,11 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 <!-- LLM -->
 | <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
 |--|:--:|--|
-| [PC-Bot-With-GenAI](https://github.com/Junwu0615/PC-Bot-With-GenAI) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/8c304a23bb8dad13ba9658dbaa3f806c/raw/PC-Bot-With-GenAI_clone.json&logo=github"> | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2.svg?logo=googlegemini&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![SQL_Server](https://img.shields.io/badge/SQL_Server-646565.svg?logo=data:image/jpeg;base64,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) ![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![NGROK](https://img.shields.io/badge/NGROK-1F1E37.svg?logo=ngrok&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
+| [PC-Bot-With-GenAI](https://github.com/Junwu0615/PC-Bot-With-GenAI) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/8c304a23bb8dad13ba9658dbaa3f806c/raw/PC-Bot-With-GenAI_clone.json&logo=github"> | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2.svg?logo=googlegemini&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![SQL_Server](https://img.shields.io/badge/SQL_Server-646565.svg?logo=data:image/jpeg;base64,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)<br>![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![NGROK](https://img.shields.io/badge/NGROK-1F1E37.svg?logo=ngrok&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 
 </td> </table>
 
-<br>
+
 
 <table width='1000' align="center">
 <tr> <th> Machine Learning </th> </tr>
@@ -285,7 +265,7 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 
 </td> </table>
 
-<br>
+
 
 <table width='1000' align="center">
 <tr> <th> Backend </th> </tr>
@@ -294,7 +274,7 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 <!-- Backend -->
 | <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
 |--|:--:|--|
-| [CAED feat.DL](https://github.com/dl-jack-123/CAED) | <img alt='GitHub Views' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/dl-jack-123/7b40f4b7a8ef0f41258dd5343a77e1a9/raw/CAED_clone.json&logo=github](https://github.com/Junwu0615/How-To-Use-Clone-Shields'> | ![Apache_Airflow](https://img.shields.io/badge/Apache_Airflow-000000.svg?logo=apacheairflow&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=PostgreSQL&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white) ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
+| [CAED feat.DL](https://github.com/dl-jack-123/CAED) | <img alt='GitHub Views' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/dl-jack-123/7b40f4b7a8ef0f41258dd5343a77e1a9/raw/CAED_clone.json&logo=github'> | ![Apache_Airflow](https://img.shields.io/badge/Apache_Airflow-000000.svg?logo=apacheairflow&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=PostgreSQL&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white) ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [Airflow-Template](https://github.com/Junwu0615/Airflow-Template) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/c7cc2b44b987253f9efcf042e839837e/raw/Airflow-Template_clone.json&logo=github"> | ![Apache_Airflow](https://img.shields.io/badge/Apache_Airflow-000000.svg?logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [Database-Template](https://github.com/Junwu0615/Database-Template) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/65eaa98eafcee3f625a269fa70451f8a/raw/Database-Template_clone.json&logo=github"> | ![SQL_Server](https://img.shields.io/badge/SQL_Server-646565.svg?logo=data:image/jpeg;base64,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) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [Forex-Get-Quotes](https://github.com/Junwu0615/Forex-Get-Quotes) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/4bb80a5b6974941fbee54b711ec077bc/raw/Forex-Get-Quotes_clone.json&logo=github"> | ![SQL_Server](https://img.shields.io/badge/SQL_Server-646565.svg?logo=data:image/jpeg;base64,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) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white) ![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
@@ -305,7 +285,7 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 
 </td> </table>
 
-<br>
+
 
 <table width='1000' align="center">
 <tr> <th> Data Visualization </th> </tr>
@@ -318,7 +298,7 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 
 </td> </table>
 
-<br>
+
 
 <table width='1000' align="center">
 <tr> <th> Web Crawler </th> </tr> 
@@ -327,7 +307,7 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 <!-- Web Crawler -->
 | <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
 |--|:--:|--|
-| [Crawler-Keywords-And-Use-LineBot](https://github.com/Junwu0615/Crawler-Keywords-And-Use-LineBot) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/dc62dfdf2b0e2710dd9a47cebee51ffa/raw/Crawler-Keywords-And-Use-LineBot_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![NGROK](https://img.shields.io/badge/NGROK-1F1E37.svg?logo=ngrok&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
+| [Crawler-Keywords-And-Use-LineBot](https://github.com/Junwu0615/Crawler-Keywords-And-Use-LineBot) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/dc62dfdf2b0e2710dd9a47cebee51ffa/raw/Crawler-Keywords-And-Use-LineBot_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![NGROK](https://img.shields.io/badge/NGROK-1F1E37.svg?logo=ngrok&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [LeetCode-Record-Sharing-Method](https://github.com/Junwu0615/LeetCode-Record-Sharing-Method) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.github.com/Junwu0615/df4349f01a564de4cf309a290098ba58/raw/LeetCode-Record-Sharing-Method_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)|
 | [Downloads-YouTube-To-MP3&MP4](https://github.com/Junwu0615/Downloads-YouTube-To-MP3-4)| <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/acb7aeb93f554e94a7a6db8e909bc0c6/raw/Downloads-YouTube-To-MP3-4_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-C5242C.svg?logo=YouTube&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [Web-Crawler-News](https://github.com/Junwu0615/Web-Crawler-News) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/d1d16a79eeb95ac0c3e99a279c3b7365/raw/Web-Crawler-News_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![CSV](https://img.shields.io/badge/CSV-44825D.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAEjklEQVR4nO2YCU8TQRTH++G8o1Gj8SKAIJGopGgUvFC0RZBLJOUoUMrZWrlLLbVba1RUItGAeF8w3+SZt7jbmS3FkpjszPomeQnMvJltf/3PvP+sy0WNGjVq1PJuRYFqkDEKA1ULSvyMdoMqUh2i8WE1lpYijM9TEryyDrG36qVL5iYrwMXVlQxEmZUoK0BsSkCUGaASEGUHKD1EFQBKDVEVgNJCVAmglBBVAygdRBUBSgVRVYDSQFQZoBQQVQdoO0QnALQVolMA2gbRSQBtgSgrwKJ/FAQwQADBTiX/dwrUCGDadnikQEYAgRTI7IdAW5gRQLBbSVREGAEEu9VENoYRQMgFIfotDr7nQWhMdsL9p30QeT+VlZNYS0HwTRhaUn5oSnVDz+thiP9K6mOPfjyG3oVRMyIr05b154Tx8U9RZxjpma9xOB+6Ddu9RbDNU2jGwZZyIa9zfkDv43MwCjoq9fHZbwnY7smsUTF8Q5iP0Pl53fOD6gOc+BiFw21ns6BgnBm4LsDj4fBxjgN1pL3C7D/ucwvPujpx1xzDtfCHUxrg49UUFHZdEGAcuX8OqsfqdUU2aV1mHq+83XdK9PHL4w1w0n8JPLE2c03sN/J21hXrc42x8uA17jkVeX9OaQG2PhG3VGXoln7GWfOG3kaEPDy/rD+E8Xez1iXkRlYy5yiv9Athj/oACzoqzS+0v7kc4j/Xi4E1sLDwUHLlYYSWJoTczhcDej8Wmm3eTD+eh0oDnPkaF840PJ9y5WLV5aFglc659loa9jSUmrm3/2zv0NK4sMaDDSq8UgD9r4aFL+R73r/pWSlUX28h1Ew3Q4LbunyU9VWbue6RWr2v/VnA7NvbeAqS7InaAO+lewWAQ28fbpqPAKxV+LivMsvrYdycacmyOLXRVrMPi0m+8KQF2JDwCTDCy5N/nVMXb8/yirhdw0sTOdWN46g2vjp7HrWpD7Ax2SmAGH63uQKN6FsYgQMWM42WJLmW2ZJWQz31OQbF/ovm//1vQuoDbOfOJL1azq9Xy3wCr2QlPVXCfP+rISGHN9TBxbBe5XVv6C2GuZ+a+gBHLXajZqppS18Kq/iu+pPm/Fuz94Rx9HnGGB4XhiLRuG/lOdICTKylYF9jmXDvnfu1NWUc5VSGVZkfa9a6zbHT/VfNv6+MNzgDoMbScClSJ6jQPVq7oTVBG4PnmlXBuB2Nufj2hh/HwsJf/Uy79KzfOQAnP8eEbWgoEV8OoJerT/j0vJF3Y7CjrhhKe6r0anp2sEaAgr5u9ntiU0NtBD7TMQC1P9c0qzUxAmFhTpvFMwrhRRMe3HDtssBlIfdQ65ktw5MeoIZXtcUwnPC5s+CU9q6vhS9O+e1qxDGfO+vFAh83oxlDzd9KHAdQM86t5UndzqDi8E1z7PucYF3wToxnHSouH+M9/SUmvIEe+zDjbICapEEAGQEEUiCzfyvSFmYEEOxWExURRgDBbkWRjWEEEFQKMtKMAAIpkNm/FWkLMwIIdquJiggjgGC3osjGMAIIKgUZaaYYQKeGiwBWyw2QGjVq1FzOab8B0guUXk04wx0AAAAASUVORK5CYII=) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
@@ -338,7 +318,7 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 
 </td> </table>
 
-<br>
+
 
 <table width='1000' align="center">
 <tr> <th> Other </th> </tr>
@@ -356,7 +336,7 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 </td> </table>
 </details>
 
-<br>
+
 
 <!-- Other Stat -->
 <details open>
@@ -374,19 +354,108 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
     </table> 
 </details>
 
-<br>
+
 
 <!-- WakaTime Stat: https://wakatime.com/settings | teaching: https://blog.csdn.net/weixin_43233914/article/details/126087735 -->
 <details open>
 <summary> ⏲️ WakaTime Stat </summary>
 <br>
-<table align="center"> 
+
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-156-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.2%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 151.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 522 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 1 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+🌆 Daytime                46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+🌃 Evening                151 commits         ███████████░░░░░░░░░░░░░░   43.90 % 
+🌙 Night                  128 commits         █████████░░░░░░░░░░░░░░░░   37.21 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Tuesday                  27 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Wednesday                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Thursday                 21 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Friday                   49 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Saturday                 67 commits          █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Sunday                   94 commits          ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   25 repos            ██████████████████████░░░   89.29 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+
+ Last Updated on 16/02/2025 14:13:25 UTC
 <!--END_SECTION:waka-->
-</table> 
 </details>
 
+
+
+<!-- My GitHub Stat -->
+<details open>
+    <summary> 📊 GitHub Stat </summary>
+    <br>
+    <table align="center"> 
+        <tr>
+            <th> Repos </th>
+            <th> Profile </th>
+        </tr>
+        <tr>
+            <td>
+                <img alt="Repos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junwu0615&theme=dracula">
+            </td>  
+            <td>
+                <img alt="Profile" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junwu0615&theme=dracula">
+            </td>
+        </tr>
+    </table> 
+</details>
+
+
+
 <!-- Now Playing: https://github.com/kittinan/spotify-github-profile -->
-### Now Playing 🎧
+### 🎧 Now Playing 
 
 [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/5X44AM1nupxOQ16i6yr3y3)
