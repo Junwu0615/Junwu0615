@@ -5,7 +5,6 @@ on:
     - cron: "0 */24 * * *"
   workflow_dispatch:
 
-
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -14,5 +13,8 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # SECRET_TOKEN: ${{ secrets.SECRET_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: "False"
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_LOC_CHART: "False"
+          LOCALE: "en"
