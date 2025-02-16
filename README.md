@@ -1,18 +1,30 @@
 <!-- 
-ICON SOURCE
+SOMETHING SOURCE
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
 https://simpleicons.org/
 https://emojipedia.org/bar-chart
 https://icons8.com/icons
 https://github.com/aleen42/badges
 https://www.base64-image.de/
 shields.io: https://shields.io/docs/logos
+ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%20ASCII&t=PING%20CHUN
 -->
+
+<!-- Font Name: Larry 3D, Merlin1, Ogre, Calvin S, Cyberlarge, Isometric3, Slant, Lean, Kban,  JS Cursive -->
+
+```
+                                          ,_    .  ,__,   __      __   /_        ,__, 
+                                         _/_)__/__/ / (__(_/_   _(_,__/ (__(_/__/ / (_
+                                         /               _/_   
+                                        /               (/     
+```
 
 <br>
 <!-- Introduction -->
+
 <p align="center">
     <a href="https://github.com/Junwu0615">
-        <img src="https://readme-typing-svg.demolab.com?font=Handlee&center=true&vCenter=true&duration=1800&pause=1000&multiline=true&size=25&width=600&height=175&lines=Ping+Chun;2020:+USC+IM+|+2023:+FCU+IE;2024:+Data+Scientist+|+2025:+???+;Social+Animals+%7C+Data+Scientist+%7C+Forex+Researcher;AI+%7C+Recommendation+System+%7C+Web+Crawler+%7C+Bots" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.demolab.com?font=Handlee&center=true&vCenter=true&duration=1800&pause=1000&multiline=true&size=25&width=860&height=150&lines=2020+:+Shih+Chien+University+-+IM+;2023+:+Feng+Chia+University+-+CSIE;2024+:+Data+Scientist+(+Hsinchu+);2025+:+???;" alt="Typing SVG"/>
     </a>
 </p>
 <br>
@@ -242,6 +254,7 @@ shields.io: https://shields.io/docs/logos
 </details>
 
 <br>
+
 <!-- Open-Source Projects -->
 <details open>
 <summary> 🖥️ Open-Source Projects </summary>
@@ -362,6 +375,17 @@ shields.io: https://shields.io/docs/logos
 </details>
 
 <br>
+
+<!-- WakaTime Stat: https://wakatime.com/settings | teaching: https://blog.csdn.net/weixin_43233914/article/details/126087735 -->
+<details open>
+    <summary> 📈 WakaTime Stat </summary>
+    <br>
+    <table align="center"> 
+        <!--START_SECTION:waka-->
+        <img alt="wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=Junwu0615">
+        <!--END_SECTION:waka-->
+    </table> 
+</details>
 
 <!-- Now Playing: https://github.com/kittinan/spotify-github-profile -->
 ### Now Playing 🎧
