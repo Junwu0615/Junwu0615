@@ -235,6 +235,8 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
     <img src="https://github-profile-trophy.vercel.app/?username=Junwu0615&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=5&margin-h=5" />
 </p>
 
+<br>
+
 <!-- Open-Source Projects -->
 <details open>
 <summary> 🖥️ Open-Source Projects </summary>
@@ -336,7 +338,7 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
 </td> </table>
 </details>
 
-
+<br>
 
 <!-- Other Stat -->
 <details open>
@@ -354,7 +356,7 @@ ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%2
     </table> 
 </details>
 
-
+<br>
 
 <!-- WakaTime Stat: https://wakatime.com/settings | teaching: https://blog.csdn.net/weixin_43233914/article/details/126087735 -->
 <details open>
@@ -431,7 +433,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </details>
 
-
+<br>
 
 <!-- My GitHub Stat -->
 <details open>
@@ -439,21 +441,21 @@ CSS                      1 repo              █░░░░░░░░░░�
     <br>
     <table align="center"> 
         <tr>
-            <th> Repos </th>
-            <th> Profile </th>
+            <th> Most Used Lang </th>
+            <th> Activity </th>
         </tr>
         <tr>
             <td>
-                <img alt="Repos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junwu0615&theme=dracula">
+                <img alt="Most_Used_Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junwu0615&theme=dracula">
             </td>  
             <td>
-                <img alt="Profile" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junwu0615&theme=dracula">
+                <img alt="Activity" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junwu0615&theme=dracula">
             </td>
         </tr>
     </table> 
 </details>
 
-
+<br>
 
 <!-- Now Playing: https://github.com/kittinan/spotify-github-profile -->
 ### 🎧 Now Playing 
