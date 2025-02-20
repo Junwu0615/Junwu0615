@@ -42,6 +42,8 @@ https://github.com/tandpfun/skill-icons#readme
 <br>
 -->
 
+
+
 <!-- Languages -->
 <div align="center">
     <table>
@@ -52,46 +54,46 @@ https://github.com/tandpfun/skill-icons#readme
         </thead>
         <tbody>
             <tr>
-                <td align="center" style="border: none;"> 
-                    <a href="https://www.python.org/"> 
+                <td align="center" style="border: none;">
+                    <a href="https://www.python.org/">
                         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/>
-                    </a> 
+                    </a>
                     <br> Python
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://www.w3schools.com/c/c_intro.php"> 
+                    <a href="https://www.w3schools.com/c/c_intro.php">
                         <img src="https://skillicons.dev/icons?i=c" width="40" height="50" alt="C"/>
-                    </a> 
+                    </a>
                     <br> C
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://zh.wikipedia.org/zh-tw/C%2B%2B"> 
+                    <a href="https://zh.wikipedia.org/zh-tw/C%2B%2B">
                         <img src="https://skillicons.dev/icons?i=cpp" width="40" height="50" alt="CPP"/>
-                    </a> 
+                    </a>
                     <br> C++
                 </td>
-                <td align="center" style="border: none;"> 
-                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML"> 
+                <td align="center" style="border: none;">
+                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML">
                         <img src="https://skillicons.dev/icons?i=html" width="40" height="50" alt="HTML"/>
                     </a>
                     <br> HTML
                 </td>
-                <td align="center" style="border: none;"> 
-                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/CSS"> 
+                <td align="center" style="border: none;">
+                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/CSS">
                         <img src="https://skillicons.dev/icons?i=css" width="40" height="50" alt="CSS"/>
-                    </a> 
+                    </a>
                     <br> CSS
                 </td>
-                <td align="center" style="border: none;"> 
-                    <a href="https://markdown.tw/"> 
+                <td align="center" style="border: none;">
+                    <a href="https://markdown.tw/">
                         <img src="https://skillicons.dev/icons?i=md" width="45" height="50" alt="Markdown"/>
-                    </a> 
+                    </a>
                     <br> Markdown
                 </td>
-                <td align="center" style="border: none;"> 
-                    <a href="https://www.php.net/"> 
+                <td align="center" style="border: none;">
+                    <a href="https://www.php.net/">
                         <img src="https://skillicons.dev/icons?i=php" width="50" height="50" alt="PHP"/>
-                    </a> 
+                    </a>
                     <br> PHP
                 </td>
             </tr>
@@ -109,28 +111,28 @@ https://github.com/tandpfun/skill-icons#readme
         </thead>
         <tbody>
             <tr>
-                <td align="center" style="border: none;"> 
-                    <a href="https://icons8.com/icons/set/sql-server"> 
-                        <img width="50px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/sql-server.png"/>
-                    </a> 
-                    <br> SQL Server 
+                <td align="center" style="border: none;">
+                    <a href="https://icons8.com/icons/set/sql-server">
+                        <img width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/sql-server.png"/>
+                    </a>
+                    <br> SQL Server
                 </td>
-                <td align="center" style="border: none;"> 
-                    <a href="https://www.postgresql.org/"> 
+                <td align="center" style="border: none;">
+                    <a href="https://www.postgresql.org/">
                         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/>
-                    </a> 
+                    </a>
                     <br> PostgreSQL
                 </td>
-                <td align="center" style="border: none;"> 
-                    <a href="https://www.mysql.com/"> 
+                <td align="center" style="border: none;">
+                    <a href="https://www.mysql.com/">
                         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/>
-                    </a> 
+                    </a>
                     <br> MySQL
                 </td>
-                <td align="center" style="border: none;"> 
-                    <a href="https://icons8.com/icons/set/sqlite"> 
-                        <img width="50px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/sqlite.png"/>
-                    </a> 
+                <td align="center" style="border: none;">
+                    <a href="https://icons8.com/icons/set/sqlite">
+                        <img width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/sqlite.png"/>
+                    </a>
                     <br> SQLite
                 </td>
             </tr>
@@ -148,35 +150,35 @@ https://github.com/tandpfun/skill-icons#readme
         </thead>
         <tbody>
             <tr>
-                <td align="center" style="border: none;"> 
+                <td align="center" style="border: none;">
                     <a href="https://chatgpt.com/" style="color: white;">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> ChatGPT
                 </td>
-                <td align="center" style="border: none;"> 
+                <td align="center" style="border: none;">
                     <a href="https://gemini.google.com/?hl=zh-TW" style="color: white;">
-                        <img src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/Gemini.gif" alt="Google Gemini" width="75" height="65"/>
-                    </a> 
+                        <img src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Gemini.gif" alt="Google Gemini" width="75" height="65"/>
+                    </a>
                     <br> Google Gemini
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.tensorflow.org/">
-                        <img src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/Tensorflow.gif" alt="TensorFlow" width="70" height="70"/>
-                    </a> 
-                    <br> Tensorflow 
+                        <img src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Tensorflow.gif" alt="TensorFlow" width="70" height="70"/>
+                    </a>
+                    <br> Tensorflow
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icon/z2pN6mJXIC4u/keras">
-                        <img width="50px" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/Keras.png"/>
-                    </a> 
-                    <br> Keras 
+                        <img width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Keras.png"/>
+                    </a>
+                    <br> Keras
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://pytorch.org/">
                         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="40" height="50"/>
-                    </a> 
-                    <br> PyTorch 
+                    </a>
+                    <br> PyTorch
                 </td>
             </tr>
         </tbody>
@@ -196,8 +198,8 @@ https://github.com/tandpfun/skill-icons#readme
                 <td align="center" style="border: none;">
                     <a href="https://www.docker.com/">
                         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/>
-                    </a> 
-                    <br> Docker 
+                    </a>
+                    <br> Docker
                 </td>
             </tr>
         </tbody>
@@ -217,31 +219,31 @@ https://github.com/tandpfun/skill-icons#readme
                 <td align="center" style="border: none;">
                     <a href="https://numpy.org/">
                         <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> NumPy
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://pandas.pydata.org/">
-                        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/>
-                    </a> 
+                        <img src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/pandas.svg" alt="Pandas" width="80" height="50"/>
+                    </a>
                     <br> Pandas
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://flask.palletsprojects.com/">
                         <img src="https://skillicons.dev/icons?i=flask" width="40" height="50" alt="Flask"/>
-                    </a> 
+                    </a>
                     <br> Flask
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://fastapi.tiangolo.com/">
                         <img src="https://skillicons.dev/icons?i=fastapi" width="40" height="50" alt="FastAPI"/>
-                    </a> 
+                    </a>
                     <br> FastAPI
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://ngrok.com/">
                         <img src="https://avatars.githubusercontent.com/u/10625446?s=280&v=4" width="45" height="45" alt="NGROK"/>
-                    </a> 
+                    </a>
                     <br> NGROK
                 </td>
             </tr>
@@ -249,31 +251,31 @@ https://github.com/tandpfun/skill-icons#readme
                 <td align="center" style="border: none;">
                     <a href="https://github.com/features/actions">
                         <img src="https://skillicons.dev/icons?i=githubactions" width="40" height="50" alt="Github Actions"/>
-                    </a> 
-                    <br> Github Actions 
+                    </a>
+                    <br> Github Actions
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://gist.github.com/">
                         <img src="https://k9982874.gallerycdn.vsassets.io/extensions/k9982874/github-gist-explorer/0.2.3/1638842316475/Microsoft.VisualStudio.Services.Icons.Default" width="50" height="50" alt="Github Gist"/>
-                    </a> 
+                    </a>
                     <br> Github Gist
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://airflow.apache.org/">
                         <img src="https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png" width="40" height="40" alt="Apache Airflow"/>
-                    </a> 
+                    </a>
                     <br> Apache Airflow
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://streamlit.io/">
                         <img src="https://raw.githubusercontent.com/rlew631/rlew631/5fcb1cee69c8034bfa2b98aad94b584fcff8d84f/streamlit_red.svg" width="40" height="40" alt="Streamlit"/>
-                    </a> 
+                    </a>
                     <br> Streamlit
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.wampserver.com/en/">
                         <img src="https://www.bugtreat.com/blog/wp-content/uploads/2012/07/WampServer-logo.png" width="40" height="40" alt="WampServer"/>
-                    </a> 
+                    </a>
                     <br> WampServer
                 </td>
             </tr>
@@ -295,37 +297,37 @@ https://github.com/tandpfun/skill-icons#readme
                 <td align="center" style="border: none;">
                     <a href="https://web.telegram.org/">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" width="40" height="40" alt="Flask"/>
-                    </a> 
+                    </a>
                     <br> Telegram
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.line.me/tw/">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LINE_logo.svg/1024px-LINE_logo.svg.png" width="40" height="40" alt="Line"/>
-                    </a> 
+                    </a>
                     <br> Line
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://aws.amazon.com/tw/what-is/mqtt/">
                         <img src="https://avatars.githubusercontent.com/u/1544528?s=280&v=4" width="40" height="40" alt="MQTT"/>
-                    </a> 
+                    </a>
                     <br> MQTT
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://developer.mozilla.org/zh-TW/docs/Web/API/WebSocket">
                         <img src="https://blog.gtwang.org/wp-content/uploads/2015/03/websocket-logo.png" width="40" height="35" alt="WebSocket"/>
-                    </a> 
+                    </a>
                     <br> WebSocket
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://github.com/">
                         <img src="https://skillicons.dev/icons?i=git" width="40" height="50" alt="Git"/>
-                    </a> 
-                    <br> Git 
+                    </a>
+                    <br> Git
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://github.com/">
                         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" height="50" alt="Github"/>
-                    </a> 
+                    </a>
                     <br> Github
                 </td>
             </tr>
@@ -346,44 +348,44 @@ https://github.com/tandpfun/skill-icons#readme
                 <td align="center" style="border: none;">
                     <a href="https://www.jetbrains.com/pycharm/">
                         <img src="https://skillicons.dev/icons?i=pycharm" width="50" height="50" alt="PyCharm"/>
-                    </a> 
-                    <br> PyCharm 
+                    </a>
+                    <br> PyCharm
                 </td>
                 <td align="center" style="border: none;">
                     <a>
-                        <img width="40" height="40" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/azure_data_studio.png"/>
-                    </a> 
-                    <br> Azure Data Studio 
+                        <img width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/azure_data_studio.png"/>
+                    </a>
+                    <br> Azure Data Studio
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icon/F4uMFPZgS0gt/anaconda">
-                        <img width="40" height="40" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/anaconda.png"/>
-                    </a> 
-                    <br> Anaconda 
+                        <img width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/anaconda.png"/>
+                    </a>
+                    <br> Anaconda
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icons/set/jupyter">
-                        <img width="40" height="40" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/jupyter.png"/>
-                    </a> 
-                    <br> Jupyter 
+                        <img width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jupyter.png"/>
+                    </a>
+                    <br> Jupyter
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icon/0S1Hoidfnk7H/spyder-ide-5">
-                        <img width="40" height="40" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/spyder.png"/>
-                    </a> 
-                    <br> Spyder 
+                        <img width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/spyder.png"/>
+                    </a>
+                    <br> Spyder
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://code.visualstudio.com/">
                         <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="45" height="50"/>
-                    </a> 
+                    </a>
                     <br> VS Code
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://visualstudio.microsoft.com/zh-hant/downloads/">
                         <img src="https://skillicons.dev/icons?i=visualstudio" alt="VS" width="45" height="50"/>
-                    </a> 
-                    <br> VS 
+                    </a>
+                    <br> VS
                 </td>
             </tr>
         </tbody>
@@ -405,44 +407,44 @@ https://github.com/tandpfun/skill-icons#readme
                 <td align="center" style="border: none;">
                     <a href="https://www.microsoft.com/zh-tw/software-download/windows10">
                         <img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> Windows
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.linux.org/">
                         <img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> Linux
                 </td>
-                <td align="center" style="border: none;"> 
-                    <a href="https://learn.microsoft.com/zh-tw/powershell/scripting/overview?view=powershell-7.5"> 
+                <td align="center" style="border: none;">
+                    <a href="https://learn.microsoft.com/zh-tw/powershell/scripting/overview?view=powershell-7.5">
                         <img src="https://skillicons.dev/icons?i=powershell" width="45" height="50" alt="Powershell"/>
-                    </a> 
+                    </a>
                     <br> Powershell
                 </td>
-                <td align="center" style="border: none;"> 
-                    <a href="https://learn.microsoft.com/zh-tw/windows-server/administration/windows-commands/cmd"> 
+                <td align="center" style="border: none;">
+                    <a href="https://learn.microsoft.com/zh-tw/windows-server/administration/windows-commands/cmd">
                         <img src="https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png" width="45" height="45" alt="CMD"/>
-                    </a> 
+                    </a>
                     <br> CMD
                 </td>
                 <td align="center" style="border: none;">
                     <a>
-                        <img width="45" height="40" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/github_copilot.png"/>
-                    </a> 
-                    <br> Copilot 
+                        <img width="45" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/github_copilot.png"/>
+                    </a>
+                    <br> Copilot
                 </td>
                 <td align="center" style="border: none;">
                     <a>
-                        <img width="45" height="45" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/youtrack.png"/>
-                    </a> 
-                    <br> Youtrack 
+                        <img width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/youtrack.png"/>
+                    </a>
+                    <br> Youtrack
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icon/set/notion/group-ui">
-                        <img width="45" height="45" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/notion.png"/>
-                    </a> 
-                    <br> Notion 
+                        <img width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/notion.png"/>
+                    </a>
+                    <br> Notion
                 </td>
             </tr>
         </tbody>
@@ -461,45 +463,45 @@ https://github.com/tandpfun/skill-icons#readme
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icon/rZObyIJRui2T/adobe-acrobat">
-                        <img width="45" height="45" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/acrobat.png"/>
-                    </a> 
-                    <br> Acrobat 
+                        <img width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/acrobat.png"/>
+                    </a>
+                    <br> Acrobat
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.adobe.com/tw/products/photoshop.html">
                         <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" width="40" height="50" alt="Adobe Photoshop"/>
-                    </a> 
-                    <br> PS 
+                    </a>
+                    <br> PS
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.adobe.com/tw/products/premiere.html">
                         <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" width="40" height="50" alt="Adobe Premiere Pro"/>
-                    </a> 
-                    <br> PR 
+                    </a>
+                    <br> PR
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.adobe.com/tw/products/aftereffects.html">
                         <img src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg" width="40" height="50" alt="Adobe After Effects"/>
-                    </a> 
-                    <br> AE 
+                    </a>
+                    <br> AE
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icon/117563/microsoft-word-2019">
-                        <img width="40" height="40" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/word.png"/>
-                    </a> 
-                    <br> Word 
+                        <img width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/word.png"/>
+                    </a>
+                    <br> Word
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icon/ifP93G7BXUhU/microsoft-powerpoint-2019">
-                        <img width="40" height="40" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/ppt.png"/>
-                    </a> 
-                    <br> PowerPoint 
+                        <img width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/ppt.png"/>
+                    </a>
+                    <br> PowerPoint
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icon/117561/microsoft-excel-2019">
-                        <img width="40" height="40" src="https://github.com/Junwu0615/Junwu0615/blob/main/icon/excel.png"/>
-                    </a> 
-                    <br> Excel 
+                        <img width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/excel.png"/>
+                    </a>
+                    <br> Excel
                 </td>
             </tr>
         </tbody>
@@ -516,58 +518,59 @@ https://github.com/tandpfun/skill-icons#readme
         </thead>
         <tbody>
             <tr>
-                <td align="center" style="border: none;"> 
+                <td align="center" style="border: none;">
                     <a href="https://reactjs.org/" style="color: white;">
                         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> React
                 </td>
-                <td align="center" style="border: none;"> 
+                <td align="center" style="border: none;">
                     <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript" style="color: white;">
                         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> JavaScript
                 </td>
-                <td align="center" style="border: none;"> 
+                <td align="center" style="border: none;">
                     <a href="https://www.djangoproject.com/" style="color: white;">
                         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> Django
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://grafana.com/" style="color: white;">
                         <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> Grafana
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://azure.microsoft.com/zh-tw" style="color: white;">
                         <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> Azure
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://cloud.google.com" style="color: white;">
                         <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> GCP
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://aws.amazon.com" style="color: white;">
                         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> AWS
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://kubernetes.io/" style="color: white;">
                         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="40" height="50"/>
-                    </a> 
+                    </a>
                     <br> Kubernetes
                 </td>
             </tr>
         </tbody>
     </table>
 </div>
+
 
 
 <!-- Greedy Snake: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
