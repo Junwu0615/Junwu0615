@@ -28,11 +28,11 @@ https://github.com/tandpfun/skill-icons#readme
     <table>
         <tr>
           <td align="center">
-            <img src="https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615&title=Hello%20Visitor" alt="Hello Visitor">
+            <img src="https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615&color=blueviolet&title=Hello%20Visitor" alt="Hello Visitor" width="150" height="23">
           </td>
           <td align="center">
-            <a href="https://www.cake.me/me/Ping-Chun-Wu" target="_blank">
-              <img src="https://img.shields.io/badge/-My%20Dashboard-167C80?style=flat&logo=streamlit&logoColor=white&link=https://pc-dashboard.streamlit.app/" alt="Dashboard">
+            <a href="https://pc-dashboard.streamlit.app/" target="_blank">
+              <img src="https://img.shields.io/badge/My_Dashboard-E42C51?style=for-the-badge&logoColor=white" alt="Dashboard">
             </a>
           </td>
         </tr>
