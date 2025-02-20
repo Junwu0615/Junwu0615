@@ -16,13 +16,49 @@ https://github.com/tandpfun/skill-icons#readme
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ping%20Chun&desc=A%20self-evolving%20data%20scientist,%20just%20like%20Deep%20Learning&fontAlignY=30&fontSize=70&fontAlign=50&textBg=false&animation=fadeIn">
 
-<!-- shield.io -->
+<!-- shield.io
 <div align="center">
-
 [![Hello Visitor](https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615&title=Hello%20Visitor)](https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615)
 [![Dashboard](https://img.shields.io/badge/-My%20Dashboard-167C80?style=flat&logo=streamlit&logoColor=white&link=https://pc-dashboard.streamlit.app/)](https://pc-dashboard.streamlit.app/)
 [![Mail Badge](https://img.shields.io/badge/-jun.audis5@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jun.audis5@gmail.com)](mailto:jun.audis5@gmail.com)
+</div>
+-->
 
+<div align="center">
+    <table>
+        <tr>
+          <td align="center">
+            <img src="https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615&title=Hello%20Visitor" alt="Hello Visitor">
+          </td>
+          <td align="center">
+            <a href="https://www.cake.me/me/Ping-Chun-Wu" target="_blank">
+              <img src="https://img.shields.io/badge/-My%20Dashboard-167C80?style=flat&logo=streamlit&logoColor=white&link=https://pc-dashboard.streamlit.app/" alt="Dashboard">
+            </a>
+          </td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <table>
+        <tr>
+          <td align="center">
+            <a href="mailto:jun.audis5@gmail.com" target="_blank">
+              <img src="https://img.shields.io/badge/Gmail-DB3729?style=for-the-badge&logoColor=white" alt="Gmail">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.cake.me/me/Ping-Chun-Wu" target="_blank">
+              <img src="https://img.shields.io/badge/Cake-14AE5C?style=for-the-badge&logoColor=white" alt="Cake">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.linkedin.com/in/ping-chun-wu-16a1602a7/" target="_blank">
+              <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logoColor=white" alt="LinkedIn">
+            </a>
+          </td>
+        </tr>
+    </table>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
