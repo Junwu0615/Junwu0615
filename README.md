@@ -237,6 +237,12 @@ https://github.com/tandpfun/skill-icons#readme
                     </a>
                     <br> Docker
                 </td>
+                <td align="center" style="border: none;">
+                    <a href="https://cloud.google.com" style="color: white;">
+                        <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
+                    </a>
+                    <br> GCP
+                </td>
             </tr>
         </tbody>
     </table>
@@ -589,12 +595,6 @@ https://github.com/tandpfun/skill-icons#readme
                         <img alt="Azure" width="40" height="50" src="https://skillicons.dev/icons?i=azure"/>
                     </a>
                     <br> Azure
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://cloud.google.com" style="color: white;">
-                        <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
-                    </a>
-                    <br> GCP
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://aws.amazon.com" style="color: white;">
