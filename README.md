@@ -238,6 +238,18 @@ https://github.com/tandpfun/skill-icons#readme
                     <br> Docker
                 </td>
                 <td align="center" style="border: none;">
+                    <a href="https://aws.amazon.com" style="color: white;">
+                        <img alt="AWS" width="40" height="50" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
+                    </a>
+                    <br> AWS
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://azure.microsoft.com/zh-tw" style="color: white;">
+                        <img alt="Azure" width="40" height="50" src="https://skillicons.dev/icons?i=azure"/>
+                    </a>
+                    <br> Azure
+                </td>
+                <td align="center" style="border: none;">
                     <a href="https://cloud.google.com" style="color: white;">
                         <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
                     </a>
@@ -589,18 +601,6 @@ https://github.com/tandpfun/skill-icons#readme
                         <img alt="Grafana" width="40" height="50" src="https://skillicons.dev/icons?i=grafana"/>
                     </a>
                     <br> Grafana
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://azure.microsoft.com/zh-tw" style="color: white;">
-                        <img alt="Azure" width="40" height="50" src="https://skillicons.dev/icons?i=azure"/>
-                    </a>
-                    <br> Azure
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://aws.amazon.com" style="color: white;">
-                        <img alt="AWS" width="40" height="50" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
-                    </a>
-                    <br> AWS
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://kubernetes.io/" style="color: white;">
