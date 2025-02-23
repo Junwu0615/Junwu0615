@@ -12,9 +12,10 @@ Font Name: Graffiti Larry 3D, Merlin1, Ogre, Calvin S, Cyberlarge, Isometric3, S
 https://techstack-generator.vercel.app/
 https://skillicons.dev/
 https://github.com/tandpfun/skill-icons#readme
+https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-file
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ping%20Chun&desc=A%20self-evolving%20data%20scientist,%20just%20like%20Deep%20Learning&fontAlignY=30&fontSize=70&fontAlign=50&textBg=false&animation=fadeIn">
+<img alt="waving1" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ping%20Chun&desc=A%20self-evolving%20data%20scientist,%20just%20like%20Deep%20Learning&fontAlignY=30&fontSize=70&fontAlign=50&textBg=false&animation=fadeIn">
 
 <!-- shield.io
 <div align="center">
@@ -24,6 +25,7 @@ https://github.com/tandpfun/skill-icons#readme
 </div>
 -->
 
+<!--
 <div align="center">
     <table>
         <tr>
@@ -60,8 +62,52 @@ https://github.com/tandpfun/skill-icons#readme
         </tr>
     </table>
 </div>
+-->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+<div align="center">
+    <table>
+        <tr>
+            <td align="center">
+                <img alt="gif1" width="380" height="250" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b">
+            </td>
+            <td align="center">
+                <img alt="gif2" width="380" height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <table>
+        <tr>
+          <td align="center">
+            <img alt="Hello Visitor" width="150" height="22" src="https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615&color=blueviolet&title=Hello%20Visitor">
+          </td>
+          <td align="center">
+            <a href="https://pc-dashboard.streamlit.app/" target="_blank">
+              <img src="https://img.shields.io/badge/My_Dashboard-E42C51?style=for-the-badge&logoColor=white" alt="Dashboard">
+            </a>
+          </td>
+          <td align="center">
+            <a href="mailto:jun.audis5@gmail.com" target="_blank">
+              <img src="https://img.shields.io/badge/Gmail-DB3729?style=for-the-badge&logoColor=white" alt="Gmail">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.cake.me/me/Ping-Chun-Wu" target="_blank">
+              <img src="https://img.shields.io/badge/Cake-14AE5C?style=for-the-badge&logoColor=white" alt="Cake">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://www.linkedin.com/in/ping-chun-wu-16a1602a7/" target="_blank">
+              <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logoColor=white" alt="LinkedIn">
+            </a>
+          </td>
+        </tr>
+    </table>
+</div>
+
+<img alt="waving2" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 
 <!-- 
 ![PNG](./other/name.PNG)
@@ -401,7 +447,7 @@ https://github.com/tandpfun/skill-icons#readme
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://www.jetbrains.com/pycharm/">
-                        <img alt="PyCharm" src="https://skillicons.dev/icons?i=pycharm" width="50" height="50"/>
+                        <img alt="PyCharm" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250223T202147Z&X-Amz-Expires=300&X-Amz-Signature=14c3fdd4c7b44a8445c022a162afb6f3dd28a77596f21ae21fc56d8873cd2e61&X-Amz-SignedHeaders=host" width="50" height="50"/>
                     </a>
                     <br> PyCharm
                 </td>
@@ -626,9 +672,13 @@ https://github.com/tandpfun/skill-icons#readme
 
 
 
+<img alt="gif3" width="850" height="350" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+
+
+
 <!-- Trophy: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Junwu0615&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=5&margin-h=5" />
+    <img alt="profile" src="https://github-profile-trophy.vercel.app/?username=Junwu0615&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=5&margin-h=5" />
 </p>
 
 <br>
@@ -742,12 +792,22 @@ https://github.com/tandpfun/skill-icons#readme
     <br>
     <table align="center"> 
         <tr>
-            <th> LeetCode Stat</th>
+            <th> LeetCode Stat </th>
         </tr>
         <tr>
             <td>
-                <img align="center" src="https://leetcard.jacoblin.cool/Ping_Chun?ext=heatmap"/>
-            </td>  
+                <img alt="leetcode stat" align="center" src="https://leetcard.jacoblin.cool/Ping_Chun?ext=heatmap"/>
+            </td>
+        </tr>
+        <tr>
+            <th> Me </th>
+        </tr>
+        <tr>
+            <td>
+                <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
+                <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
+                <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
+            </td> 
         </tr>
     </table> 
 </details>
