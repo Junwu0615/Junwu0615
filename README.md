@@ -821,7 +821,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2052%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-358-blue)
 
@@ -830,8 +830,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 **🐱 My GitHub Data** 
 
 > 📦 159.6 kB Used in GitHub's Storage 
- > 
-> 🏆 709 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -866,17 +864,17 @@ Sunday                   106 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 17 hrs 32 mins      ██████████████████░░░░░░░   70.03 % 
-Python                   6 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-YAML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Markdown                 18 hrs 8 mins       ██████████████████░░░░░░░   70.42 % 
+Python                   6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+YAML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-PyCharm                  25 hrs 3 mins       █████████████████████████   100.00 % 
+PyCharm                  25 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 hrs 3 mins       █████████████████████████   100.00 % 
+Windows                  25 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -890,7 +888,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2025 01:40:31 UTC
+ Last Updated on 25/02/2025 01:40:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
