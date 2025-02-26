@@ -447,7 +447,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://www.jetbrains.com/pycharm/">
-                        <img alt="PyCharm" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200437-de038172-e903-4951-926c-755878deb0b4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250223%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250223T202147Z&X-Amz-Expires=300&X-Amz-Signature=14c3fdd4c7b44a8445c022a162afb6f3dd28a77596f21ae21fc56d8873cd2e61&X-Amz-SignedHeaders=host" width="50" height="50"/>
+                        <img alt="PyCharm" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/pycharm.gif" />
                     </a>
                     <br> PyCharm
                 </td>
@@ -497,7 +497,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     <table>
         <thead>
             <tr>
-                <th colspan="2" align="center"> Operating System </th>
+                <th colspan="3" align="center"> Operating System </th>
                 <th colspan="2" align="center"> Command Tools </th>
                 <th colspan="4" align="center"> Job Tools </th>
             </tr>
@@ -515,6 +515,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="Linux" width="40" height="50" src="https://skillicons.dev/icons?i=linux"/>
                     </a>
                     <br> Linux
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://ubuntu.com/download">
+                        <img alt="Ubuntu" width="70" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/ubuntu.gif" />
+                    </a>
+                    <br> Ubuntu
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://learn.microsoft.com/zh-tw/powershell/scripting/overview?view=powershell-7.5">
