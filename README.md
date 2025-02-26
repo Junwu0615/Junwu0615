@@ -821,15 +821,17 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-358-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-364-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-47.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 159.6 kB Used in GitHub's Storage 
+> 📦 159.7 kB Used in GitHub's Storage 
+ > 
+> 🏆 709 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -864,8 +866,8 @@ Sunday                   106 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 18 hrs 8 mins       ██████████████████░░░░░░░   70.42 % 
-Python                   6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
+Markdown                 18 hrs 8 mins       ██████████████████░░░░░░░   70.43 % 
+Python                   6 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
 YAML                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 Docker                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
@@ -888,7 +890,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/02/2025 01:40:08 UTC
+ Last Updated on 26/02/2025 01:39:27 UTC
 <!--END_SECTION:waka-->
 </details>
 
