@@ -831,13 +831,13 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 163.7 kB Used in GitHub's Storage 
+> 📦 163.5 kB Used in GitHub's Storage 
  > 
 > 🏆 767 Contributions in the Year 2025
  > 
@@ -874,10 +874,10 @@ Sunday                   109 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Jupyter                  18 mins             █████████████░░░░░░░░░░░░   52.23 % 
-Markdown                 9 mins              ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-.env file                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Jupyter                  18 mins             █████████████░░░░░░░░░░░░   52.43 % 
+Markdown                 9 mins              ███████░░░░░░░░░░░░░░░░░░   28.58 % 
+.env file                4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 Requirements.txt         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🔥 Editors: 
@@ -899,7 +899,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2025 01:41:01 UTC
+ Last Updated on 15/03/2025 01:40:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
