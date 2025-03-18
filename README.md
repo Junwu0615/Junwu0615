@@ -831,7 +831,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.4%20thousand%20lines%20of%20code-blue)
 
@@ -874,14 +874,13 @@ Sunday                   109 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 5 mins              ███████████████████████░░   91.86 % 
-Python                   0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  6 mins              █████████████████████████   100.00 % 
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -896,7 +895,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2025 01:45:24 UTC
+ Last Updated on 18/03/2025 01:43:27 UTC
 <!--END_SECTION:waka-->
 </details>
 
