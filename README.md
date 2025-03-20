@@ -831,15 +831,13 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-33%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 163.5 kB Used in GitHub's Storage 
- > 
-> 🏆 767 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -895,7 +893,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2025 01:43:23 UTC
+ Last Updated on 20/03/2025 01:42:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
