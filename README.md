@@ -178,6 +178,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     </a>
                     <br> PHP
                 </td>
+                <td align="center" style="border: none;">
+                    <a href="https://zh.wikipedia.org/zh-tw/SPARQL">
+                        <img alt="SPARQL" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/SPARQL.svg"/>
+                    </a>
+                    <br> SPARQL
+                </td>
             </tr>
         </tbody>
     </table>
@@ -193,6 +199,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         </thead>
         <tbody>
             <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://icons8.com/icons/set/sql-server">
+                        <img alt="SQL Server" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/influxdb.png"/>
+                    </a>
+                    <br> Influx DB
+                </td>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icons/set/sql-server">
                         <img alt="SQL Server" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/sql-server.png"/>
@@ -240,7 +252,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://gemini.google.com/?hl=zh-TW" style="color: white;">
-                        <img alt="Google Gemini" width="75" height="65" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Gemini.gif"/>
+                        <img alt="Google Gemini" width="75" height="65" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Gemini.png"/>
                     </a>
                     <br> Google Gemini
                 </td>
@@ -317,6 +329,18 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         <tbody>
             <tr>
                 <td align="center" style="border: none;">
+                    <a href="https://grafana.com/" style="color: white;">
+                        <img alt="Grafana" width="40" height="50" src="https://skillicons.dev/icons?i=grafana"/>
+                    </a>
+                    <br> Grafana
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.influxdata.com/time-series-platform/telegraf/" style="color: white;">
+                        <img alt="Telegraf" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/telegraf.png"/>
+                    </a>
+                    <br> Telegraf
+                </td>
+                <td align="center" style="border: none;">
                     <a href="https://numpy.org/">
                         <img alt="NumPy" width="40" height="50" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"/>
                     </a>
@@ -339,12 +363,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="FastAPI" width="40" height="50" src="https://skillicons.dev/icons?i=fastapi"/>
                     </a>
                     <br> FastAPI
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://ngrok.com/">
-                        <img alt="NGROK" width="45" height="45" src="https://avatars.githubusercontent.com/u/10625446?s=280&v=4"/>
-                    </a>
-                    <br> NGROK
                 </td>
             </tr>
             <tr>
@@ -377,6 +395,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="WampServer" width="40" height="40" src="https://www.bugtreat.com/blog/wp-content/uploads/2012/07/WampServer-logo.png"/>
                     </a>
                     <br> WampServer
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://ngrok.com/">
+                        <img alt="NGROK" width="45" height="45" src="https://avatars.githubusercontent.com/u/10625446?s=280&v=4"/>
+                    </a>
+                    <br> NGROK
                 </td>
             </tr>
         </tbody>
@@ -647,12 +671,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="Django" width="40" height="50" src="https://techstack-generator.vercel.app/django-icon.svg"/>
                     </a>
                     <br> Django
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://grafana.com/" style="color: white;">
-                        <img alt="Grafana" width="40" height="50" src="https://skillicons.dev/icons?i=grafana"/>
-                    </a>
-                    <br> Grafana
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://kubernetes.io/" style="color: white;">
