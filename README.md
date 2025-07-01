@@ -252,7 +252,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://gemini.google.com/?hl=zh-TW" style="color: white;">
-                        <img alt="Google Gemini" width="75" height="65" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Gemini.png"/>
+                        <img alt="Google Gemini" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Gemini.png"/>
                     </a>
                     <br> Google Gemini
                 </td>
@@ -279,12 +279,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
-<!-- Deploy & Cloud -->
+<!-- Deploy & Service -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> Deploy & Cloud </th>
+                <th colspan="10" align="center"> Deploy & Service </th>
             </tr>
         </thead>
         <tbody>
@@ -295,6 +295,45 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     </a>
                     <br> Docker
                 </td>
+                <td align="center" style="border: none;">
+                    <a href="https://grafana.com/" style="color: white;">
+                        <img alt="Grafana" width="40" height="50" src="https://skillicons.dev/icons?i=grafana"/>
+                    </a>
+                    <br> Grafana
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="GitLab" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
+                    </a>
+                    <br> GitLab
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://nextcloud.com/" style="color: white;">
+                        <img alt="Nextcloud" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/nextcloud.svg"/>
+                    </a>
+                    <br> Nextcloud
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.portainer.io/" style="color: white;">
+                        <img alt="Portainer" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/portainer.svg"/>
+                    </a>
+                    <br> Portainer
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- Cloud -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="10" align="center"> Cloud </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
                 <td align="center" style="border: none;">
                     <a href="https://aws.amazon.com" style="color: white;">
                         <img alt="AWS" width="40" height="50" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
@@ -318,6 +357,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
+
 <!-- Skills -->
 <div align="center">
     <table>
@@ -328,12 +368,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         </thead>
         <tbody>
             <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://grafana.com/" style="color: white;">
-                        <img alt="Grafana" width="40" height="50" src="https://skillicons.dev/icons?i=grafana"/>
-                    </a>
-                    <br> Grafana
-                </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.influxdata.com/time-series-platform/telegraf/" style="color: white;">
                         <img alt="Telegraf" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/telegraf.png"/>
