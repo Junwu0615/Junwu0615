@@ -155,6 +155,20 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     <br> C++
                 </td>
                 <td align="center" style="border: none;">
+                    <a href="https://markdown.tw/">
+                        <img alt="Markdown" width="45" height="50" src="https://skillicons.dev/icons?i=md"/>
+                    </a>
+                    <br> Markdown
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://zh.wikipedia.org/zh-tw/SPARQL">
+                        <img alt="SPARQL" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/SPARQL.svg"/>
+                    </a>
+                    <br> SPARQL
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="border: none;">
                     <a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML">
                         <img alt="HTML" width="40" height="50" src="https://skillicons.dev/icons?i=html"/>
                     </a>
@@ -168,27 +182,15 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript">
-                        <img alt="JavaScript" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/javascript.svg"/>
+                        <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/javascript.svg"/>
                     </a>
                     <br> JavaScript
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://markdown.tw/">
-                        <img alt="Markdown" width="45" height="50" src="https://skillicons.dev/icons?i=md"/>
-                    </a>
-                    <br> Markdown
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.php.net/">
                         <img alt="PHP" width="50" height="50" src="https://skillicons.dev/icons?i=php"/>
                     </a>
                     <br> PHP
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://zh.wikipedia.org/zh-tw/SPARQL">
-                        <img alt="SPARQL" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/SPARQL.svg"/>
-                    </a>
-                    <br> SPARQL
                 </td>
             </tr>
         </tbody>
