@@ -558,14 +558,13 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
-<!-- Operating System & Job Tools -->
+<!-- Operating System -->
 <div align="center">
     <table>
         <thead>
             <tr>
                 <th colspan="3" align="center"> Operating System </th>
                 <th colspan="2" align="center"> Command Tools </th>
-                <th colspan="4" align="center"> Job Tools </th>
             </tr>
         </thead>
         <tbody>
@@ -600,6 +599,21 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     </a>
                     <br> CMD
                 </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- Job Tools -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="5" align="center"> Job Tools </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
                 <td align="center" style="border: none;">
                     <a>
                         <img alt="Copilot" width="45" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/github_copilot.png"/>
@@ -617,6 +631,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="Notion" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/notion.png"/>
                     </a>
                     <br> Notion
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.drawio.com/">
+                        <img alt="Drawio" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/diagramsdotnet.svg"/>
+                    </a>
+                    <br> Drawio
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://jmeter.apache.org/">
@@ -701,12 +721,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="React" width="40" height="50" src="https://techstack-generator.vercel.app/react-icon.svg"/>
                     </a>
                     <br> React
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript" style="color: white;">
-                        <img alt="JavaScript" width="40" height="50" src="https://techstack-generator.vercel.app/js-icon.svg"/>
-                    </a>
-                    <br> JavaScript
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.djangoproject.com/" style="color: white;">
