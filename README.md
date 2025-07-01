@@ -167,6 +167,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     <br> CSS
                 </td>
                 <td align="center" style="border: none;">
+                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript">
+                        <img alt="JavaScript" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/javascript.svg"/>
+                    </a>
+                    <br> JavaScript
+                </td>
+                <td align="center" style="border: none;">
                     <a href="https://markdown.tw/">
                         <img alt="Markdown" width="45" height="50" src="https://skillicons.dev/icons?i=md"/>
                     </a>
@@ -303,7 +309,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="GitLab" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
+                        <img alt="GitLab" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
                     </a>
                     <br> GitLab
                 </td>
