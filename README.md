@@ -634,7 +634,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.drawio.com/">
-                        <img alt="Drawio" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/diagramsdotnet.svg"/>
+                        <img alt="Drawio" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/diagramsdotnet.svg"/>
                     </a>
                     <br> Drawio
                 </td>
