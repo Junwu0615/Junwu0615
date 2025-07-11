@@ -948,14 +948,13 @@ Sunday                   160 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   5 mins              ████████████████████░░░░░   80.82 % 
-Markdown                 1 min               █████░░░░░░░░░░░░░░░░░░░░   19.18 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -971,7 +970,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2025 01:59:14 UTC
+ Last Updated on 11/07/2025 02:01:41 UTC
 <!--END_SECTION:waka-->
 </details>
 
