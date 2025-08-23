@@ -903,15 +903,17 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-99%20hrs%2057%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-780.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 171.9 kB Used in GitHub's Storage 
+> 📦 172.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 776 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -946,17 +948,17 @@ Sunday                   197 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   21 hrs 16 mins      ████████████████████████░   94.14 % 
-Markdown                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Batchfile                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-textmate                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   19 hrs 32 mins      ████████████████████████░   94.10 % 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Batchfile                29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+textmate                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-PyCharm                  22 hrs 35 mins      █████████████████████████   100.00 % 
+PyCharm                  20 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -972,7 +974,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2025 01:50:06 UTC
+ Last Updated on 23/08/2025 01:45:59 UTC
 <!--END_SECTION:waka-->
 </details>
 
