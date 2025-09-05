@@ -903,9 +903,9 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-126%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-128%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-789.7%20thousand%20lines%20of%20code-blue)
 
@@ -948,17 +948,17 @@ Sunday                   219 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   20 hrs 24 mins      ███████████████████████░░   92.17 % 
-Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-textmate                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python                   19 hrs 42 mins      ███████████████████████░░   90.52 % 
+HTML                     1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+textmate                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Batchfile                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-PyCharm                  22 hrs 8 mins       █████████████████████████   100.00 % 
+PyCharm                  21 hrs 46 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  22 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  21 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -974,7 +974,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2025 01:41:58 UTC
+ Last Updated on 05/09/2025 01:44:23 UTC
 <!--END_SECTION:waka-->
 </details>
 
