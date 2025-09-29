@@ -903,13 +903,15 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-154%20hrs%206%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-794.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 204.2 kB Used in GitHub's Storage 
+> 📦 204.0 kB Used in GitHub's Storage 
  > 
 > 🏆 819 Contributions in the Year 2025
  > 
@@ -919,6 +921,46 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
  > 
 > 🔑 15 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                202 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
+🌆 Daytime                456 commits         ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌃 Evening                461 commits         ████████░░░░░░░░░░░░░░░░░   33.36 % 
+🌙 Night                  263 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   187 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Tuesday                  166 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Wednesday                193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
+Thursday                 185 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Friday                   251 commits         █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Saturday                 158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Sunday                   242 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Python                   4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.85 % 
+YAML                     2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Markdown                 1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Docker                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Bash                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+
+🔥 Editors: 
+PyCharm                  10 hrs              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  10 hrs              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -932,7 +974,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2025 01:52:51 UTC
+ Last Updated on 29/09/2025 01:47:21 UTC
 <!--END_SECTION:waka-->
 </details>
 
