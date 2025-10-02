@@ -138,7 +138,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://zh.wikipedia.org/zh-tw/SPARQL">
-                        <img alt="GO" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/go.svg"/>
+                        <img alt="GO" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/go.svg"/>
                     </a>
                     <br> GO
                 </td>
@@ -279,16 +279,16 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     <br> Django
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://flask.palletsprojects.com/">
-                        <img alt="Flask" width="40" height="50" src="https://skillicons.dev/icons?i=flask"/>
-                    </a>
-                    <br> Flask
-                </td>
-                <td align="center" style="border: none;">
                     <a href="https://fastapi.tiangolo.com/">
                         <img alt="FastAPI" width="40" height="50" src="https://skillicons.dev/icons?i=fastapi"/>
                     </a>
                     <br> FastAPI
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://flask.palletsprojects.com/">
+                        <img alt="Flask" width="40" height="50" src="https://skillicons.dev/icons?i=flask"/>
+                    </a>
+                    <br> Flask
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://airflow.apache.org/">
@@ -300,6 +300,47 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         </tbody>
     </table>
 </div>
+
+
+<!-- Deploy & Cloud -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="10" align="center"> Deploy & Cloud </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://www.docker.com/">
+                        <img alt="Docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
+                    </a>
+                    <br> Docker
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://aws.amazon.com" style="color: white;">
+                        <img alt="AWS" width="40" height="50" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
+                    </a>
+                    <br> AWS
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://azure.microsoft.com/zh-tw" style="color: white;">
+                        <img alt="Azure" width="40" height="50" src="https://skillicons.dev/icons?i=azure"/>
+                    </a>
+                    <br> Azure
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://cloud.google.com" style="color: white;">
+                        <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
+                    </a>
+                    <br> GCP
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 <!-- Application Services -->
 <div align="center">
@@ -384,7 +425,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://aws.amazon.com/tw/what-is/retrieval-augmented-generation/">
-                        <img alt="RAG" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/RAG.webp"/>
+                        <img alt="RAG" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/RAG.webp"/>
                     </a>
                     <br> RAG
                 </td>
@@ -420,51 +461,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="PyTorch" width="40" height="50" src="https://skillicons.dev/icons?i=pytorch"/>
                     </a>
                     <br> PyTorch
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
-<!-- Deploy & Cloud -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> Deploy </th>
-            </tr>
-            <tr>
-                <th colspan="10" align="center"> Deploy & Cloud </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://www.docker.com/">
-                        <img alt="Docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
-                    </a>
-                    <br> Docker
-                </td>
-            </tr>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://aws.amazon.com" style="color: white;">
-                        <img alt="AWS" width="40" height="50" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
-                    </a>
-                    <br> AWS
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://azure.microsoft.com/zh-tw" style="color: white;">
-                        <img alt="Azure" width="40" height="50" src="https://skillicons.dev/icons?i=azure"/>
-                    </a>
-                    <br> Azure
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://cloud.google.com" style="color: white;">
-                        <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
-                    </a>
-                    <br> GCP
                 </td>
             </tr>
         </tbody>
@@ -526,12 +522,13 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 </div>
 
 
-<!-- CI / CD -->
+<!-- CI / CD & Version Control -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> CI / CD </th>
+                <th colspan="1" align="center"> CI / CD </th>
+                <th colspan="2" align="center"> Version Control </th>
             </tr>
         </thead>
         <tbody>
@@ -541,6 +538,18 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="GitHub Actions" width="40" height="50" src="https://skillicons.dev/icons?i=githubactions"/>
                     </a>
                     <br> GitHub Actions
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://github.com/">
+                        <img alt="Git" width="40" height="50" src="https://skillicons.dev/icons?i=git"/>
+                    </a>
+                    <br> Git
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://github.com/">
+                        <img alt="GitHub" width="50" height="50" src="https://techstack-generator.vercel.app/github-icon.svg"/>
+                    </a>
+                    <br> GitHub
                 </td>
             </tr>
         </tbody>
@@ -592,39 +601,13 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
-<!-- Version Control -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="2" align="center"> Version Control </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://github.com/">
-                        <img alt="Git" width="40" height="50" src="https://skillicons.dev/icons?i=git"/>
-                    </a>
-                    <br> Git
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://github.com/">
-                        <img alt="Github" width="50" height="50" src="https://techstack-generator.vercel.app/github-icon.svg"/>
-                    </a>
-                    <br> Github
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
 
-<!-- IDE of Programming -->
+<!-- Development Tools -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> IDE of Programming </th>
+                <th colspan="10" align="center"> Development Tools </th>
             </tr>
         </thead>
         <tbody>
@@ -641,6 +624,14 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     </a>
                     <br> Azure Data Studio
                 </td>
+                <td align="center" style="border: none;">
+                    <a href="https://jmeter.apache.org/">
+                        <img alt="Apache JMeter" width="110" height="45" src="https://jmeter.apache.org/images/jmeter.png"/>
+                    </a>
+                    <br> Apache JMeter
+                </td>
+            </tr>
+            <tr>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icon/F4uMFPZgS0gt/anaconda">
                         <img alt="Anaconda" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/anaconda.png"/>
@@ -756,26 +747,40 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     </a>
                     <br> Drawio
                 </td>
-                <td align="center" style="border: none;">
-                    <a href="https://jmeter.apache.org/">
-                        <img alt="Apache JMeter" width="110" height="45" src="https://jmeter.apache.org/images/jmeter.png"/>
-                    </a>
-                    <br> Apache JMeter
-                </td>
             </tr>
         </tbody>
     </table>
 </div>
 
-<!-- Base Tools -->
+<!-- Office Tools -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> Base Tools </th>
+                <th colspan="10" align="center"> Office Tools </th>
             </tr>
         </thead>
         <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://icons8.com/icon/117563/microsoft-word-2019">
+                        <img alt="Word" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/word.png"/>
+                    </a>
+                    <br> Word
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://icons8.com/icon/ifP93G7BXUhU/microsoft-powerpoint-2019">
+                        <img alt="PowerPoint" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/ppt.png"/>
+                    </a>
+                    <br> PowerPoint
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://icons8.com/icon/117561/microsoft-excel-2019">
+                        <img alt="Excel" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/excel.png"/>
+                    </a>
+                    <br> Excel
+                </td>
+            </tr>
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://icons8.com/icon/rZObyIJRui2T/adobe-acrobat">
@@ -800,24 +805,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="Adobe After Effects" width="40" height="50" src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg"/>
                     </a>
                     <br> AE
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/117563/microsoft-word-2019">
-                        <img alt="Word" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/word.png"/>
-                    </a>
-                    <br> Word
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/ifP93G7BXUhU/microsoft-powerpoint-2019">
-                        <img alt="PowerPoint" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/ppt.png"/>
-                    </a>
-                    <br> PowerPoint
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/117561/microsoft-excel-2019">
-                        <img alt="Excel" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/excel.png"/>
-                    </a>
-                    <br> Excel
                 </td>
             </tr>
         </tbody>
