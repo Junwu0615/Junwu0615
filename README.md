@@ -319,12 +319,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     <br> Docker
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://nssm.cc/">
-                        <img alt="Windows Services ( NSSM )" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/windows_services.png"/>
-                    </a>
-                    <br> Windows Services ( NSSM )
-                </td>
-                <td align="center" style="border: none;">
                     <a href="https://aws.amazon.com" style="color: white;">
                         <img alt="AWS" width="40" height="50" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
                     </a>
@@ -341,6 +335,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
                     </a>
                     <br> GCP
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://nssm.cc/">
+                        <img alt="Windows Services ( NSSM )" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/windows_services.png"/>
+                    </a>
+                    <br> Windows Services ( NSSM )
                 </td>
             </tr>
         </tbody>
