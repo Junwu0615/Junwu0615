@@ -329,6 +329,8 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     </a>
                     <br> GitLab
                 </td>
+            </tr>
+            <tr>
                 <td align="center" style="border: none;">
                     <a href="https://nextcloud.com/" style="color: white;">
                         <img alt="Nextcloud" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/nextcloud.svg"/>
@@ -352,12 +354,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
-<!-- LLM & Machine Learning -->
+<!-- LLM -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> LLM & Machine Learning </th>
+                <th colspan="10" align="center"> LLM </th>
             </tr>
         </thead>
         <tbody>
@@ -374,6 +376,33 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     </a>
                     <br> Google Gemini
                 </td>
+                <td align="center" style="border: none;">
+                    <a href="https://huggingface.co/">
+                        <img alt="Hugging Face" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/hugging_face.svg"/>
+                    </a>
+                    <br> Hugging Face
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://aws.amazon.com/tw/what-is/retrieval-augmented-generation/">
+                        <img alt="RAG" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/RAG.webp"/>
+                    </a>
+                    <br> RAG
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<!-- Machine Learning -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="10" align="center"> Machine Learning </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
                 <td align="center" style="border: none;">
                     <a href="https://www.tensorflow.org/">
                         <img alt="Tensorflow" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Tensorflow.gif"/>
@@ -397,12 +426,16 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
-<!-- Deploy -->
+
+<!-- Deploy & Cloud -->
 <div align="center">
     <table>
         <thead>
             <tr>
                 <th colspan="10" align="center"> Deploy </th>
+            </tr>
+            <tr>
+                <th colspan="10" align="center"> Deploy & Cloud </th>
             </tr>
         </thead>
         <tbody>
@@ -414,19 +447,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     <br> Docker
                 </td>
             </tr>
-        </tbody>
-    </table>
-</div>
-
-<!-- Cloud -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> Cloud </th>
-            </tr>
-        </thead>
-        <tbody>
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://aws.amazon.com" style="color: white;">
@@ -483,18 +503,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
             </tr>
             <tr>
                 <td align="center" style="border: none;">
-                    <a href="https://github.com/features/actions">
-                        <img alt="Github Actions" width="40" height="50" src="https://skillicons.dev/icons?i=githubactions"/>
-                    </a>
-                    <br> Github Actions
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://gist.github.com/">
-                        <img alt="Github Gist" width="50" height="50" src="https://k9982874.gallerycdn.vsassets.io/extensions/k9982874/github-gist-explorer/0.2.3/1638842316475/Microsoft.VisualStudio.Services.Icons.Default"/>
-                    </a>
-                    <br> Github Gist
-                </td>
-                <td align="center" style="border: none;">
                     <a href="https://streamlit.io/">
                         <img alt="Streamlit" width="40" height="40" src="https://raw.githubusercontent.com/rlew631/rlew631/5fcb1cee69c8034bfa2b98aad94b584fcff8d84f/streamlit_red.svg"/>
                     </a>
@@ -517,19 +525,41 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
+
+<!-- CI / CD -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="10" align="center"> CI / CD </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://github.com/features/actions">
+                        <img alt="GitHub Actions" width="40" height="50" src="https://skillicons.dev/icons?i=githubactions"/>
+                    </a>
+                    <br> GitHub Actions
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 <!-- Message Protocols -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="4" align="center"> Message Protocols </th>
+                <th colspan="5" align="center"> Message Protocols </th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://kafka.apache.org/" style="color: white;">
-                        <img alt="Apache Kafka" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/kafka.png"/>
+                        <img alt="Apache Kafka" width="30" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/kafka.png"/>
                     </a>
                     <br> Apache Kafka
                 </td>
