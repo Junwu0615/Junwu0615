@@ -125,7 +125,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 -->
 
 
-
 <!-- Languages -->
 <div align="center">
     <table>
@@ -197,6 +196,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
+
 <!-- Database -->
 <div align="center">
     <table>
@@ -261,6 +261,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         </tbody>
     </table>
 </div>
+
 
 <!-- Frameworks -->
 <div align="center">
@@ -401,6 +402,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
+
 <!-- LLM -->
 <div align="center">
     <table>
@@ -445,6 +447,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         </tbody>
     </table>
 </div>
+
 
 <!-- Machine Learning -->
 <div align="center">
@@ -568,6 +571,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
+
 <!-- Message Protocols -->
 <div align="center">
     <table>
@@ -679,6 +683,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
+
 <!-- OS -->
 <div align="center">
     <table>
@@ -725,6 +730,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
+
 <!-- Job Tools -->
 <div align="center">
     <table>
@@ -757,6 +763,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         </tbody>
     </table>
 </div>
+
 
 <!-- Office Tools -->
 <div align="center">
@@ -817,6 +824,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
+
 <!-- Studying -->
 <div align="center">
     <table>
@@ -843,7 +851,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         </tbody>
     </table>
 </div>
-
 
 
 <!-- Greedy Snake: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
