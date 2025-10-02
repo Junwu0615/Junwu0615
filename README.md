@@ -319,6 +319,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     <br> Docker
                 </td>
                 <td align="center" style="border: none;">
+                    <a href="https://nssm.cc/">
+                        <img alt="Windows Services ( NSSM )" width="50" height="50" src="https://techstack-generator.vercel.app/windows_services.png"/>
+                    </a>
+                    <br> Windows Services ( NSSM )
+                </td>
+                <td align="center" style="border: none;">
                     <a href="https://aws.amazon.com" style="color: white;">
                         <img alt="AWS" width="40" height="50" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
                     </a>
@@ -416,6 +422,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="Google Gemini" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Gemini.png"/>
                     </a>
                     <br> Google Gemini
+                </td>
+                <td align="center" style="border: none;">
+                    <a>
+                        <img alt="Copilot" width="45" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/github_copilot.png"/>
+                    </a>
+                    <br> Copilot
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://huggingface.co/">
@@ -667,12 +679,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     </table>
 </div>
 
-<!-- Operating System -->
+<!-- OS -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="3" align="center"> Operating System </th>
+                <th colspan="3" align="center"> OS </th>
                 <th colspan="2" align="center"> Command Tools </th>
             </tr>
         </thead>
@@ -723,12 +735,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         </thead>
         <tbody>
             <tr>
-                <td align="center" style="border: none;">
-                    <a>
-                        <img alt="Copilot" width="45" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/github_copilot.png"/>
-                    </a>
-                    <br> Copilot
-                </td>
                 <td align="center" style="border: none;">
                     <a>
                         <img alt="Youtrack" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/youtrack.png"/>
