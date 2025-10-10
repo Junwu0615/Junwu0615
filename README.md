@@ -1017,7 +1017,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-163%20hrs%2027%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-796.4%20thousand%20lines%20of%20code-blue)
 
@@ -1060,17 +1060,13 @@ Sunday                   242 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 53 mins        █████████████░░░░░░░░░░░░   50.78 % 
-YAML                     1 hr 30 mins        ██████████░░░░░░░░░░░░░░░   40.54 % 
-Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-GitIgnore file           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-Requirements.txt         1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  3 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 43 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -1086,7 +1082,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2025 01:44:04 UTC
+ Last Updated on 10/10/2025 01:44:51 UTC
 <!--END_SECTION:waka-->
 </details>
 
