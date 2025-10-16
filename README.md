@@ -15,7 +15,7 @@ https://github.com/tandpfun/skill-icons#readme
 https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-file
 -->
 
-<img alt="waving1" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ping%20Chun&desc=A%20self-evolving%20data%20scientist,%20just%20like%20Deep%20Learning&fontAlignY=30&fontSize=70&fontAlign=50&textBg=false&animation=fadeIn">
+<img alt="waving1" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ping%20Chun&desc=Building%20reliable%20systems%20that%20bridge%20data%20and%20automation.&fontAlignY=30&fontSize=70&fontAlign=50&textBg=false&animation=fadeIn">
 
 <!-- shield.io
 <div align="center">
