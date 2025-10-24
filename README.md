@@ -1015,9 +1015,9 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-176%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-799.4%20thousand%20lines%20of%20code-blue)
 
@@ -1060,15 +1060,15 @@ Sunday                   242 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   4 hrs 46 mins       ██████████████████████░░░   88.38 % 
-Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   4 hrs 47 mins       ██████████████████████░░░   88.42 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-PyCharm                  5 hrs 24 mins       █████████████████████████   100.00 % 
+PyCharm                  5 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -1084,7 +1084,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2025 01:47:39 UTC
+ Last Updated on 24/10/2025 01:43:48 UTC
 <!--END_SECTION:waka-->
 </details>
 
