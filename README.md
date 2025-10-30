@@ -55,7 +55,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
             </a>
           </td>
           <td align="center">
-            <a href="https://www.linkedin.com/in/ping-chun-wu-16a1602a7/" target="_blank">
+            <a href="https://www.linkedin.com/in/pc-wu-16a1602a7/" target="_blank">
               <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logoColor=white" alt="LinkedIn">
             </a>
           </td>
