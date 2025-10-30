@@ -377,6 +377,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                     </a>
                     <br> GitLab
                 </td>
+                <td align="center" style="border: none;">
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="Jenkins" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jenkins.png"/>
+                    </a>
+                    <br> Jenkins
+                </td>
             </tr>
             <tr>
                 <td align="center" style="border: none;">
