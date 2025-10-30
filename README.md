@@ -1028,11 +1028,9 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         </tr>
         <tr>
             <td>
-                <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
-
-[//]: # (                <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>)
-[//]: # (                <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>)
-            </td> 
+                <p align="center">
+                  <img alt="my brain" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
+                </p>
         </tr>
     </table> 
 </details>
