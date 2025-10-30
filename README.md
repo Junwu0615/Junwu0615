@@ -548,7 +548,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
     <table>
         <thead>
             <tr>
-                <th colspan="1" align="center"> CI / CD </th>
+                <th colspan="3" align="center"> CI / CD </th>
                 <th colspan="2" align="center"> Version Control </th>
             </tr>
         </thead>
@@ -559,6 +559,18 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="GitHub Actions" width="40" height="50" src="https://skillicons.dev/icons?i=githubactions"/>
                     </a>
                     <br> GitHub Actions
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="GitLab CI" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
+                    </a>
+                    <br> GitLab CI
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="Jenkins CI / CD" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jenkins.png"/>
+                    </a>
+                    <br> Jenkins CI / CD
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://github.com/">
@@ -1017,8 +1029,9 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         <tr>
             <td>
                 <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
-                <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
-                <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
+
+[//]: # (                <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>)
+[//]: # (                <img alt="my brain" align="center" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>)
             </td> 
         </tr>
     </table> 
