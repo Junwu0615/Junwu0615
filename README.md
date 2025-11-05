@@ -1044,6 +1044,8 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2018%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-801.3%20thousand%20lines%20of%20code-blue)
@@ -1113,7 +1115,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2025 01:51:28 UTC
+ Last Updated on 05/11/2025 01:52:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
