@@ -1052,7 +1052,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 
 **🐱 My GitHub Data** 
 
-> 📦 220.0 kB Used in GitHub's Storage 
+> 📦 219.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,002 Contributions in the Year 2025
  > 
@@ -1089,17 +1089,13 @@ Sunday                   243 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 13 mins        ████████████████░░░░░░░░░   63.60 % 
-Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-.env file                12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
-Python                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 55 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 55 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -1115,7 +1111,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/11/2025 01:52:56 UTC
+ Last Updated on 07/11/2025 01:51:14 UTC
 <!--END_SECTION:waka-->
 </details>
 
