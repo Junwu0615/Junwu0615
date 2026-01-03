@@ -1044,17 +1044,15 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%202%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-806.21%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-806.22%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 220.4 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 8 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -1062,42 +1060,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
  > 
 > 🔑 17 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                264 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-🌆 Daytime                563 commits         ████████░░░░░░░░░░░░░░░░░   31.54 % 
-🌃 Evening                591 commits         ████████░░░░░░░░░░░░░░░░░   33.11 % 
-🌙 Night                  367 commits         █████░░░░░░░░░░░░░░░░░░░░   20.56 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Tuesday                  231 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Wednesday                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Thursday                 259 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-Friday                   301 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Saturday                 189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Sunday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -1111,7 +1073,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/01/2026 02:03:13 UTC
+ Last Updated on 03/01/2026 01:56:55 UTC
 <!--END_SECTION:waka-->
 </details>
 
