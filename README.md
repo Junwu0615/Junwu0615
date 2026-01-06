@@ -1044,15 +1044,17 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2034%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-806.22%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-806.23%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 220.4 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2026
+> 🏆 20 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -1060,6 +1062,42 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                266 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+🌆 Daytime                569 commits         ████████░░░░░░░░░░░░░░░░░   31.59 % 
+🌃 Evening                595 commits         ████████░░░░░░░░░░░░░░░░░   33.04 % 
+🌙 Night                  371 commits         █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   305 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Tuesday                  232 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Wednesday                235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Thursday                 259 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Friday                   304 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
+Saturday                 193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Sunday                   273 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -1073,7 +1111,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 02:13:12 UTC
+ Last Updated on 06/01/2026 02:03:07 UTC
 <!--END_SECTION:waka-->
 </details>
 
