@@ -1044,15 +1044,17 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-421%20hrs%2026%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-858.25%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-859.34%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 228.9 kB Used in GitHub's Storage 
+> 📦 228.8 kB Used in GitHub's Storage 
  > 
-> 🏆 1,170 Contributions in the Year 2026
+> 🏆 1,187 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -1060,6 +1062,46 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
  > 
 > 🔑 17 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                288 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+🌆 Daytime                836 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+🌃 Evening                1150 commits        ██████████░░░░░░░░░░░░░░░   38.38 % 
+🌙 Night                  722 commits         ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   476 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+Tuesday                  415 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Wednesday                378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Thursday                 406 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Friday                   492 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Saturday                 392 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Sunday                   437 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+Markdown                 15 hrs 19 mins      ███████████████░░░░░░░░░░   59.13 % 
+YAML                     4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+Terraform                3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Makefile                 48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Text                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+
+🔥 Editors: 
+PyCharm                  25 hrs 54 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  25 hrs 54 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -1073,7 +1115,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 04:04:01 UTC
+ Last Updated on 30/05/2026 03:51:06 UTC
 <!--END_SECTION:waka-->
 </details>
 
