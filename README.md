@@ -345,8 +345,6 @@ https://techicons.dev/icons
                     </a>
                     <br> Apache Superset
                 </td>
-            </tr>
-            <tr>
                 <td align="center" style="border: none;">
                     <a href="https://www.portainer.io/" style="color: white;">
                         <img alt="Portainer" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/portainer.svg"/>
@@ -361,7 +359,7 @@ https://techicons.dev/icons
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://nodered.org/" style="color: white;">
-                        <img alt="Node-RED" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/node-red.svg"/>
+                        <img alt="Node-RED" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/node-red.svg"/>
                     </a>
                     <br> Node-RED
                 </td>
