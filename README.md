@@ -142,6 +142,12 @@ https://techicons.dev/icons
                     <br> Kubernetes
                 </td>
                 <td align="center" style="border: none;">
+                    <a href="https://www.docker.com/">
+                        <img alt="Docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
+                    </a>
+                    <br> Docker
+                </td>
+                <td align="center" style="border: none;">
                     <a href="https://developer.hashicorp.com/terraform" style="color: white;">
                         <img alt="Terraform" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Terraform.svg"/>
                     </a>
@@ -152,12 +158,6 @@ https://techicons.dev/icons
                         <img alt="Ansible" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Ansible.svg"/>
                     </a>
                     <br> Ansible
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.docker.com/">
-                        <img alt="Docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
-                    </a>
-                    <br> Docker
                 </td>
             </tr>
             <tr>
@@ -181,9 +181,9 @@ https://techicons.dev/icons
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://nssm.cc/">
-                        <img alt="Windows Services ( NSSM )" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/windows_services.png"/>
+                        <img alt="Windows Services" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/windows_services.png"/>
                     </a>
-                    <br> Windows Services<br>( NSSM )
+                    <br> Windows Services
                 </td>
             </tr>
         </tbody>
@@ -214,16 +214,84 @@ https://techicons.dev/icons
                     <br> MQTT
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://aws.amazon.com/tw/what-is/mqtt/">
+                    <a href="https://debezium.io/">
                         <img alt="Debezium" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/debezium.png"/>
                     </a>
                     <br> Debezium
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://aws.amazon.com/tw/what-is/mqtt/">
+                    <a href="https://flink.apache.org/">
                         <img alt="Apache Flink" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/flink.png"/>
                     </a>
                     <br> Apache Flink
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<!-- GitOps -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="2" align="center"> GitOps </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="GitLab CI" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
+                    </a>
+                    <br> GitLab CI
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="Argo CD" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Argo CD.svg"/>
+                    </a>
+                    <br> Argo CD
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<!-- Observability -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="4" align="center"> Observability </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://grafana.com/" style="color: white;">
+                        <img alt="Grafana" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Grafana.svg"/>
+                    </a>
+                    <br> Grafana
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://grafana.com/" style="color: white;">
+                        <img alt="Prometheus" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Prometheus.svg"/>
+                    </a>
+                    <br> Prometheus
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://grafana.com/" style="color: white;">
+                        <img alt="Loki" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/loki.png"/>
+                    </a>
+                    <br> Loki
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://grafana.com/" style="color: white;">
+                        <img alt="Tempo" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/tempo.png"/>
+                    </a>
+                    <br> Tempo
                 </td>
             </tr>
         </tbody>
@@ -274,12 +342,6 @@ https://techicons.dev/icons
                     <br> Nextcloud
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://grafana.com/" style="color: white;">
-                        <img alt="Grafana" width="40" height="50" src="https://skillicons.dev/icons?i=grafana"/>
-                    </a>
-                    <br> Grafana
-                </td>
-                <td align="center" style="border: none;">
                     <a href="https://nodered.org/" style="color: white;">
                         <img alt="Node-RED" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/node-red.svg"/>
                     </a>
@@ -321,6 +383,18 @@ https://techicons.dev/icons
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://jena.apache.org/">
+                        <img alt="Apache Iceberg" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/iceberg.png"/>
+                    </a>
+                    <br> Apache Iceberg	
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://jena.apache.org/">
+                        <img alt="MinIO" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/minio.png"/>
+                    </a>
+                    <br> MinIO
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://jena.apache.org/">
                         <img alt="Apache Jena" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jena.png"/>
                     </a>
                     <br> Apache Jena
@@ -350,105 +424,6 @@ https://techicons.dev/icons
                         <img alt="SQLite" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/sqlite.png"/>
                     </a>
                     <br> SQLite
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
-<!-- CI/CD & Version Control -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="4" align="center"> CI/CD </th>
-                <th colspan="2" align="center"> Version Control </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="GitLab CI" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
-                    </a>
-                    <br> GitLab CI
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="Argo CD" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Argo CD.svg"/>
-                    </a>
-                    <br> Argo CD
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="Jenkins CI / CD" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jenkins.png"/>
-                    </a>
-                    <br> Jenkins CI / CD
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://github.com/features/actions">
-                        <img alt="GitHub Actions" width="40" height="50" src="https://skillicons.dev/icons?i=githubactions"/>
-                    </a>
-                    <br> GitHub Actions
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://github.com/">
-                        <img alt="Git" width="40" height="50" src="https://skillicons.dev/icons?i=git"/>
-                    </a>
-                    <br> Git
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://github.com/">
-                        <img alt="GitHub" width="50" height="50" src="https://techstack-generator.vercel.app/github-icon.svg"/>
-                    </a>
-                    <br> GitHub
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
-<!-- LLM -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> LLM </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://chatgpt.com/" style="color: white;">
-                        <img alt="ChatGPT" width="40" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"/>
-                    </a>
-                    <br> ChatGPT
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://gemini.google.com/?hl=zh-TW" style="color: white;">
-                        <img alt="Google Gemini" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Gemini.png"/>
-                    </a>
-                    <br> Google Gemini
-                </td>
-                <td align="center" style="border: none;">
-                    <a>
-                        <img alt="Copilot" width="45" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/github_copilot.png"/>
-                    </a>
-                    <br> Copilot
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://huggingface.co/">
-                        <img alt="Hugging Face" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/hugging_face.svg"/>
-                    </a>
-                    <br> Hugging Face
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://aws.amazon.com/tw/what-is/retrieval-augmented-generation/">
-                        <img alt="RAG" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/RAG.webp"/>
-                    </a>
-                    <br> RAG
                 </td>
             </tr>
         </tbody>
@@ -561,6 +536,99 @@ https://techicons.dev/icons
                         <img alt="Markdown" width="45" height="50" src="https://skillicons.dev/icons?i=md"/>
                     </a>
                     <br> Markdown
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<!-- CI/CD & Version Control -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="3" align="center"> CI/CD </th>
+                <th colspan="2" align="center"> Version Control </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="GitLab CI" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
+                    </a>
+                    <br> GitLab CI
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="Jenkins CI / CD" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jenkins.png"/>
+                    </a>
+                    <br> Jenkins CI / CD
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://github.com/features/actions">
+                        <img alt="GitHub Actions" width="40" height="50" src="https://skillicons.dev/icons?i=githubactions"/>
+                    </a>
+                    <br> GitHub Actions
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://github.com/">
+                        <img alt="Git" width="40" height="50" src="https://skillicons.dev/icons?i=git"/>
+                    </a>
+                    <br> Git
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://github.com/">
+                        <img alt="GitHub" width="50" height="50" src="https://techstack-generator.vercel.app/github-icon.svg"/>
+                    </a>
+                    <br> GitHub
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<!-- LLM -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="3" align="center"> LLM </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://chatgpt.com/" style="color: white;">
+                        <img alt="ChatGPT" width="40" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg"/>
+                    </a>
+                    <br> ChatGPT
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://gemini.google.com/?hl=zh-TW" style="color: white;">
+                        <img alt="Google Gemini" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Gemini.png"/>
+                    </a>
+                    <br> Google Gemini
+                </td>
+                <td align="center" style="border: none;">
+                    <a>
+                        <img alt="Copilot" width="45" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/github_copilot.png"/>
+                    </a>
+                    <br> Copilot
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://huggingface.co/">
+                        <img alt="Hugging Face" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/hugging_face.svg"/>
+                    </a>
+                    <br> Hugging Face
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://aws.amazon.com/tw/what-is/retrieval-augmented-generation/">
+                        <img alt="RAG" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/RAG.webp"/>
+                    </a>
+                    <br> RAG
                 </td>
             </tr>
         </tbody>
