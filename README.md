@@ -125,12 +125,12 @@ https://techicons.dev/icons
 <br>
 -->
 
-<!-- Cloud-Native & Iac & Deployment -->
+<!-- Cloud-Native & Iac & Container -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> Cloud-Native & Iac & Deployment </th>
+                <th colspan="10" align="center"> Cloud-Native & Iac & Container </th>
             </tr>
         </thead>
         <tbody>
@@ -754,6 +754,12 @@ https://techicons.dev/icons
                     </a>
                     <br> Apache JMeter
                 </td>
+                <td align="center" style="border: none;">
+                    <a href="https://code.visualstudio.com/">
+                        <img alt="VS Code" width="45" height="50" src="https://skillicons.dev/icons?i=vscode"/>
+                    </a>
+                    <br> VS Code
+                </td>
             </tr>
             <tr>
                 <td align="center" style="border: none;">
@@ -773,12 +779,6 @@ https://techicons.dev/icons
                         <img alt="Spyder" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/spyder.png"/>
                     </a>
                     <br> Spyder
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://code.visualstudio.com/">
-                        <img alt="VS Code" width="45" height="50" src="https://skillicons.dev/icons?i=vscode"/>
-                    </a>
-                    <br> VS Code
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://visualstudio.microsoft.com/zh-hant/downloads/">
