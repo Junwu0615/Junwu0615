@@ -276,22 +276,42 @@ https://techicons.dev/icons
                     <br> Grafana
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://grafana.com/" style="color: white;">
+                    <a href="https://prometheus.io/docs/visualization/grafana/" style="color: white;">
                         <img alt="Prometheus" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Prometheus.svg"/>
                     </a>
                     <br> Prometheus
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://grafana.com/" style="color: white;">
+                    <a href="https://grafana.com/oss/loki/" style="color: white;">
                         <img alt="Loki" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/loki.png"/>
                     </a>
                     <br> Loki
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://grafana.com/" style="color: white;">
+                    <a href="https://grafana.com/docs/tempo/latest/" style="color: white;">
                         <img alt="Tempo" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/tempo.png"/>
                     </a>
                     <br> Tempo
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://www.elastic.co/elastic-stack" style="color: white;">
+                        <img alt="Elasticsearch" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Elastic Search.svg"/>
+                    </a>
+                    <br> Elasticsearch
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.elastic.co/elastic-stack" style="color: white;">
+                        <img alt="Logstash" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Logstash.svg"/>
+                    </a>
+                    <br> Logstash
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.elastic.co/elastic-stack" style="color: white;">
+                        <img alt="Kibana" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Kibana.svg"/>
+                    </a>
+                    <br> Kibana
                 </td>
             </tr>
         </tbody>
