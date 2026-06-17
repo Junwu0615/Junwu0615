@@ -203,7 +203,7 @@ https://techicons.dev/icons
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://kafka.apache.org/" style="color: white;">
-                        <img alt="Apache Kafka" width="30" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/kafka.png"/>
+                        <img alt="Apache Kafka" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Apache Kafka.svg"/>
                     </a>
                     <br> Apache Kafka
                 </td>
@@ -249,7 +249,7 @@ https://techicons.dev/icons
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="Argo CD" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Argo CD.svg"/>
+                        <img alt="Argo CD" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Argo CD.svg"/>
                     </a>
                     <br> Argo CD
                 </td>
@@ -271,25 +271,25 @@ https://techicons.dev/icons
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://grafana.com/" style="color: white;">
-                        <img alt="Grafana" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Grafana.svg"/>
+                        <img alt="Grafana" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Grafana.svg"/>
                     </a>
                     <br> Grafana
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://grafana.com/" style="color: white;">
-                        <img alt="Prometheus" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Prometheus.svg"/>
+                        <img alt="Prometheus" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Prometheus.svg"/>
                     </a>
                     <br> Prometheus
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://grafana.com/" style="color: white;">
-                        <img alt="Loki" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/loki.png"/>
+                        <img alt="Loki" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/loki.png"/>
                     </a>
                     <br> Loki
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://grafana.com/" style="color: white;">
-                        <img alt="Tempo" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/tempo.png"/>
+                        <img alt="Tempo" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/tempo.png"/>
                     </a>
                     <br> Tempo
                 </td>
@@ -393,12 +393,6 @@ https://techicons.dev/icons
                     </a>
                     <br> MinIO
                 </td>
-                <td align="center" style="border: none;">
-                    <a href="https://jena.apache.org/">
-                        <img alt="Apache Jena" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jena.png"/>
-                    </a>
-                    <br> Apache Jena
-                </td>
             </tr>
             <tr>
                 <td align="center" style="border: none;">
@@ -424,6 +418,12 @@ https://techicons.dev/icons
                         <img alt="SQLite" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/sqlite.png"/>
                     </a>
                     <br> SQLite
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://jena.apache.org/">
+                        <img alt="Apache Jena" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jena.png"/>
+                    </a>
+                    <br> Apache Jena
                 </td>
             </tr>
         </tbody>
@@ -595,7 +595,7 @@ https://techicons.dev/icons
     <table>
         <thead>
             <tr>
-                <th colspan="3" align="center"> LLM </th>
+                <th colspan="5" align="center"> LLM </th>
             </tr>
         </thead>
         <tbody>
@@ -618,6 +618,8 @@ https://techicons.dev/icons
                     </a>
                     <br> Copilot
                 </td>
+            </tr>
+            <tr>
                 <td align="center" style="border: none;">
                     <a href="https://huggingface.co/">
                         <img alt="Hugging Face" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/hugging_face.svg"/>
