@@ -1432,7 +1432,7 @@ https://techicons.dev/icons
 <br>
 
 <!-- Other -->
-<details open>
+<details>
     <summary> 📈 Other </summary>
     <br>
     <table align="center"> 
@@ -1460,7 +1460,7 @@ https://techicons.dev/icons
 <br>
 
 <!-- WakaTime Stat: https://wakatime.com/settings | teaching: https://blog.csdn.net/weixin_43233914/article/details/126087735 -->
-<details open>
+<details>
 <summary> ⏲️ WakaTime Stat </summary>
 <br>
 
@@ -1543,7 +1543,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 <br>
 
 <!-- My GitHub Stat -->
-<details open>
+<details>
     <summary> 📊 GitHub Stat </summary>
     <br>
     <table align="center"> 
