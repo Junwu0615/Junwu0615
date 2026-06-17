@@ -231,12 +231,12 @@ https://techicons.dev/icons
 </div>
 
 
-<!-- GitOps -->
+<!-- GitOps Delivery -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="2" align="center"> GitOps </th>
+                <th colspan="2" align="center"> GitOps Delivery </th>
             </tr>
         </thead>
         <tbody>
@@ -318,7 +318,6 @@ https://techicons.dev/icons
     </table>
 </div>
 
-
 <!-- Application Services -->
 <div align="center">
     <table>
@@ -330,6 +329,12 @@ https://techicons.dev/icons
         <tbody>
             <tr>
                 <td align="center" style="border: none;">
+                    <a href="https://www.hashicorp.com/en/products/vault">
+                        <img alt="HashiCorp Vault" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/HashiCorp Vault.svg"/>
+                    </a>
+                    <br> HashiCorp Vault
+                </td>
+                <td align="center" style="border: none;">
                     <a href="https://www.docker.com/">
                         <img alt="Docker Registry" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
                     </a>
@@ -340,18 +345,6 @@ https://techicons.dev/icons
                         <img alt="Portainer" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/portainer.svg"/>
                     </a>
                     <br> Portainer
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="GitLab" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
-                    </a>
-                    <br> GitLab
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="Jenkins" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jenkins.png"/>
-                    </a>
-                    <br> Jenkins
                 </td>
             </tr>
             <tr>
@@ -563,12 +556,12 @@ https://techicons.dev/icons
 </div>
 
 
-<!-- CI/CD & Version Control -->
+<!-- Pipeline-Driven Delivery & Version Control -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="3" align="center"> CI/CD </th>
+                <th colspan="3" align="center"> Pipeline-Driven Delivery </th>
                 <th colspan="2" align="center"> Version Control </th>
             </tr>
         </thead>
@@ -584,7 +577,7 @@ https://techicons.dev/icons
                     <a href="https://about.gitlab.com/" style="color: white;">
                         <img alt="Jenkins CI / CD" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jenkins.png"/>
                     </a>
-                    <br> Jenkins CI / CD
+                    <br> Jenkins CD
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://github.com/features/actions">
