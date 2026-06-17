@@ -303,12 +303,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 </div>
 
 
-<!-- Deploy & Cloud -->
+<!-- Cloud-Native & Iac & Deployment -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> Deploy & Cloud </th>
+                <th colspan="10" align="center"> Cloud-Native & Iac & Deployment </th>
             </tr>
         </thead>
         <tbody>
@@ -321,15 +321,29 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://developer.hashicorp.com/terraform" style="color: white;">
-                        <img alt="Terraform" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Terraform.svg"/>
+                        <img alt="Terraform" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Terraform.svg"/>
                     </a>
                     <br> Terraform
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://docs.ansible.com/" style="color: white;">
-                        <img alt="Ansible" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Ansible.svg"/>
+                        <img alt="Ansible" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Ansible.svg"/>
                     </a>
                     <br> Ansible
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.docker.com/">
+                        <img alt="Docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
+                    </a>
+                    <br> Docker
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://cloud.google.com" style="color: white;">
+                        <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
+                    </a>
+                    <br> GCP
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://aws.amazon.com" style="color: white;">
@@ -342,18 +356,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="Azure" width="40" height="50" src="https://skillicons.dev/icons?i=azure"/>
                     </a>
                     <br> Azure
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://cloud.google.com" style="color: white;">
-                        <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
-                    </a>
-                    <br> GCP
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.docker.com/">
-                        <img alt="Docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
-                    </a>
-                    <br> Docker
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://nssm.cc/">
@@ -910,12 +912,30 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <summary> 🖥️ Open-Source Projects </summary>
 <br>
 
+
+<table width='1000' align="center">
+<tr> <th> Cloud-Native Data Platform PoC </th> </tr>
+<td>
+
+<!-- Cloud-Native Data Platform PoC -->
+| <div style='width: 230px'> PG-Project </div> | <div style='width: 300px'> Tech Stack </div> |
+|--|:--|
+| [Platform-Genesis](https://github.com/Junwu0615/Platform-Genesis) | ![OLTP](https://img.shields.io/badge/Architecture-OLTP-red?style=flat-square) ![OLAP](https://img.shields.io/badge/Architecture-OLAP-red?style=flat-square) ![HTAP](https://img.shields.io/badge/Architecture-HTAP-red?style=flat-square)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache_Superset-00A699?style=flat-square&logo=apache-superset&logoColor=white)<br>![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Schema Registry](https://img.shields.io/badge/Schema_Registry-blue?style=flat-square&logo=apache-kafka&logoColor=white)<br>![Debezium](https://img.shields.io/badge/Debezium-9400D3?style=flat-square&logo=red-hat&logoColor=white) ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-000080?style=flat-square&logo=apache&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6522C?style=flat-square&logo=apache-flink&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E2E?style=flat-square&logo=MinIO&logoColor=white)<br>![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)<br>![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)<br>![GKE](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Docker Registry](https://img.shields.io/badge/Docker_Registry-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vault](https://img.shields.io/badge/HashiCorp_Vault-6070E1?style=flat-square&logo=hashicorp&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEFF?style=flat-square&logo=portainer&logoColor=white)<br>![Debian](https://img.shields.io/badge/Debian-gray?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9433F?style=flat-square&logo=ubuntu&logoColor=white) ![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=flat-square&logo=windows&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white) |
+| [PG-Infrastructure](https://github.com/Junwu0615/PG-Infrastructure) | `GKE` `Kubernetes` `Terraform` `Ansible` `Docker` `Makefile` |
+| [PG-APP-Core](https://github.com/Junwu0615/PG-APP-Core) | `PG-Shared-Lib` `Python` |
+| [PG-Shared-Lib](https://github.com/Junwu0615/PG-Shared-Lib) | `EntryPoint` `Logger` `MqttServer` `KafkaConsumerManager` `KafkaProducerManager` |
+| [PG-Edge-Container](https://github.com/Junwu0615/PG-Edge-Container) | `PG-APP-Core` `MQTT` `SQLite` |
+| [PG-Airflow-DAGs](https://github.com/Junwu0615/PG-Airflow-DAGs) | `Airflow` `DAGs` |
+
+</td> </table>
+
+
 <table width='1000' align="center">
 <tr> <th> LLM </th> </tr>
 <td>
 
 <!-- LLM -->
-| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
+| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--:|--|
 | [PC-Bot-With-GenAI](https://github.com/Junwu0615/PC-Bot-With-GenAI) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/8c304a23bb8dad13ba9658dbaa3f806c/raw/PC-Bot-With-GenAI_clone.json&logo=github"> | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2.svg?logo=googlegemini&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E.svg?logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-005571.svg?logo=data:image/png;base64,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&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-0067A0.svg?logo=googlecloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![SQL_Server](https://img.shields.io/badge/SQL_Server-646565.svg?logo=data:image/jpeg;base64,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)<br>![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![NGROK](https://img.shields.io/badge/NGROK-1F1E37.svg?logo=ngrok&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [RAG-With-LangChain-And-FAISS](https://github.com/Junwu0615/RAG-With-LangChain-And-FAISS) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/4809a357894e05e277dd8c3c3e278ce8/raw/RAG-With-LangChain-And-FAISS_clone.json&logo=github"> | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2.svg?logo=googlegemini&logoColor=white) ![OpenAI_ChatGPT](https://img.shields.io/badge/OpenAI_ChatGPT-412991.svg?logo=openai&logoColor=white) ![Meta_Llama_2](https://img.shields.io/badge/Meta_Llama_2-0467DF.svg?logo=meta&logoColor=white) <br> ![Hugging_Face](https://img.shields.io/badge/Hugging_Face-FF9E0F.svg?logo=huggingface&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
@@ -928,7 +948,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <td>
 
 <!-- Infrastructure & DevOps -->
-| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
+| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--:|--|
 | [Airflow-End-To-End-Dev](https://github.com/Junwu0615/Airflow-End-To-End-Dev) | - | ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-000000.svg?logo=apacheairflow&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26.svg?logo=GitLab&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?logo=Grafana&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=PostgreSQL&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [Ansible-Deploy-To-Edge](https://github.com/Junwu0615/Ansible-Deploy-To-Edge) | - | ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white) ![Jinja](https://img.shields.io/badge/Jinja-7E0C1B.svg?logo=jinja&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
@@ -945,7 +965,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <td>
 
 <!-- Backend -->
-| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
+| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--:|--|
 | [Latency-Throughput-Simulation-Test](https://github.com/Junwu0615/Latency-Throughput-Simulation-Test) | - | ![Redis](https://img.shields.io/badge/Redis-FF4438.svg?logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20.svg?logo=apachekafka&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white) <br> ![Go](https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [CAED feat.DL](https://github.com/dl-jack-123/CAED) | <img alt='GitHub Views' src='https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/dl-jack-123/7b40f4b7a8ef0f41258dd5343a77e1a9/raw/CAED_clone.json&logo=github'> | ![Apache_Airflow](https://img.shields.io/badge/Apache_Airflow-000000.svg?logo=apacheairflow&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=PostgreSQL&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?logo=Docker&logoColor=white) ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
@@ -963,7 +983,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <td>
 
 <!-- Machine Learning -->
-| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
+| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--:|--|
 | [LCII-Rec-Model](https://github.com/Junwu0615/LCII-Rec-Model) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/7f654406c51d568d31d565347f22d609/raw/LCII-Rec-Model_clone.json&logo=github"> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [NVDA-Price-Stock-Prediction](https://github.com/Junwu0615/NVDA-Price-Stock-Prediction) |  <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/05f5b34eedbee0ef7d196fdb42ee61f6/raw/NVDA-Price-Stock-Prediction_clone.json&logo=github"> | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
@@ -976,7 +996,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <td>
 
 <!-- Data Visualization -->
-| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
+| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--:|--|
 | [Using-Streamlit-Create-Dashboard](https://github.com/Junwu0615/Using-Streamlit-Create-Dashboard) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/bba308b4514074dc7b93d762906f329b/raw/Using-Streamlit-Create-Dashboard_clone.json&logo=github"> | ![Streamlit](https://img.shields.io/badge/Streamlit-167C80.svg?logo=streamlit) ![Streamlit_Cloud](https://img.shields.io/badge/Streamlit_Cloud-41454A.svg?logo=icloud) ![Google_Sheet](https://img.shields.io/badge/Google_Sheet-3F4F95.svg?logo=googlesheets) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 
@@ -989,7 +1009,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <td>
 
 <!-- Web Crawler -->
-| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
+| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--:|--|
 | [Crawler-Keywords-And-Use-LineBot](https://github.com/Junwu0615/Crawler-Keywords-And-Use-LineBot) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/dc62dfdf2b0e2710dd9a47cebee51ffa/raw/Crawler-Keywords-And-Use-LineBot_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![Line](https://img.shields.io/badge/Line-00c300.svg?logo=line&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000.svg?logo=flask&logoColor=white) ![NGROK](https://img.shields.io/badge/NGROK-1F1E37.svg?logo=ngrok&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [LeetCode-Record-Sharing-Method](https://github.com/Junwu0615/LeetCode-Record-Sharing-Method) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.github.com/Junwu0615/df4349f01a564de4cf309a290098ba58/raw/LeetCode-Record-Sharing-Method_clone.json&logo=github"> | ![Crawler](https://img.shields.io/badge/Crawler-006241.svg?logo=openbugbounty&logoColor=white) ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white)|
@@ -1009,7 +1029,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <td>
 
 <!-- Other -->
-| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Technologies </div> |
+| <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--:|--|
 | [Other](https://github.com/Junwu0615/Other) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/038cbea264678dca58c487512512e747/raw/Other_clone.json&logo=github"> | ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white) |
 | [Git-Personal-Page](https://github.com/Junwu0615/Junwu0615) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/aeec191132bd47592ab9e5b9dcc38c4c/raw/Junwu0615_clone.json&logo=github"> | ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white) |
