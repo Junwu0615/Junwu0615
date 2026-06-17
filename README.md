@@ -130,7 +130,7 @@ https://techicons.dev/icons
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> Cloud-Native & Iac & Container </th>
+                <th colspan="10" align="center"> Cloud-Native & Iac & Container & Deployment </th>
             </tr>
         </thead>
         <tbody>
