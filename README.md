@@ -125,7 +125,7 @@ https://techicons.dev/icons
 <br>
 -->
 
-<!-- Cloud-Native & Iac & Container -->
+<!-- Cloud-Native & Iac & Container & Deployment -->
 <div align="center">
     <table>
         <thead>
@@ -181,7 +181,7 @@ https://techicons.dev/icons
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://nssm.cc/">
-                        <img alt="Windows Services" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/windows_services.png"/>
+                        <img alt="Windows Services" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/windows_services.png"/>
                     </a>
                     <br> Windows Services
                 </td>
@@ -271,19 +271,19 @@ https://techicons.dev/icons
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://grafana.com/" style="color: white;">
-                        <img alt="Grafana" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Grafana.svg"/>
+                        <img alt="Grafana" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Grafana.svg"/>
                     </a>
                     <br> Grafana
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://prometheus.io/docs/visualization/grafana/" style="color: white;">
-                        <img alt="Prometheus" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Prometheus.svg"/>
+                        <img alt="Prometheus" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Prometheus.svg"/>
                     </a>
                     <br> Prometheus
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://grafana.com/oss/loki/" style="color: white;">
-                        <img alt="Loki" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/loki.png"/>
+                        <img alt="Loki" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/loki.png"/>
                     </a>
                     <br> Loki
                 </td>
@@ -297,19 +297,19 @@ https://techicons.dev/icons
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://www.elastic.co/elastic-stack" style="color: white;">
-                        <img alt="Elasticsearch" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Elastic Search.svg"/>
+                        <img alt="Elasticsearch" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Elastic Search.svg"/>
                     </a>
                     <br> Elasticsearch
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.elastic.co/elastic-stack" style="color: white;">
-                        <img alt="Logstash" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Logstash.svg"/>
+                        <img alt="Logstash" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Logstash.svg"/>
                     </a>
                     <br> Logstash
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://www.elastic.co/elastic-stack" style="color: white;">
-                        <img alt="Kibana" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Kibana.svg"/>
+                        <img alt="Kibana" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Kibana.svg"/>
                     </a>
                     <br> Kibana
                 </td>
@@ -317,6 +317,7 @@ https://techicons.dev/icons
         </tbody>
     </table>
 </div>
+
 
 <!-- Application Services -->
 <div align="center">
@@ -330,7 +331,7 @@ https://techicons.dev/icons
             <tr>
                 <td align="center" style="border: none;">
                     <a href="https://www.hashicorp.com/en/products/vault">
-                        <img alt="HashiCorp Vault" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/HashiCorp Vault.svg"/>
+                        <img alt="HashiCorp Vault" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/HashiCorp Vault.svg"/>
                     </a>
                     <br> HashiCorp Vault
                 </td>
@@ -585,92 +586,174 @@ https://techicons.dev/icons
 </div>
 
 
-<!-- Machine Learning -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> Machine Learning </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://www.tensorflow.org/">
-                        <img alt="Tensorflow" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Tensorflow.gif"/>
-                    </a>
-                    <br> Tensorflow
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/z2pN6mJXIC4u/keras">
-                        <img alt="Keras" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Keras.png"/>
-                    </a>
-                    <br> Keras
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://pytorch.org/">
-                        <img alt="PyTorch" width="40" height="50" src="https://skillicons.dev/icons?i=pytorch"/>
-                    </a>
-                    <br> PyTorch
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+[//]: # (<!-- Machine Learning -->)
+
+[//]: # (<div align="center">)
+
+[//]: # (    <table>)
+
+[//]: # (        <thead>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <th colspan="10" align="center"> Machine Learning </th>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </thead>)
+
+[//]: # (        <tbody>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://www.tensorflow.org/">)
+
+[//]: # (                        <img alt="Tensorflow" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Tensorflow.gif"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Tensorflow)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://icons8.com/icon/z2pN6mJXIC4u/keras">)
+
+[//]: # (                        <img alt="Keras" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Keras.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Keras)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://pytorch.org/">)
+
+[//]: # (                        <img alt="PyTorch" width="40" height="50" src="https://skillicons.dev/icons?i=pytorch"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> PyTorch)
+
+[//]: # (                </td>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </tbody>)
+
+[//]: # (    </table>)
+
+[//]: # (</div>)
 
 
-<!-- Skills -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> Skills </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://www.influxdata.com/time-series-platform/telegraf/" style="color: white;">
-                        <img alt="Telegraf" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/telegraf.png"/>
-                    </a>
-                    <br> Telegraf
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://numpy.org/">
-                        <img alt="NumPy" width="40" height="50" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"/>
-                    </a>
-                    <br> NumPy
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://pandas.pydata.org/">
-                        <img alt="Pandas" width="80" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/pandas.svg"/>
-                    </a>
-                    <br> Pandas
-                </td>
-            </tr>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://streamlit.io/">
-                        <img alt="Streamlit" width="40" height="40" src="https://raw.githubusercontent.com/rlew631/rlew631/5fcb1cee69c8034bfa2b98aad94b584fcff8d84f/streamlit_red.svg"/>
-                    </a>
-                    <br> Streamlit
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.wampserver.com/en/">
-                        <img alt="WampServer" width="40" height="40" src="https://www.bugtreat.com/blog/wp-content/uploads/2012/07/WampServer-logo.png"/>
-                    </a>
-                    <br> WampServer
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://ngrok.com/">
-                        <img alt="NGROK" width="45" height="45" src="https://avatars.githubusercontent.com/u/10625446?s=280&v=4"/>
-                    </a>
-                    <br> NGROK
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+[//]: # (<!-- Skills -->)
+
+[//]: # (<div align="center">)
+
+[//]: # (    <table>)
+
+[//]: # (        <thead>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <th colspan="10" align="center"> Skills </th>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </thead>)
+
+[//]: # (        <tbody>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://www.influxdata.com/time-series-platform/telegraf/" style="color: white;">)
+
+[//]: # (                        <img alt="Telegraf" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/telegraf.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Telegraf)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://numpy.org/">)
+
+[//]: # (                        <img alt="NumPy" width="40" height="50" src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> NumPy)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://pandas.pydata.org/">)
+
+[//]: # (                        <img alt="Pandas" width="80" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/pandas.svg"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Pandas)
+
+[//]: # (                </td>)
+
+[//]: # (            </tr>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://streamlit.io/">)
+
+[//]: # (                        <img alt="Streamlit" width="40" height="40" src="https://raw.githubusercontent.com/rlew631/rlew631/5fcb1cee69c8034bfa2b98aad94b584fcff8d84f/streamlit_red.svg"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Streamlit)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://www.wampserver.com/en/">)
+
+[//]: # (                        <img alt="WampServer" width="40" height="40" src="https://www.bugtreat.com/blog/wp-content/uploads/2012/07/WampServer-logo.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> WampServer)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://ngrok.com/">)
+
+[//]: # (                        <img alt="NGROK" width="45" height="45" src="https://avatars.githubusercontent.com/u/10625446?s=280&v=4"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> NGROK)
+
+[//]: # (                </td>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </tbody>)
+
+[//]: # (    </table>)
+
+[//]: # (</div>)
 
 
 <!-- Languages -->
@@ -745,233 +828,447 @@ https://techicons.dev/icons
 </div>
 
 
-<!-- Development Tools -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> Development Tools </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://www.jetbrains.com/pycharm/">
-                        <img alt="PyCharm" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/pycharm.gif" />
-                    </a>
-                    <br> PyCharm
-                </td>
-                <td align="center" style="border: none;">
-                    <a>
-                        <img alt="Azure Data Studio" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/azure_data_studio.png"/>
-                    </a>
-                    <br> Azure Data Studio
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://jmeter.apache.org/">
-                        <img alt="Apache JMeter" width="110" height="45" src="https://jmeter.apache.org/images/jmeter.png"/>
-                    </a>
-                    <br> Apache JMeter
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://code.visualstudio.com/">
-                        <img alt="VS Code" width="45" height="50" src="https://skillicons.dev/icons?i=vscode"/>
-                    </a>
-                    <br> VS Code
-                </td>
-            </tr>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/F4uMFPZgS0gt/anaconda">
-                        <img alt="Anaconda" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/anaconda.png"/>
-                    </a>
-                    <br> Anaconda
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icons/set/jupyter">
-                        <img alt="Jupyter" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jupyter.png"/>
-                    </a>
-                    <br> Jupyter
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/0S1Hoidfnk7H/spyder-ide-5">
-                        <img alt="Spyder" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/spyder.png"/>
-                    </a>
-                    <br> Spyder
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://visualstudio.microsoft.com/zh-hant/downloads/">
-                        <img alt="VS" width="45" height="50" src="https://skillicons.dev/icons?i=visualstudio"/>
-                    </a>
-                    <br> VS
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+[//]: # (<!-- Development Tools -->)
+
+[//]: # (<div align="center">)
+
+[//]: # (    <table>)
+
+[//]: # (        <thead>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <th colspan="10" align="center"> Development Tools </th>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </thead>)
+
+[//]: # (        <tbody>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://www.jetbrains.com/pycharm/">)
+
+[//]: # (                        <img alt="PyCharm" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/pycharm.gif" />)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> PyCharm)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a>)
+
+[//]: # (                        <img alt="Azure Data Studio" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/azure_data_studio.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Azure Data Studio)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://jmeter.apache.org/">)
+
+[//]: # (                        <img alt="Apache JMeter" width="110" height="45" src="https://jmeter.apache.org/images/jmeter.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Apache JMeter)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://code.visualstudio.com/">)
+
+[//]: # (                        <img alt="VS Code" width="45" height="50" src="https://skillicons.dev/icons?i=vscode"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> VS Code)
+
+[//]: # (                </td>)
+
+[//]: # (            </tr>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://icons8.com/icon/F4uMFPZgS0gt/anaconda">)
+
+[//]: # (                        <img alt="Anaconda" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/anaconda.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Anaconda)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://icons8.com/icons/set/jupyter">)
+
+[//]: # (                        <img alt="Jupyter" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jupyter.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Jupyter)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://icons8.com/icon/0S1Hoidfnk7H/spyder-ide-5">)
+
+[//]: # (                        <img alt="Spyder" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/spyder.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Spyder)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://visualstudio.microsoft.com/zh-hant/downloads/">)
+
+[//]: # (                        <img alt="VS" width="45" height="50" src="https://skillicons.dev/icons?i=visualstudio"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> VS)
+
+[//]: # (                </td>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </tbody>)
+
+[//]: # (    </table>)
+
+[//]: # (</div>)
 
 
 <!-- OS -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="3" align="center"> OS </th>
-                <th colspan="2" align="center"> Command Tools </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://www.microsoft.com/zh-tw/software-download/windows10">
-                        <img alt="Windows" width="40" height="50" src="https://skillicons.dev/icons?i=windows"/>
-                    </a>
-                    <br> Windows
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.linux.org/">
-                        <img alt="Linux" width="40" height="50" src="https://skillicons.dev/icons?i=linux"/>
-                    </a>
-                    <br> Linux
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://ubuntu.com/download">
-                        <img alt="Ubuntu" width="70" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/ubuntu.gif" />
-                    </a>
-                    <br> Ubuntu
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://learn.microsoft.com/zh-tw/powershell/scripting/overview?view=powershell-7.5">
-                        <img alt="Powershell" width="45" height="50" src="https://skillicons.dev/icons?i=powershell"/>
-                    </a>
-                    <br> Powershell
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://learn.microsoft.com/zh-tw/windows-server/administration/windows-commands/cmd">
-                        <img alt="CMD" width="45" height="45" src="https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png"/>
-                    </a>
-                    <br> CMD
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+
+[//]: # (<div align="center">)
+
+[//]: # (    <table>)
+
+[//]: # (        <thead>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <th colspan="3" align="center"> OS </th>)
+
+[//]: # (                <th colspan="2" align="center"> Command Tools </th>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </thead>)
+
+[//]: # (        <tbody>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://www.microsoft.com/zh-tw/software-download/windows10">)
+
+[//]: # (                        <img alt="Windows" width="40" height="50" src="https://skillicons.dev/icons?i=windows"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Windows)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://www.linux.org/">)
+
+[//]: # (                        <img alt="Linux" width="40" height="50" src="https://skillicons.dev/icons?i=linux"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Linux)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://ubuntu.com/download">)
+
+[//]: # (                        <img alt="Ubuntu" width="70" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/ubuntu.gif" />)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Ubuntu)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://learn.microsoft.com/zh-tw/powershell/scripting/overview?view=powershell-7.5">)
+
+[//]: # (                        <img alt="Powershell" width="45" height="50" src="https://skillicons.dev/icons?i=powershell"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Powershell)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://learn.microsoft.com/zh-tw/windows-server/administration/windows-commands/cmd">)
+
+[//]: # (                        <img alt="CMD" width="45" height="45" src="https://devblogs.microsoft.com/commandline/wp-content/uploads/sites/33/2019/03/CommandLineIcon.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> CMD)
+
+[//]: # (                </td>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </tbody>)
+
+[//]: # (    </table>)
+
+[//]: # (</div>)
 
 
-<!-- Job Tools -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="5" align="center"> Job Tools </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a>
-                        <img alt="Youtrack" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/youtrack.png"/>
-                    </a>
-                    <br> Youtrack
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/set/notion/group-ui">
-                        <img alt="Notion" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/notion.png"/>
-                    </a>
-                    <br> Notion
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.drawio.com/">
-                        <img alt="Drawio" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/diagramsdotnet.svg"/>
-                    </a>
-                    <br> Drawio
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+[//]: # (<!-- Job Tools -->)
+
+[//]: # (<div align="center">)
+
+[//]: # (    <table>)
+
+[//]: # (        <thead>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <th colspan="5" align="center"> Job Tools </th>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </thead>)
+
+[//]: # (        <tbody>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a>)
+
+[//]: # (                        <img alt="Youtrack" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/youtrack.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Youtrack)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://icons8.com/icon/set/notion/group-ui">)
+
+[//]: # (                        <img alt="Notion" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/notion.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Notion)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://www.drawio.com/">)
+
+[//]: # (                        <img alt="Drawio" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/diagramsdotnet.svg"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Drawio)
+
+[//]: # (                </td>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </tbody>)
+
+[//]: # (    </table>)
+
+[//]: # (</div>)
 
 
-<!-- Office Tools -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> Office Tools </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/117563/microsoft-word-2019">
-                        <img alt="Word" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/word.png"/>
-                    </a>
-                    <br> Word
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/ifP93G7BXUhU/microsoft-powerpoint-2019">
-                        <img alt="PowerPoint" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/ppt.png"/>
-                    </a>
-                    <br> PowerPoint
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/117561/microsoft-excel-2019">
-                        <img alt="Excel" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/excel.png"/>
-                    </a>
-                    <br> Excel
-                </td>
-            </tr>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://icons8.com/icon/rZObyIJRui2T/adobe-acrobat">
-                        <img alt="Adobe Acrobat" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/acrobat.png"/>
-                    </a>
-                    <br> Acrobat
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.adobe.com/tw/products/photoshop.html">
-                        <img alt="Adobe Photoshop" width="40" height="50" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"/>
-                    </a>
-                    <br> PS
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.adobe.com/tw/products/premiere.html">
-                        <img alt="Adobe Premiere Pro" width="40" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg"/>
-                    </a>
-                    <br> PR
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.adobe.com/tw/products/aftereffects.html">
-                        <img alt="Adobe After Effects" width="40" height="50" src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg"/>
-                    </a>
-                    <br> AE
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+[//]: # (<!-- Office Tools -->)
+
+[//]: # (<div align="center">)
+
+[//]: # (    <table>)
+
+[//]: # (        <thead>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <th colspan="10" align="center"> Office Tools </th>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </thead>)
+
+[//]: # (        <tbody>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://icons8.com/icon/117563/microsoft-word-2019">)
+
+[//]: # (                        <img alt="Word" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/word.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Word)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://icons8.com/icon/ifP93G7BXUhU/microsoft-powerpoint-2019">)
+
+[//]: # (                        <img alt="PowerPoint" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/ppt.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> PowerPoint)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://icons8.com/icon/117561/microsoft-excel-2019">)
+
+[//]: # (                        <img alt="Excel" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/excel.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Excel)
+
+[//]: # (                </td>)
+
+[//]: # (            </tr>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://icons8.com/icon/rZObyIJRui2T/adobe-acrobat">)
+
+[//]: # (                        <img alt="Adobe Acrobat" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/acrobat.png"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> Acrobat)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://www.adobe.com/tw/products/photoshop.html">)
+
+[//]: # (                        <img alt="Adobe Photoshop" width="40" height="50" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> PS)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://www.adobe.com/tw/products/premiere.html">)
+
+[//]: # (                        <img alt="Adobe Premiere Pro" width="40" height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> PR)
+
+[//]: # (                </td>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://www.adobe.com/tw/products/aftereffects.html">)
+
+[//]: # (                        <img alt="Adobe After Effects" width="40" height="50" src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> AE)
+
+[//]: # (                </td>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </tbody>)
+
+[//]: # (    </table>)
+
+[//]: # (</div>)
 
 
-<!-- Studying -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> Studying </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://reactjs.org/" style="color: white;">
-                        <img alt="React" width="40" height="50" src="https://techstack-generator.vercel.app/react-icon.svg"/>
-                    </a>
-                    <br> React
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
+[//]: # (<!-- Studying -->)
+
+[//]: # (<div align="center">)
+
+[//]: # (    <table>)
+
+[//]: # (        <thead>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <th colspan="10" align="center"> Studying </th>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </thead>)
+
+[//]: # (        <tbody>)
+
+[//]: # (            <tr>)
+
+[//]: # (                <td align="center" style="border: none;">)
+
+[//]: # (                    <a href="https://reactjs.org/" style="color: white;">)
+
+[//]: # (                        <img alt="React" width="40" height="50" src="https://techstack-generator.vercel.app/react-icon.svg"/>)
+
+[//]: # (                    </a>)
+
+[//]: # (                    <br> React)
+
+[//]: # (                </td>)
+
+[//]: # (            </tr>)
+
+[//]: # (        </tbody>)
+
+[//]: # (    </table>)
+
+[//]: # (</div>)
 
 
 <!-- Greedy Snake: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
@@ -989,10 +1286,13 @@ https://techicons.dev/icons
 
 
 
-<!-- Trophy: https://github.com/ryo-ma/github-profile-trophy -->
-<p align="center">
-    <img alt="profile" src="https://github-profile-trophy.vercel.app/?username=Junwu0615&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=5&margin-h=5" />
-</p>
+[//]: # (<!-- Trophy: https://github.com/ryo-ma/github-profile-trophy -->)
+
+[//]: # (<p align="center">)
+
+[//]: # (    <img alt="profile" src="https://github-profile-trophy.vercel.app/?username=Junwu0615&theme=gruvbox&no-bg=true&no-frame=true&column=5&margin-w=5&margin-h=5" />)
+
+[//]: # (</p>)
 
 <br>
 
@@ -1277,6 +1577,8 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 <br>
 
 <!-- Now Playing: https://github.com/kittinan/spotify-github-profile -->
-### 🎧 Now Playing 
 
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/track/5X44AM1nupxOQ16i6yr3y3)
+[//]: # (### 🎧 Now Playing )
+
+[//]: # ()
+[//]: # ([![Spotify]&#40;https://github-readme-remake.vercel.app/api/spotify&#41;]&#40;https://open.spotify.com/track/5X44AM1nupxOQ16i6yr3y3&#41;)
