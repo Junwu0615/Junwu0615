@@ -16,7 +16,7 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 https://techicons.dev/icons
 -->
 
-<img alt="waving1" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ping%20Chun&desc=Building%20reliable%20systems%20that%20bridge%20data%20and%20automation.&fontAlignY=30&fontSize=70&fontAlign=50&textBg=false&animation=fadeIn">
+<img alt="waving1" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ping%20Chun&desc=Building%20Reliable%20Systems%20That%20Bridge%20Data%20And%20Automation.&fontAlignY=30&fontSize=70&fontAlign=50&textBg=false&animation=fadeIn">
 
 <!-- shield.io
 <div align="center">
@@ -293,8 +293,6 @@ https://techicons.dev/icons
                     </a>
                     <br> Tempo
                 </td>
-            </tr>
-            <tr>
                 <td align="center" style="border: none;">
                     <a href="https://www.elastic.co/elastic-stack" style="color: white;">
                         <img alt="Elasticsearch" width="45" height="45" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Elastic Search.svg"/>
