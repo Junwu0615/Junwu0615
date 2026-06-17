@@ -248,7 +248,7 @@ https://techicons.dev/icons
                     <br> GitLab CI
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://about.gitlab.com/" style="color: white;">
+                    <a href="https://argo-cd.readthedocs.io/" style="color: white;">
                         <img alt="Argo CD" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Argo CD.svg"/>
                     </a>
                     <br> Argo CD
@@ -341,13 +341,19 @@ https://techicons.dev/icons
                     <br> Docker Registry
                 </td>
                 <td align="center" style="border: none;">
+                    <a href="https://superset.apache.org/">
+                        <img alt="Apache Superset" width="50" height="50" src="https://techstack-generator.vercel.app/apache-superset.png"/>
+                    </a>
+                    <br> Apache Superset
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="border: none;">
                     <a href="https://www.portainer.io/" style="color: white;">
                         <img alt="Portainer" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/portainer.svg"/>
                     </a>
                     <br> Portainer
                 </td>
-            </tr>
-            <tr>
                 <td align="center" style="border: none;">
                     <a href="https://nextcloud.com/" style="color: white;">
                         <img alt="Nextcloud" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/nextcloud.svg"/>
@@ -401,7 +407,7 @@ https://techicons.dev/icons
                     <br> Apache Iceberg	
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://jena.apache.org/">
+                    <a href="https://www.min.io/">
                         <img alt="MinIO" width="50px" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/minio.png"/>
                     </a>
                     <br> MinIO
@@ -477,78 +483,6 @@ https://techicons.dev/icons
                         <img alt="Apache Airflow" width="40" height="40" src="https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png"/>
                     </a>
                     <br> Apache Airflow
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
-<!-- Languages -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> Languages </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://zh.wikipedia.org/zh-tw/SPARQL">
-                        <img alt="GO" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/go.svg"/>
-                    </a>
-                    <br> GO
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.python.org/">
-                        <img alt="Python" width="50" height="50" src="https://techstack-generator.vercel.app/python-icon.svg"/>
-                    </a>
-                    <br> Python
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.w3schools.com/c/c_intro.php">
-                        <img alt="C" width="40" height="50" src="https://skillicons.dev/icons?i=c"/>
-                    </a>
-                    <br> C
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://zh.wikipedia.org/zh-tw/C%2B%2B">
-                        <img alt="CPP" width="40" height="50" src="https://skillicons.dev/icons?i=cpp"/>
-                    </a>
-                    <br> C++
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.php.net/">
-                        <img alt="PHP" width="50" height="50" src="https://skillicons.dev/icons?i=php"/>
-                    </a>
-                    <br> PHP
-                </td>
-            </tr>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML">
-                        <img alt="HTML" width="40" height="50" src="https://skillicons.dev/icons?i=html"/>
-                    </a>
-                    <br> HTML
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/CSS">
-                        <img alt="CSS" width="40" height="50" src="https://skillicons.dev/icons?i=css"/>
-                    </a>
-                    <br> CSS
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript">
-                        <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/javascript.svg"/>
-                    </a>
-                    <br> JavaScript
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://markdown.tw/">
-                        <img alt="Markdown" width="45" height="50" src="https://skillicons.dev/icons?i=md"/>
-                    </a>
-                    <br> Markdown
                 </td>
             </tr>
         </tbody>
@@ -732,6 +666,78 @@ https://techicons.dev/icons
                         <img alt="NGROK" width="45" height="45" src="https://avatars.githubusercontent.com/u/10625446?s=280&v=4"/>
                     </a>
                     <br> NGROK
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<!-- Languages -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="10" align="center"> Languages </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://zh.wikipedia.org/zh-tw/SPARQL">
+                        <img alt="GO" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/go.svg"/>
+                    </a>
+                    <br> GO
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.python.org/">
+                        <img alt="Python" width="50" height="50" src="https://techstack-generator.vercel.app/python-icon.svg"/>
+                    </a>
+                    <br> Python
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.w3schools.com/c/c_intro.php">
+                        <img alt="C" width="40" height="50" src="https://skillicons.dev/icons?i=c"/>
+                    </a>
+                    <br> C
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://zh.wikipedia.org/zh-tw/C%2B%2B">
+                        <img alt="CPP" width="40" height="50" src="https://skillicons.dev/icons?i=cpp"/>
+                    </a>
+                    <br> C++
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.php.net/">
+                        <img alt="PHP" width="50" height="50" src="https://skillicons.dev/icons?i=php"/>
+                    </a>
+                    <br> PHP
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML">
+                        <img alt="HTML" width="40" height="50" src="https://skillicons.dev/icons?i=html"/>
+                    </a>
+                    <br> HTML
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/CSS">
+                        <img alt="CSS" width="40" height="50" src="https://skillicons.dev/icons?i=css"/>
+                    </a>
+                    <br> CSS
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript">
+                        <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/javascript.svg"/>
+                    </a>
+                    <br> JavaScript
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://markdown.tw/">
+                        <img alt="Markdown" width="45" height="50" src="https://skillicons.dev/icons?i=md"/>
+                    </a>
+                    <br> Markdown
                 </td>
             </tr>
         </tbody>
