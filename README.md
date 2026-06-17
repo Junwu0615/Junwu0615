@@ -342,7 +342,7 @@ https://techicons.dev/icons
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://superset.apache.org/">
-                        <img alt="Apache Superset" width="50" height="50" src="https://techstack-generator.vercel.app/apache-superset.png"/>
+                        <img alt="Apache Superset" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/apache-superset.png"/>
                     </a>
                     <br> Apache Superset
                 </td>
