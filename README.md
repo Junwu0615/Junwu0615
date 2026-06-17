@@ -314,10 +314,22 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
         <tbody>
             <tr>
                 <td align="center" style="border: none;">
-                    <a href="https://www.docker.com/">
-                        <img alt="Docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
+                    <a href="https://kubernetes.io/" style="color: white;">
+                        <img alt="Kubernetes" width="40" height="50" src="https://techstack-generator.vercel.app/kubernetes-icon.svg"/>
                     </a>
-                    <br> Docker
+                    <br> Kubernetes
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://developer.hashicorp.com/terraform" style="color: white;">
+                        <img alt="Terraform" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Terraform.svg"/>
+                    </a>
+                    <br> Terraform
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://docs.ansible.com/" style="color: white;">
+                        <img alt="Ansible" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Ansible.svg"/>
+                    </a>
+                    <br> Ansible
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://aws.amazon.com" style="color: white;">
@@ -336,6 +348,12 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
                     </a>
                     <br> GCP
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.docker.com/">
+                        <img alt="Docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
+                    </a>
+                    <br> Docker
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://nssm.cc/">
@@ -858,12 +876,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="React" width="40" height="50" src="https://techstack-generator.vercel.app/react-icon.svg"/>
                     </a>
                     <br> React
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://kubernetes.io/" style="color: white;">
-                        <img alt="Kubernetes" width="40" height="50" src="https://techstack-generator.vercel.app/kubernetes-icon.svg"/>
-                    </a>
-                    <br> Kubernetes
                 </td>
             </tr>
         </tbody>
