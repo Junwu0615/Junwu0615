@@ -13,6 +13,7 @@ https://techstack-generator.vercel.app/
 https://skillicons.dev/
 https://github.com/tandpfun/skill-icons#readme
 https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-file
+https://techicons.dev/icons
 -->
 
 <img alt="waving1" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ping%20Chun&desc=Building%20reliable%20systems%20that%20bridge%20data%20and%20automation.&fontAlignY=30&fontSize=70&fontAlign=50&textBg=false&animation=fadeIn">
@@ -124,72 +125,165 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <br>
 -->
 
-
-<!-- Languages -->
+<!-- Cloud-Native & Iac & Deployment -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> Languages </th>
+                <th colspan="10" align="center"> Cloud-Native & Iac & Deployment </th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td align="center" style="border: none;">
-                    <a href="https://zh.wikipedia.org/zh-tw/SPARQL">
-                        <img alt="GO" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/go.svg"/>
+                    <a href="https://kubernetes.io/" style="color: white;">
+                        <img alt="Kubernetes" width="40" height="50" src="https://techstack-generator.vercel.app/kubernetes-icon.svg"/>
                     </a>
-                    <br> GO
+                    <br> Kubernetes
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://www.python.org/">
-                        <img alt="Python" width="50" height="50" src="https://techstack-generator.vercel.app/python-icon.svg"/>
+                    <a href="https://developer.hashicorp.com/terraform" style="color: white;">
+                        <img alt="Terraform" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Terraform.svg"/>
                     </a>
-                    <br> Python
+                    <br> Terraform
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://www.w3schools.com/c/c_intro.php">
-                        <img alt="C" width="40" height="50" src="https://skillicons.dev/icons?i=c"/>
+                    <a href="https://docs.ansible.com/" style="color: white;">
+                        <img alt="Ansible" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Ansible.svg"/>
                     </a>
-                    <br> C
+                    <br> Ansible
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://zh.wikipedia.org/zh-tw/C%2B%2B">
-                        <img alt="CPP" width="40" height="50" src="https://skillicons.dev/icons?i=cpp"/>
+                    <a href="https://www.docker.com/">
+                        <img alt="Docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
                     </a>
-                    <br> C++
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.php.net/">
-                        <img alt="PHP" width="50" height="50" src="https://skillicons.dev/icons?i=php"/>
-                    </a>
-                    <br> PHP
+                    <br> Docker
                 </td>
             </tr>
             <tr>
                 <td align="center" style="border: none;">
-                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML">
-                        <img alt="HTML" width="40" height="50" src="https://skillicons.dev/icons?i=html"/>
+                    <a href="https://cloud.google.com" style="color: white;">
+                        <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
                     </a>
-                    <br> HTML
+                    <br> GCP
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/CSS">
-                        <img alt="CSS" width="40" height="50" src="https://skillicons.dev/icons?i=css"/>
+                    <a href="https://aws.amazon.com" style="color: white;">
+                        <img alt="AWS" width="40" height="50" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
                     </a>
-                    <br> CSS
+                    <br> AWS
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript">
-                        <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/javascript.svg"/>
+                    <a href="https://azure.microsoft.com/zh-tw" style="color: white;">
+                        <img alt="Azure" width="40" height="50" src="https://skillicons.dev/icons?i=azure"/>
                     </a>
-                    <br> JavaScript
+                    <br> Azure
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://markdown.tw/">
-                        <img alt="Markdown" width="45" height="50" src="https://skillicons.dev/icons?i=md"/>
+                    <a href="https://nssm.cc/">
+                        <img alt="Windows Services ( NSSM )" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/windows_services.png"/>
                     </a>
-                    <br> Markdown
+                    <br> Windows Services<br>( NSSM )
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<!-- Event Stream & IoT Platform -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="4" align="center"> Event Stream & IoT Platform </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://kafka.apache.org/" style="color: white;">
+                        <img alt="Apache Kafka" width="30" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/kafka.png"/>
+                    </a>
+                    <br> Apache Kafka
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://aws.amazon.com/tw/what-is/mqtt/">
+                        <img alt="MQTT" width="40" height="40" src="https://avatars.githubusercontent.com/u/1544528?s=280&v=4"/>
+                    </a>
+                    <br> MQTT
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://aws.amazon.com/tw/what-is/mqtt/">
+                        <img alt="Debezium" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/debezium.png"/>
+                    </a>
+                    <br> Debezium
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://aws.amazon.com/tw/what-is/mqtt/">
+                        <img alt="Apache Flink" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/flink.png"/>
+                    </a>
+                    <br> Apache Flink
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<!-- Application Services -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="10" align="center"> Application Services </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://www.docker.com/">
+                        <img alt="Docker Registry" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
+                    </a>
+                    <br> Docker Registry
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.portainer.io/" style="color: white;">
+                        <img alt="Portainer" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/portainer.svg"/>
+                    </a>
+                    <br> Portainer
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="GitLab" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
+                    </a>
+                    <br> GitLab
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="Jenkins" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jenkins.png"/>
+                    </a>
+                    <br> Jenkins
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://nextcloud.com/" style="color: white;">
+                        <img alt="Nextcloud" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/nextcloud.svg"/>
+                    </a>
+                    <br> Nextcloud
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://grafana.com/" style="color: white;">
+                        <img alt="Grafana" width="40" height="50" src="https://skillicons.dev/icons?i=grafana"/>
+                    </a>
+                    <br> Grafana
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://nodered.org/" style="color: white;">
+                        <img alt="Node-RED" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/node-red.svg"/>
+                    </a>
+                    <br> Node-RED
                 </td>
             </tr>
         </tbody>
@@ -263,165 +357,52 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 </div>
 
 
-<!-- Frameworks -->
+<!-- CI/CD & Version Control -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> Frameworks </th>
+                <th colspan="4" align="center"> CI/CD </th>
+                <th colspan="2" align="center"> Version Control </th>
             </tr>
         </thead>
         <tbody>
             <tr>
                 <td align="center" style="border: none;">
-                    <a href="https://www.djangoproject.com/" style="color: white;">
-                        <img alt="Django" width="40" height="50" src="https://techstack-generator.vercel.app/django-icon.svg"/>
+                    <a href="https://about.gitlab.com/" style="color: white;">
+                        <img alt="GitLab CI" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
                     </a>
-                    <br> Django
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://fastapi.tiangolo.com/">
-                        <img alt="FastAPI" width="40" height="50" src="https://skillicons.dev/icons?i=fastapi"/>
-                    </a>
-                    <br> FastAPI
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://flask.palletsprojects.com/">
-                        <img alt="Flask" width="40" height="50" src="https://skillicons.dev/icons?i=flask"/>
-                    </a>
-                    <br> Flask
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://airflow.apache.org/">
-                        <img alt="Apache Airflow" width="40" height="40" src="https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png"/>
-                    </a>
-                    <br> Apache Airflow
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
-<!-- Cloud-Native & Iac & Deployment -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> Cloud-Native & Iac & Deployment </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://kubernetes.io/" style="color: white;">
-                        <img alt="Kubernetes" width="40" height="50" src="https://techstack-generator.vercel.app/kubernetes-icon.svg"/>
-                    </a>
-                    <br> Kubernetes
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://developer.hashicorp.com/terraform" style="color: white;">
-                        <img alt="Terraform" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Terraform.svg"/>
-                    </a>
-                    <br> Terraform
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://docs.ansible.com/" style="color: white;">
-                        <img alt="Ansible" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Ansible.svg"/>
-                    </a>
-                    <br> Ansible
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.docker.com/">
-                        <img alt="Docker" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
-                    </a>
-                    <br> Docker
-                </td>
-            </tr>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://cloud.google.com" style="color: white;">
-                        <img alt="GCP" width="40" height="50" src="https://skillicons.dev/icons?i=gcp"/>
-                    </a>
-                    <br> GCP
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://aws.amazon.com" style="color: white;">
-                        <img alt="AWS" width="40" height="50" src="https://techstack-generator.vercel.app/aws-icon.svg"/>
-                    </a>
-                    <br> AWS
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://azure.microsoft.com/zh-tw" style="color: white;">
-                        <img alt="Azure" width="40" height="50" src="https://skillicons.dev/icons?i=azure"/>
-                    </a>
-                    <br> Azure
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://nssm.cc/">
-                        <img alt="Windows Services ( NSSM )" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/windows_services.png"/>
-                    </a>
-                    <br> Windows Services<br>( NSSM )
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
-<!-- Application Services -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="10" align="center"> Application Services </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://www.docker.com/">
-                        <img alt="Docker Registry" width="50" height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"/>
-                    </a>
-                    <br> Docker Registry
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.portainer.io/" style="color: white;">
-                        <img alt="Portainer" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/portainer.svg"/>
-                    </a>
-                    <br> Portainer
+                    <br> GitLab CI
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="GitLab" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
+                        <img alt="Argo CD" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/Argo CD.svg"/>
                     </a>
-                    <br> GitLab
+                    <br> Argo CD
                 </td>
                 <td align="center" style="border: none;">
                     <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="Jenkins" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jenkins.png"/>
+                        <img alt="Jenkins CI / CD" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jenkins.png"/>
                     </a>
-                    <br> Jenkins
-                </td>
-            </tr>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://nextcloud.com/" style="color: white;">
-                        <img alt="Nextcloud" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/nextcloud.svg"/>
-                    </a>
-                    <br> Nextcloud
+                    <br> Jenkins CI / CD
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://grafana.com/" style="color: white;">
-                        <img alt="Grafana" width="40" height="50" src="https://skillicons.dev/icons?i=grafana"/>
+                    <a href="https://github.com/features/actions">
+                        <img alt="GitHub Actions" width="40" height="50" src="https://skillicons.dev/icons?i=githubactions"/>
                     </a>
-                    <br> Grafana
+                    <br> GitHub Actions
                 </td>
                 <td align="center" style="border: none;">
-                    <a href="https://nodered.org/" style="color: white;">
-                        <img alt="Node-RED" width="50" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/node-red.svg"/>
+                    <a href="https://github.com/">
+                        <img alt="Git" width="40" height="50" src="https://skillicons.dev/icons?i=git"/>
                     </a>
-                    <br> Node-RED
+                    <br> Git
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://github.com/">
+                        <img alt="GitHub" width="50" height="50" src="https://techstack-generator.vercel.app/github-icon.svg"/>
+                    </a>
+                    <br> GitHub
                 </td>
             </tr>
         </tbody>
@@ -468,6 +449,118 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="RAG" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/RAG.webp"/>
                     </a>
                     <br> RAG
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<!-- Frameworks -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="10" align="center"> Frameworks </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://www.djangoproject.com/" style="color: white;">
+                        <img alt="Django" width="40" height="50" src="https://techstack-generator.vercel.app/django-icon.svg"/>
+                    </a>
+                    <br> Django
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://fastapi.tiangolo.com/">
+                        <img alt="FastAPI" width="40" height="50" src="https://skillicons.dev/icons?i=fastapi"/>
+                    </a>
+                    <br> FastAPI
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://flask.palletsprojects.com/">
+                        <img alt="Flask" width="40" height="50" src="https://skillicons.dev/icons?i=flask"/>
+                    </a>
+                    <br> Flask
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://airflow.apache.org/">
+                        <img alt="Apache Airflow" width="40" height="40" src="https://airflow.apache.org/docs/apache-airflow/1.10.15/_images/pin_large.png"/>
+                    </a>
+                    <br> Apache Airflow
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+
+<!-- Languages -->
+<div align="center">
+    <table>
+        <thead>
+            <tr>
+                <th colspan="10" align="center"> Languages </th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://zh.wikipedia.org/zh-tw/SPARQL">
+                        <img alt="GO" width="70" height="70" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/go.svg"/>
+                    </a>
+                    <br> GO
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.python.org/">
+                        <img alt="Python" width="50" height="50" src="https://techstack-generator.vercel.app/python-icon.svg"/>
+                    </a>
+                    <br> Python
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.w3schools.com/c/c_intro.php">
+                        <img alt="C" width="40" height="50" src="https://skillicons.dev/icons?i=c"/>
+                    </a>
+                    <br> C
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://zh.wikipedia.org/zh-tw/C%2B%2B">
+                        <img alt="CPP" width="40" height="50" src="https://skillicons.dev/icons?i=cpp"/>
+                    </a>
+                    <br> C++
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://www.php.net/">
+                        <img alt="PHP" width="50" height="50" src="https://skillicons.dev/icons?i=php"/>
+                    </a>
+                    <br> PHP
+                </td>
+            </tr>
+            <tr>
+                <td align="center" style="border: none;">
+                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/HTML">
+                        <img alt="HTML" width="40" height="50" src="https://skillicons.dev/icons?i=html"/>
+                    </a>
+                    <br> HTML
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/CSS">
+                        <img alt="CSS" width="40" height="50" src="https://skillicons.dev/icons?i=css"/>
+                    </a>
+                    <br> CSS
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/JavaScript">
+                        <img alt="JavaScript" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/javascript.svg"/>
+                    </a>
+                    <br> JavaScript
+                </td>
+                <td align="center" style="border: none;">
+                    <a href="https://markdown.tw/">
+                        <img alt="Markdown" width="45" height="50" src="https://skillicons.dev/icons?i=md"/>
+                    </a>
+                    <br> Markdown
                 </td>
             </tr>
         </tbody>
@@ -556,99 +649,6 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
                         <img alt="NGROK" width="45" height="45" src="https://avatars.githubusercontent.com/u/10625446?s=280&v=4"/>
                     </a>
                     <br> NGROK
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
-<!-- CI / CD & Version Control -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="3" align="center"> CI / CD </th>
-                <th colspan="2" align="center"> Version Control </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://github.com/features/actions">
-                        <img alt="GitHub Actions" width="40" height="50" src="https://skillicons.dev/icons?i=githubactions"/>
-                    </a>
-                    <br> GitHub Actions
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="GitLab CI" width="40" height="40" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/gitlab.svg"/>
-                    </a>
-                    <br> GitLab CI
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://about.gitlab.com/" style="color: white;">
-                        <img alt="Jenkins CI / CD" width="40" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/jenkins.png"/>
-                    </a>
-                    <br> Jenkins CI / CD
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://github.com/">
-                        <img alt="Git" width="40" height="50" src="https://skillicons.dev/icons?i=git"/>
-                    </a>
-                    <br> Git
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://github.com/">
-                        <img alt="GitHub" width="50" height="50" src="https://techstack-generator.vercel.app/github-icon.svg"/>
-                    </a>
-                    <br> GitHub
-                </td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
-<!-- Message Protocols -->
-<div align="center">
-    <table>
-        <thead>
-            <tr>
-                <th colspan="5" align="center"> Message Protocols </th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td align="center" style="border: none;">
-                    <a href="https://kafka.apache.org/" style="color: white;">
-                        <img alt="Apache Kafka" width="30" height="50" src="https://raw.githubusercontent.com/Junwu0615/Junwu0615/main/icon/kafka.png"/>
-                    </a>
-                    <br> Apache Kafka
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://aws.amazon.com/tw/what-is/mqtt/">
-                        <img alt="MQTT" width="40" height="40" src="https://avatars.githubusercontent.com/u/1544528?s=280&v=4"/>
-                    </a>
-                    <br> MQTT
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://developer.mozilla.org/zh-TW/docs/Web/API/WebSocket">
-                        <img alt="WebSocket" width="40" height="35" src="https://blog.gtwang.org/wp-content/uploads/2015/03/websocket-logo.png"/>
-                    </a>
-                    <br> WebSocket
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://web.telegram.org/">
-                        <img alt="Telegram" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png"/>
-                    </a>
-                    <br> Telegram
-                </td>
-                <td align="center" style="border: none;">
-                    <a href="https://www.line.me/tw/">
-                        <img alt="Line" width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/LINE_logo.svg/1024px-LINE_logo.svg.png"/>
-                    </a>
-                    <br> Line
                 </td>
             </tr>
         </tbody>
@@ -920,10 +920,10 @@ https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-f
 <!-- Cloud-Native Data Platform PoC -->
 | <div style='width: 230px'> PG-Project </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--|
-| [Platform-Genesis](https://github.com/Junwu0615/Platform-Genesis) | ![OLTP](https://img.shields.io/badge/Architecture-OLTP-red?style=flat-square) ![OLAP](https://img.shields.io/badge/Architecture-OLAP-red?style=flat-square) ![HTAP](https://img.shields.io/badge/Architecture-HTAP-red?style=flat-square)<br>![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache_Superset-00A699?style=flat-square&logo=apache-superset&logoColor=white)<br>![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Schema Registry](https://img.shields.io/badge/Schema_Registry-blue?style=flat-square&logo=apache-kafka&logoColor=white)<br>![Debezium](https://img.shields.io/badge/Debezium-9400D3?style=flat-square&logo=red-hat&logoColor=white) ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-000080?style=flat-square&logo=apache&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6522C?style=flat-square&logo=apache-flink&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E2E?style=flat-square&logo=MinIO&logoColor=white)<br>![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)<br>![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)<br>![GKE](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Docker Registry](https://img.shields.io/badge/Docker_Registry-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vault](https://img.shields.io/badge/HashiCorp_Vault-6070E1?style=flat-square&logo=hashicorp&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEFF?style=flat-square&logo=portainer&logoColor=white)<br>![Debian](https://img.shields.io/badge/Debian-gray?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9433F?style=flat-square&logo=ubuntu&logoColor=white) ![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=flat-square&logo=windows&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white) |
+| [Platform-Genesis](https://github.com/Junwu0615/Platform-Genesis) | ![OLTP](https://img.shields.io/badge/Architecture-OLTP-red?style=flat-square) ![OLAP](https://img.shields.io/badge/Architecture-OLAP-red?style=flat-square) ![HTAP](https://img.shields.io/badge/Architecture-HTAP-red?style=flat-square)<br>![Docker Registry](https://img.shields.io/badge/Docker_Registry-2496ED?style=flat-square&logo=docker&logoColor=white) ![Portainer](https://img.shields.io/badge/Portainer-13BEFF?style=flat-square&logo=portainer&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)<br>![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white) ![Apache Superset](https://img.shields.io/badge/Apache_Superset-00A699?style=flat-square&logo=apache-superset&logoColor=white)<br>![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) ![Schema Registry](https://img.shields.io/badge/Schema_Registry-blue?style=flat-square&logo=apache-kafka&logoColor=white)<br>![Debezium](https://img.shields.io/badge/Debezium-9400D3?style=flat-square&logo=red-hat&logoColor=white) ![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-000080?style=flat-square&logo=apache&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache_Flink-E6522C?style=flat-square&logo=apache-flink&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72E2E?style=flat-square&logo=MinIO&logoColor=white)<br>![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat-square&logo=grafana&logoColor=white) ![Tempo](https://img.shields.io/badge/Tempo-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)<br>![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white) ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)<br>![GKE](https://img.shields.io/badge/GKE-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>![Gitlab](https://img.shields.io/badge/Gitlab-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) ![Vault](https://img.shields.io/badge/HashiCorp_Vault-6070E1?style=flat-square&logo=hashicorp&logoColor=white)<br>![Debian](https://img.shields.io/badge/Debian-gray?style=flat-square&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9433F?style=flat-square&logo=ubuntu&logoColor=white) ![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=flat-square&logo=windows&logoColor=white) ![Windows 11](https://img.shields.io/badge/Windows_11-0078D4?style=flat-square&logo=windows-11&logoColor=white) |
 | [PG-Infrastructure](https://github.com/Junwu0615/PG-Infrastructure) | `GKE` `Kubernetes` `Terraform` `Ansible` `Docker` `Makefile` |
 | [PG-APP-Core](https://github.com/Junwu0615/PG-APP-Core) | `PG-Shared-Lib` `Python` |
-| [PG-Shared-Lib](https://github.com/Junwu0615/PG-Shared-Lib) | `EntryPoint` `Logger` `MqttServer` `KafkaConsumerManager` `KafkaProducerManager` |
+| [PG-Shared-Lib](https://github.com/Junwu0615/PG-Shared-Lib) | `EntryPoint` `Logger` `MqttServer`<br>`KafkaConsumerManager` `KafkaProducerManager` |
 | [PG-Edge-Container](https://github.com/Junwu0615/PG-Edge-Container) | `PG-APP-Core` `MQTT` `SQLite` |
 | [PG-Airflow-DAGs](https://github.com/Junwu0615/PG-Airflow-DAGs) | `Airflow` `DAGs` |
 
