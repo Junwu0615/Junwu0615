@@ -125,12 +125,12 @@ https://techicons.dev/icons
 <br>
 -->
 
-<!-- Cloud-Native & Iac & Container & Deployment -->
+<!-- Cloud-Native & Iac & Deployment -->
 <div align="center">
     <table>
         <thead>
             <tr>
-                <th colspan="10" align="center"> Cloud-Native & Iac & Container & Deployment </th>
+                <th colspan="10" align="center"> Cloud-Native & Iac & Deployment </th>
             </tr>
         </thead>
         <tbody>
