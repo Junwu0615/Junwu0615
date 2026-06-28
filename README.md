@@ -84,11 +84,11 @@ https://techicons.dev/icons
           <td align="center">
             <img alt="Hello Visitor" width="150" height="22" src="https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615&color=blueviolet&title=Hello%20Visitor">
           </td>
-          <td align="center">
+          <!-- <td align="center">
             <a href="https://pc-dashboard.streamlit.app/" target="_blank">
               <img src="https://img.shields.io/badge/My_Dashboard-E42C51?style=for-the-badge&logoColor=white" alt="Dashboard">
             </a>
-          </td>
+          </td> -->
           <td align="center">
             <a href="mailto:jun.audis5@gmail.com" target="_blank">
               <img src="https://img.shields.io/badge/Gmail-DB3729?style=for-the-badge&logoColor=white" alt="Gmail">
