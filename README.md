@@ -1297,13 +1297,18 @@ https://techicons.dev/icons
 
 
 <table width='1000' align="center">
-<tr> <th> Cloud-Native Data Platform PoC </th> </tr>
+<tr> <th> Platform Genesis Universe </th> </tr>
 <td>
 
-<!-- Cloud-Native Data Platform PoC -->
+<!-- Platform Genesis Universe -->
 | <div style='width: 230px'> PG-Project </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--|
-| [Platform-Genesis](https://github.com/Junwu0615/Platform-Genesis) | `PG-Infrastructure` `PG-APP-Core` `PG-Shared-Lib` `PG-Edge-Container` `PG-Airflow-DAGs` |
+| [Platform-Genesis](https://github.com/Junwu0615/Platform-Genesis) | `PG-Core` `PG-Synapse` `PG-Cortex` `PG-Sentinel` `PG-Analytics` |
+| [PG-Core](https://github.com/Junwu0615/PG-Core) | `Kubernetes` `GitOps` `Observability` `Infrastructure as Code`<br>`Secrets Management` |
+| [PG-Synapse](https://github.com/Junwu0615/PG-Synapse) | `Airflow` `Kafka` `CDC` `Iceberg` `Lakehouse` |
+| [PG-Cortex](https://github.com/Junwu0615/PG-Cortex) | `MLflow` `Kubeflow` `Ray` `LLMOps` `Model Serving` |
+| [PG-Sentinel](https://github.com/Junwu0615/PG-Sentinel) | `AIOps` `Chaos Engineering` `Reliability` `Auto Remediation` |
+| [PG-Analytics](https://github.com/Junwu0615/PG-Analytics) | `GitHub Traffic` `Repository Metrics` `Growth Trend`<br>`Historical Statistics` |
 | [PG-Infrastructure](https://github.com/Junwu0615/PG-Infrastructure) | `GKE` `Kubernetes` `Terraform` `Ansible` `Docker` `Makefile` |
 | [PG-APP-Core](https://github.com/Junwu0615/PG-APP-Core) | `PG-Shared-Lib` `Python` |
 | [PG-Shared-Lib](https://github.com/Junwu0615/PG-Shared-Lib) | `EntryPoint` `Logger` `MqttServer`<br>`KafkaConsumerManager` `KafkaProducerManager` |
