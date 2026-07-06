@@ -46,11 +46,6 @@ https://techicons.dev/icons
     <table>
         <tr>
           <td align="center">
-            <a href="https://github.com/Junwu0615/Junwu0615-Analytics" target="_blank">
-              <img src="https://img.shields.io/badge/Analytics-14AE5C?style=for-the-badge&logoColor=white" alt="Analytics">
-            </a>
-          </td>
-          <td align="center">
             <a href="mailto:jun.audis5@gmail.com" target="_blank">
               <img src="https://img.shields.io/badge/Gmail-DB3729?style=for-the-badge&logoColor=white" alt="Gmail">
             </a>
@@ -94,6 +89,11 @@ https://techicons.dev/icons
               <img src="https://img.shields.io/badge/My_Dashboard-E42C51?style=for-the-badge&logoColor=white" alt="Dashboard">
             </a>
           </td> -->
+          <td align="center">
+            <a href="https://github.com/Junwu0615/Junwu0615-Analytics" target="_blank">
+              <img src="https://img.shields.io/badge/Analytics-0792ac?style=for-the-badge&logoColor=white" alt="Analytics">
+            </a>
+          </td>
           <td align="center">
             <a href="mailto:jun.audis5@gmail.com" target="_blank">
               <img src="https://img.shields.io/badge/Gmail-DB3729?style=for-the-badge&logoColor=white" alt="Gmail">
