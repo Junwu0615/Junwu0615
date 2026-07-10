@@ -91,7 +91,8 @@ https://techicons.dev/icons
           </td> -->
           <td align="center">
             <a href="https://github.com/Junwu0615/Junwu0615-Analytics" target="_blank">
-              <img src="https://img.shields.io/badge/Analytics-0792ac?style=for-the-badge&logoColor=white" alt="Analytics">
+              <img src="https://img.shields.io/badge/Analytics-DB3729?style=for-the-badge&logoColor=white" alt="Analytics">
+              <!-- <img src="https://img.shields.io/badge/Analytics-0792ac?style=for-the-badge&logoColor=white" alt="Analytics"> -->
             </a>
           </td>
           <!-- <td align="center">
