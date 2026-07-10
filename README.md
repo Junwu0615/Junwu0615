@@ -94,11 +94,11 @@ https://techicons.dev/icons
               <img src="https://img.shields.io/badge/Analytics-0792ac?style=for-the-badge&logoColor=white" alt="Analytics">
             </a>
           </td>
-          <td align="center">
+          <!-- <td align="center">
             <a href="mailto:jun.audis5@gmail.com" target="_blank">
               <img src="https://img.shields.io/badge/Gmail-DB3729?style=for-the-badge&logoColor=white" alt="Gmail">
             </a>
-          </td>
+          </td> -->
           <td align="center">
             <a href="https://www.cake.me/me/Ping-Chun-Wu" target="_blank">
               <img src="https://img.shields.io/badge/Cake-14AE5C?style=for-the-badge&logoColor=white" alt="Cake">
