@@ -1310,11 +1310,13 @@ https://techicons.dev/icons
 | <div style='width: 230px'> PG-Project </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--|
 | [Platform-Genesis](https://github.com/Junwu0615/Platform-Genesis) | `PG-Core` `PG-Synapse` `PG-Cortex` `PG-Sentinel` `PG-Analytics` |
+|  |  |
 | [PG-Core](https://github.com/Junwu0615/PG-Core) | `Kubernetes` `GitOps` `Observability` `Infrastructure as Code`<br>`Secrets Management` |
 | [PG-Synapse](https://github.com/Junwu0615/PG-Synapse) | `Airflow` `Kafka` `CDC` `Iceberg` `Lakehouse` |
 | [PG-Cortex](https://github.com/Junwu0615/PG-Cortex) | `MLflow` `Kubeflow` `Ray` `LLMOps` `Model Serving` |
 | [PG-Sentinel](https://github.com/Junwu0615/PG-Sentinel) | `AIOps` `Chaos Engineering` `Reliability` `Auto Remediation` |
 | [PG-Analytics](https://github.com/Junwu0615/PG-Analytics) | `GitHub Traffic` `Repository Metrics` `Growth Trend`<br>`Historical Statistics` |
+|  |  |
 | [PG-Infrastructure](https://github.com/Junwu0615/PG-Infrastructure) | `GKE` `Kubernetes` `Terraform` `Ansible` `Docker` `Makefile` |
 | [PG-APP-Core](https://github.com/Junwu0615/PG-APP-Core) | `PG-Shared-Lib` `Python` |
 | [PG-Shared-Lib](https://github.com/Junwu0615/PG-Shared-Lib) | `EntryPoint` `Logger` `MqttServer`<br>`KafkaConsumerManager` `KafkaProducerManager` |
@@ -1425,11 +1427,12 @@ https://techicons.dev/icons
 <!-- Other -->
 | <div style='width: 230px'> Title </div> | <div style='width: 80px'> Clone </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--:|--|
-| [Other](https://github.com/Junwu0615/Other) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/038cbea264678dca58c487512512e747/raw/Other_clone.json&logo=github"> | ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white) |
+| [My-Win-Apps](https://github.com/Junwu0615/My-Win-Apps) | - | `security` `automation` `deployment` `powershell` `uac`<br>`sysadmin` `hardening` `devops-tools` `bitlocker` `bitwarden`<br>`clonezilla` `winget` `windows-11` `windows-config` |
 | [Git-Personal-Page](https://github.com/Junwu0615/Junwu0615) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/aeec191132bd47592ab9e5b9dcc38c4c/raw/Junwu0615_clone.json&logo=github"> | ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white) |
 | [How-To-Use-Clone-Shields](https://github.com/Junwu0615/How-To-Use-Clone-Shileds) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/aae1fe99b8a54ec42c617f4d973016ba/raw/How-To-Use-Clone-Shields_clone.json&logo=github"> | ![GitHub_Action](https://img.shields.io/badge/GitHub_Action-2088FF.svg?logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white) |
-| [LeetCode-Practice-Record](https://github.com/Junwu0615/LeetCode-Practice-Record) |  <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/33c314047426e606a5f15e5d3a88a3e4/raw/LeetCode-Practice-Record_clone.json&logo=github"> | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
+| [LeetCode-Practice-Record](https://github.com/Junwu0615/LeetCode-Practice-Record) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/33c314047426e606a5f15e5d3a88a3e4/raw/LeetCode-Practice-Record_clone.json&logo=github">  | ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
 | [ROI-Tool](https://github.com/Junwu0615/ROI-Tool) |  <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/6c605b43f1b9dcb93f9c7b6c1a5103ab/raw/ROI-Tool_clone.json&logo=github"> | ![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white) |
+| [Other](https://github.com/Junwu0615/Other) | <img alt="Clone" src="https://img.shields.io/badge/dynamic/json?color=success&label=Clone&query=count_total&url=https://gist.githubusercontent.com/Junwu0615/038cbea264678dca58c487512512e747/raw/Other_clone.json&logo=github"> | ![Git](https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white) |
 
 </td> </table>
 </details>
