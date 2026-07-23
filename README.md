@@ -1307,7 +1307,7 @@ https://techicons.dev/icons
 <td>
 
 <p align="center">
-  <img src="./assets/svg/Architecture-Diagram-v4.1.svg" style="background-color: #ffffff; padding: 1px; border-radius: 4px;" />
+  <img src="./assets/svg/Architecture-Diagram-v4.2.svg" style="background-color: #ffffff; padding: 1px; border-radius: 4px;" />
 </p>
 
 <!-- Platform Genesis Universe -->
