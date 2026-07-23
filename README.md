@@ -1311,21 +1311,22 @@ https://techicons.dev/icons
 </p>
 
 <!-- Platform Genesis Universe -->
-| <div style='width: 230px'> PG-Project </div> | <div style='width: 300px'> Tech Stack </div> |
+| <div style='width: 230px'> _**PG Project**_ </div> | <div style='width: 300px'> _**Tech Stack**_ </div> |
 |--|:--|
-| [Platform-Genesis](https://github.com/Junwu0615/Platform-Genesis) | `PG-Core` `PG-Synapse` `PG-Cortex` `PG-Sentinel` `PG-Analytics` |
+| [_**Platform Genesis**_](https://github.com/Junwu0615/Platform-Genesis) | `PG-Core` `PG-Synapse` `PG-Cortex` `PG-Sentinel` `PG-Analytics` |
 |  |  |
-| [PG-Core](https://github.com/Junwu0615/PG-Core) | `Kubernetes` `GitOps` `Observability` `Infrastructure as Code`<br>`Secrets Management` |
-| [PG-Synapse](https://github.com/Junwu0615/PG-Synapse) | `Airflow` `Kafka` `CDC` `Iceberg` `Lakehouse` |
-| [PG-Cortex](https://github.com/Junwu0615/PG-Cortex) | `MLflow` `Kubeflow` `Ray` `LLMOps` `Model Serving` |
-| [PG-Sentinel](https://github.com/Junwu0615/PG-Sentinel) | `AIOps` `Chaos Engineering` `Reliability` `Auto Remediation` |
+| [_**PG - Core**_](https://github.com/Junwu0615/PG-Core) | `Kubernetes` `GitOps` `Observability` `Infrastructure as Code`<br>`Secrets Management` |
+| [_**PG - Synapse**_](https://github.com/Junwu0615/PG-Synapse) | `Airflow` `Kafka` `CDC` `Iceberg` `Lakehouse` |
+| [_**PG - Cortex**_](https://github.com/Junwu0615/PG-Cortex) | `MLflow` `Kubeflow` `Ray` `LLMOps` `Model Serving` |
+| [_**PG - Sentinel**_](https://github.com/Junwu0615/PG-Sentinel) | `AIOps` `Chaos Engineering` `Reliability` `Auto Remediation` |
 |  |  |
-| [PG-Infrastructure](https://github.com/Junwu0615/PG-Infrastructure) | `GKE` `Kubernetes` `Terraform` `Ansible` `Docker` `Makefile` |
-| [PG-APP-Core](https://github.com/Junwu0615/PG-APP-Core) | `PG-Shared-Lib` `Python` |
-| [PG-Shared-Lib](https://github.com/Junwu0615/PG-Shared-Lib) | `EntryPoint` `Logger` `MqttServer`<br>`KafkaConsumerManager` `KafkaProducerManager` |
-| [PG-Edge-Container](https://github.com/Junwu0615/PG-Edge-Container) | `PG-APP-Core` `MQTT` `SQLite` |
-| [PG-Airflow-DAGs](https://github.com/Junwu0615/PG-Airflow-DAGs) | `Airflow` `DAGs` |
-| [PG-Analytics](https://github.com/Junwu0615/PG-Analytics) | `GitHub Traffic` `Repository Metrics` `Growth Trend`<br>`Historical Statistics` |
+| [_**PG - Infrastructure**_](https://github.com/Junwu0615/PG-Infrastructure) | `GKE` `Kubernetes` `Terraform` `Ansible` `Docker` `Makefile` |
+| [_**PG - APP-Core**_](https://github.com/Junwu0615/PG-APP-Core) | `PG-Shared-Lib` `Python` |
+| [_**PG - Shared-Lib**_](https://github.com/Junwu0615/PG-Shared-Lib) | `EntryPoint` `Logger` `MqttServer`<br>`KafkaConsumerManager` `KafkaProducerManager` |
+| [_**PG - Edge-Container**_](https://github.com/Junwu0615/PG-Edge-Container) | `PG-APP-Core` `MQTT` `SQLite` |
+| [_**PG - Airflow-DAGs**_](https://github.com/Junwu0615/PG-Airflow-DAGs) | `Airflow` `DAGs` |
+|  |  |
+| [_**PG - Analytics**_](https://github.com/Junwu0615/PG-Analytics) | `GitHub Traffic` `Repository Metrics` `Growth Trend`<br>`Historical Statistics` |
 
 </td> </table>
 
