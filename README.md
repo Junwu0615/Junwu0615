@@ -1306,6 +1306,10 @@ https://techicons.dev/icons
 <tr> <th> Platform Genesis Universe </th> </tr>
 <td>
 
+<p align="center">
+  <img src="./assets/svg/Architecture-Diagram-v4.1.svg" style="background-color: #ffffff; padding: 1px; border-radius: 4px;" />
+</p>
+
 <!-- Platform Genesis Universe -->
 | <div style='width: 230px'> PG-Project </div> | <div style='width: 300px'> Tech Stack </div> |
 |--|:--|
@@ -1315,13 +1319,13 @@ https://techicons.dev/icons
 | [PG-Synapse](https://github.com/Junwu0615/PG-Synapse) | `Airflow` `Kafka` `CDC` `Iceberg` `Lakehouse` |
 | [PG-Cortex](https://github.com/Junwu0615/PG-Cortex) | `MLflow` `Kubeflow` `Ray` `LLMOps` `Model Serving` |
 | [PG-Sentinel](https://github.com/Junwu0615/PG-Sentinel) | `AIOps` `Chaos Engineering` `Reliability` `Auto Remediation` |
-| [PG-Analytics](https://github.com/Junwu0615/PG-Analytics) | `GitHub Traffic` `Repository Metrics` `Growth Trend`<br>`Historical Statistics` |
 |  |  |
 | [PG-Infrastructure](https://github.com/Junwu0615/PG-Infrastructure) | `GKE` `Kubernetes` `Terraform` `Ansible` `Docker` `Makefile` |
 | [PG-APP-Core](https://github.com/Junwu0615/PG-APP-Core) | `PG-Shared-Lib` `Python` |
 | [PG-Shared-Lib](https://github.com/Junwu0615/PG-Shared-Lib) | `EntryPoint` `Logger` `MqttServer`<br>`KafkaConsumerManager` `KafkaProducerManager` |
 | [PG-Edge-Container](https://github.com/Junwu0615/PG-Edge-Container) | `PG-APP-Core` `MQTT` `SQLite` |
 | [PG-Airflow-DAGs](https://github.com/Junwu0615/PG-Airflow-DAGs) | `Airflow` `DAGs` |
+| [PG-Analytics](https://github.com/Junwu0615/PG-Analytics) | `GitHub Traffic` `Repository Metrics` `Growth Trend`<br>`Historical Statistics` |
 
 </td> </table>
 
