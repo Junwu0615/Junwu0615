@@ -1573,18 +1573,6 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
                 <img alt="Activity" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Junwu0615&theme=dracula">
             </td>
         </tr>
-        <tr>
-            <th> Top Languages </th>
-            <th> GitHub Stats </th>
-        </tr>
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junwu0615&hide=html&hide_border=true&layout=compact&langs_count=8&theme=dracula" alt="Top Languages">
-            </td>  
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=Junwu0615&hide_border=true&border_radius=15&show_icons=true&theme=dracula" alt="GitHub Stats">
-            </td>
-        </tr>
     </table> 
 </details>
 
