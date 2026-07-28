@@ -1478,17 +1478,17 @@ https://techicons.dev/icons
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-614%20hrs%2057%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-918.61%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-918.62%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 304.5 kB Used in GitHub's Storage 
  > 
-> 🏆 2,270 Contributions in the Year 2026
+> 🏆 2,274 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -1499,21 +1499,21 @@ https://techicons.dev/icons
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-🌆 Daytime                1001 commits        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-🌃 Evening                1647 commits        ██████████░░░░░░░░░░░░░░░   40.10 % 
-🌙 Night                  1086 commits        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+🌞 Morning                373 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+🌆 Daytime                1002 commits        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
+🌃 Evening                1648 commits        ██████████░░░░░░░░░░░░░░░   40.09 % 
+🌙 Night                  1088 commits        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   615 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-Tuesday                  512 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Wednesday                529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Thursday                 499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Friday                   619 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Saturday                 640 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Sunday                   693 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Monday                   617 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.01 % 
+Tuesday                  514 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Wednesday                529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Thursday                 499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Friday                   619 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.06 % 
+Saturday                 640 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Sunday                   693 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 ```
 
 
@@ -1523,17 +1523,23 @@ Sunday                   693 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 9 hrs 13 mins       █████████████░░░░░░░░░░░░   51.65 % 
-Python                   3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Text                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-YAML                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Makefile                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Markdown                 8 hrs 1 min         █████████████░░░░░░░░░░░░   53.94 % 
+Python                   3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   23.78 % 
+YAML                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+Text                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-PyCharm                  17 hrs 51 mins      █████████████████████████   100.00 % 
+PyCharm                  14 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 51 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 53 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -1549,7 +1555,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:34:29 UTC
+ Last Updated on 28/07/2026 02:50:36 UTC
 <!--END_SECTION:waka-->
 </details>
 
