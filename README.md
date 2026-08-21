@@ -1480,15 +1480,15 @@ https://techicons.dev/icons
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-619%20hrs%2028%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-920.45%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 302.9 kB Used in GitHub's Storage 
+> 📦 302.7 kB Used in GitHub's Storage 
  > 
-> 🏆 2,401 Contributions in the Year 2026
+> 🏆 2,405 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -1499,21 +1499,21 @@ https://techicons.dev/icons
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                381 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.99 % 
-🌆 Daytime                1033 commits        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-🌃 Evening                1687 commits        ██████████░░░░░░░░░░░░░░░   39.81 % 
-🌙 Night                  1137 commits        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+🌞 Morning                382 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+🌆 Daytime                1034 commits        ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+🌃 Evening                1688 commits        ██████████░░░░░░░░░░░░░░░   39.79 % 
+🌙 Night                  1138 commits        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   628 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Tuesday                  532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
-Wednesday                549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Thursday                 516 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Friday                   653 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Saturday                 654 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Sunday                   706 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Monday                   628 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.80 % 
+Tuesday                  532 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Wednesday                549 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Thursday                 519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+Friday                   654 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Saturday                 654 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+Sunday                   706 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
 ```
 
 
@@ -1523,14 +1523,13 @@ Sunday                   706 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   2 hrs 43 mins       █████████████████████████   99.27 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Python                   2 hrs 14 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 44 mins       █████████████████████████   100.00 % 
+PyCharm                  2 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -1552,7 +1551,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 01:27:06 UTC
+ Last Updated on 21/08/2026 01:37:10 UTC
 <!--END_SECTION:waka-->
 </details>
 
