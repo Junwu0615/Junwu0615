@@ -154,13 +154,11 @@ https://techicons.dev/icons
 | [_**PG - Synapse**_](https://github.com/Junwu0615/PG-Synapse) | `Airflow` `Kafka` `CDC` `Iceberg` `Lakehouse` |
 | [_**PG - Cortex**_](https://github.com/Junwu0615/PG-Cortex) | `MLflow` `Kubeflow` `Ray` `LLMOps` `Model Serving` |
 | [_**PG - Sentinel**_](https://github.com/Junwu0615/PG-Sentinel) | `AIOps` `Chaos Engineering` `Reliability` `Auto Remediation` |
-|  |  |
 | [_**PG - Infrastructure**_](https://github.com/Junwu0615/PG-Infrastructure) | `GKE` `Kubernetes` `Terraform` `Ansible` `Docker` `Makefile` |
 | [_**PG - APP-Core**_](https://github.com/Junwu0615/PG-APP-Core) | `PG-Shared-Lib` `Python` |
 | [_**PG - Shared-Lib**_](https://github.com/Junwu0615/PG-Shared-Lib) | `EntryPoint` `Logger` `MqttServer`<br>`KafkaConsumerManager` `KafkaProducerManager` |
 | [_**PG - Edge-Container**_](https://github.com/Junwu0615/PG-Edge-Container) | `PG-APP-Core` `MQTT` `SQLite` |
 | [_**PG - Airflow-DAGs**_](https://github.com/Junwu0615/PG-Airflow-DAGs) | `Airflow` `DAGs` |
-|  |  |
 | [_**PG - Analytics**_](https://github.com/Junwu0615/PG-Analytics) | `GitHub Traffic` `Repository Metrics` `Growth Trend`<br>`Historical Statistics` |
 
 </td> </table>
