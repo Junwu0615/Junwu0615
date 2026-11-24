@@ -99,15 +99,6 @@
                 <img alt="leetcode stat" align="center" src="https://leetcard.jacoblin.cool/Ping_Chun?ext=heatmap"/>
             </td>
         </tr>
-        <tr>
-            <th> Me </th>
-        </tr>
-        <tr>
-            <td>
-                <p align="center">
-                  <img alt="my brain" height="180" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"/>
-                </p>
-        </tr>
     </table> 
 </details>
 
