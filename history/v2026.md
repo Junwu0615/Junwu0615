@@ -148,10 +148,8 @@ https://techicons.dev/icons
 </p>
 
 <!-- Platform Genesis Universe -->
-| <div style='width: 230px'> _**PG Project**_ </div> | <div style='width: 300px'> _**Tech Stack**_ </div> |
-|--|:--|
-| [_**Platform Genesis**_](https://github.com/Junwu0615/Platform-Genesis) | `PG-Core` `PG-Synapse` `PG-Cortex` `PG-Sentinel` `PG-Analytics` |
-|  |  |
+| <div style='width: 230px'> [_**Platform Genesis**_](https://github.com/Junwu0615/Platform-Genesis) </div> | <div style='width: 300px'> _**Tech Stack**_ </div> |
+|:--|:--|
 | [_**PG - Core**_](https://github.com/Junwu0615/PG-Core) | `Kubernetes` `GitOps` `Observability` `Infrastructure as Code`<br>`Secrets Management` |
 | [_**PG - Synapse**_](https://github.com/Junwu0615/PG-Synapse) | `Airflow` `Kafka` `CDC` `Iceberg` `Lakehouse` |
 | [_**PG - Cortex**_](https://github.com/Junwu0615/PG-Cortex) | `MLflow` `Kubeflow` `Ray` `LLMOps` `Model Serving` |
