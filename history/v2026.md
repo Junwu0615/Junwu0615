@@ -1,69 +1,4 @@
-<!-- 
-SOMETHING SOURCE
-https://github.com/abhisheknaiidu/awesome-github-profile-readme
-https://simpleicons.org/
-https://emojipedia.org/bar-chart
-https://icons8.com/icons
-https://github.com/aleen42/badges
-https://www.base64-image.de/
-shields.io: https://shields.io/docs/logos
-ASCII Art Generator: https://patorjk.com/software/taag/#p=display&f=BlurVision%20ASCII&t=PING%20CHUN
-Font Name: Graffiti Larry 3D, Merlin1, Ogre, Calvin S, Cyberlarge, Isometric3, Slant, Lean, Kban,  JS Cursive
-https://techstack-generator.vercel.app/
-https://skillicons.dev/
-https://github.com/tandpfun/skill-icons#readme
-https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/tree/main?tab=readme-ov-file
-https://techicons.dev/icons
--->
-
-<img alt="waving1" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ping%20Chun&desc=Building%20Reliable%20Systems%20That%20Bridge%20Data%20And%20Automation.&fontAlignY=30&fontSize=70&fontAlign=50&textBg=false&animation=fadeIn">
-
-<!-- shield.io
-<div align="center">
-[![Hello Visitor](https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615&title=Hello%20Visitor)](https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615)
-[![Dashboard](https://img.shields.io/badge/-My%20Dashboard-167C80?style=flat&logo=streamlit&logoColor=white&link=https://pc-dashboard.streamlit.app/)](https://pc-dashboard.streamlit.app/)
-[![Mail Badge](https://img.shields.io/badge/-jun.audis5@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jun.audis5@gmail.com)](mailto:jun.audis5@gmail.com)
-</div>
--->
-
-<!--
-<div align="center">
-    <table>
-        <tr>
-          <td align="center">
-            <img src="https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615&color=blueviolet&title=Hello%20Visitor" alt="Hello Visitor" width="150" height="23">
-          </td>
-          <td align="center">
-            <a href="https://pc-dashboard.streamlit.app/" target="_blank">
-              <img src="https://img.shields.io/badge/My_Dashboard-E42C51?style=for-the-badge&logoColor=white" alt="Dashboard">
-            </a>
-          </td>
-        </tr>
-    </table>
-</div>
-
-<div align="center">
-    <table>
-        <tr>
-          <td align="center">
-            <a href="mailto:jun.audis5@gmail.com" target="_blank">
-              <img src="https://img.shields.io/badge/Gmail-DB3729?style=for-the-badge&logoColor=white" alt="Gmail">
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://www.cake.me/me/Ping-Chun-Wu" target="_blank">
-              <img src="https://img.shields.io/badge/Cake-14AE5C?style=for-the-badge&logoColor=white" alt="Cake">
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://www.linkedin.com/in/pc-wu-16a1602a7/" target="_blank">
-              <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logoColor=white" alt="LinkedIn">
-            </a>
-          </td>
-        </tr>
-    </table>
-</div>
--->
+<img alt="waving1" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Ping%20Chun&desc=Platform%20Engineering%20Through%20Evolution,%20Not%20Accumulation&fontAlignY=30&fontSize=70&fontAlign=50&textBg=false&animation=fadeIn">
 
 <div align="center">
     <table>
@@ -111,22 +46,8 @@ https://techicons.dev/icons
 
 <img alt="waving2" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 
-<!-- 
-![PNG](./other/name.PNG)
--->
-
 <br>
 
-<!-- Introduction
-<p align="center">
-    <a href="https://github.com/Junwu0615">
-        <img src="https://readme-typing-svg.demolab.com?font=Handlee&center=true&vCenter=true&duration=1800&pause=1000&multiline=true&size=25&width=860&height=150&lines=2020+:+Shih+Chien+University+-+IM+;2023+:+Feng+Chia+University+-+CSIE;2024+:+Data+Scientist+(+Hsinchu+);2025+:+???;" alt="Typing SVG"/>
-    </a>
-</p>
-<br>
--->
-
-<!-- Greedy Snake: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 <p align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Junwu0615/Junwu0615/output/github-contribution-grid-snake-dark.svg">
@@ -140,7 +61,7 @@ https://techicons.dev/icons
 <br><br>
 
 <table width='1000' align="center">
-<tr> <th> Platform Genesis Universe </th> </tr>
+<tr> <th> <a href="https://github.com/Junwu0615/Platform-Genesis">Platform Genesis Universe</a> </th> </tr>
 <td>
 
 <p align="center">
@@ -148,7 +69,7 @@ https://techicons.dev/icons
 </p>
 
 <!-- Platform Genesis Universe -->
-| <div style='width: 230px'> [_**Platform Genesis**_](https://github.com/Junwu0615/Platform-Genesis) </div> | <div style='width: 300px'> _**Tech Stack**_ </div> |
+| <div style='width: 230px'> _**Sub-Project**_ </div> | <div style='width: 300px'> _**Tech Stack**_ </div> |
 |:--|:--|
 | [_**PG - Core**_](https://github.com/Junwu0615/PG-Core) | `Kubernetes` `GitOps` `Observability` `Infrastructure as Code`<br>`Secrets Management` |
 | [_**PG - Synapse**_](https://github.com/Junwu0615/PG-Synapse) | `Airflow` `Kafka` `CDC` `Iceberg` `Lakehouse` |
