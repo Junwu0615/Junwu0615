@@ -20,7 +20,7 @@
             <img alt="Hello Visitor" width="150" height="22" src="https://visitor-badge.laobi.icu/badge?page_id=Junwu0615.Junwu0615&color=blueviolet&title=Hello%20Visitor">
           </td>
           <td align="center">
-            <a href="https://junwu0615.github.io/Junwu0615/" target="_blank">
+            <a href="https://junwu0615.github.io" target="_blank">
               <img src="https://img.shields.io/badge/Portfolio-E42C51?style=for-the-badge&logoColor=white" alt="Portfolio">
             </a>
           </td>
