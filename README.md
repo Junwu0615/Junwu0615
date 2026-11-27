@@ -111,9 +111,11 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-620%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-623%20hrs%2031%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-45%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-932.79%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -121,7 +123,7 @@
 
 > 📦 311.4 kB Used in GitHub's Storage 
  > 
-> 🏆 2,743 Contributions in the Year 2026
+> 🏆 2,745 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -132,21 +134,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                474 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-🌆 Daytime                1111 commits        ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-🌃 Evening                1759 commits        ██████████░░░░░░░░░░░░░░░   38.41 % 
-🌙 Night                  1236 commits        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+🌞 Morning                475 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
+🌆 Daytime                1111 commits        ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+🌃 Evening                1760 commits        ██████████░░░░░░░░░░░░░░░   38.41 % 
+🌙 Night                  1236 commits        ███████░░░░░░░░░░░░░░░░░░   26.98 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   676 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Tuesday                  571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Monday                   676 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Tuesday                  571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
 Wednesday                607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Thursday                 570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Friday                   698 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
-Saturday                 702 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Sunday                   756 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Thursday                 571 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   699 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+Saturday                 702 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Sunday                   756 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
 ```
 
 
@@ -156,25 +158,25 @@ Sunday                   756 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Markdown                 1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   38.85 % 
-HTML                     1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   34.10 % 
-Text                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
-GitIgnore file           21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+HTML                     2 hrs 4 mins        ████████████░░░░░░░░░░░░░   47.76 % 
+Markdown                 1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+Text                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+GitIgnore file           21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 17 mins       █████████████████████████   100.00 % 
+PyCharm                  4 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (23.09%)
+⏱ AI Coding Time: 45 mins (17.6%)
 
-✍️ 0 lines written by AI, 425 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 469 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -202,7 +204,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2026 07:37:20 UTC
+ Last Updated on 27/11/2026 07:34:56 UTC
 <!--END_SECTION:waka-->
 </details>
 
